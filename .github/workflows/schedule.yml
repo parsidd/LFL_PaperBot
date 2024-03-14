@@ -44,5 +44,5 @@ jobs:
           GIT_AUTHOR_EMAIL: action@github.com
           GIT_COMMITTER_EMAIL: action@github.com
           # Ensure the git commands use the PAT
-          GIT_HTTPS_USERNAME: LFL-Lab # update this
+          GIT_HTTPS_USERNAME: parsidd # update this to username where the repo has been forked
           GIT_HTTPS_PASSWORD: ${{secrets.GH_PAT}} # update this
