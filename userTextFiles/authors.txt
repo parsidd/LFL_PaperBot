@@ -11,9 +11,13 @@ J. Martinis
 David Schuster
 D. Schuster
 William D. Oliver
-William Oliver, W. Oliver, W.D. Oliver
+William Oliver
+W. Oliver
+W.D. Oliver
 Andrew A. Houck
-Andrew Houck, A. Houck, A.A. Houck
+Andrew Houck
+A. Houck
+A.A. Houck
 Kater W. Murch
 Kater Murch
 K. Murch
@@ -117,3 +121,31 @@ Landry Bretheau
 L. Bretheau
 Daniel Sank
 D. Sank
+R. McDermott
+Robert McDermott
+Britton Plourde
+B.L.T. Plourde
+Konrad Lehnert
+K. Lehnert
+K.W. Lehnert
+Cindy Regal
+C. Regal
+Vladimir Manucharyan
+V. Manucharyan
+Jens Koch
+J. Koch
+Hong Tang
+Hong X. Tang
+H.X. Tang
+Peter Rakich
+P.T. Rakich
+Yiwen Chu
+Jürgen Lisenfeld
+J. Lisenfeld
+Alexey Ustinov
+A. Ustinov
+A.V. Ustinov
+Oskar Painter
+O. Painter
+Alp Sipahigil
+A. Sipahigil
