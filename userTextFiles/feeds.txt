@@ -1,3 +1,4 @@
 https://arxiv.org/rss/quant-ph
 http://www.nature.com/nphys/current_issue/rss
 http://feeds.aps.org/rss/recent/prl.xml
+http://feeds.aps.org/rss/recent/prx.xml
