@@ -42,3 +42,7 @@ Control of an environmental spin defect beyond the coherence limit of a central 
 Single-Atom Amplification Assisted by Multiple Sideband Interference in 1D Waveguide QED Systems
 Effective versus Floquet theory for the Kerr parametric oscillator
 Observation of discrete charge states of a coherent two-level system in a superconducting qubit
+The effect of niobium thin film structure on losses in superconducting circuits
+Strong mechanical squeezing in a microcavity with double quantum wells
+Gate-Compatible Circuit Quantum Electrodynamics in a Three-Dimensional Cavity Architecture
+Demonstrating a Long-Coherence Dual-Rail Erasure Qubit Using Tunable Transmons
