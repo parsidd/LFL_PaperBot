@@ -46,3 +46,11 @@ The effect of niobium thin film structure on losses in superconducting circuits
 Strong mechanical squeezing in a microcavity with double quantum wells
 Gate-Compatible Circuit Quantum Electrodynamics in a Three-Dimensional Cavity Architecture
 Demonstrating a Long-Coherence Dual-Rail Erasure Qubit Using Tunable Transmons
+Single-Shot Readout and Weak Measurement of a Tin-Vacancy Qubit in Diamond
+Tensor Quantum Programming
+Experimental fault-tolerant code switching
+Demonstrating a long-coherence dual-rail erasure qubit using tunable transmons
+Quantum stabilizer formalism for any composite system
+Superconducting processor design optimization for quantum error correction performance
+Quantum dynamical maps for single-qubit gates under non-Markovian phase noise
+A multiplexed control architecture for superconducting qubits with row-column addressing
