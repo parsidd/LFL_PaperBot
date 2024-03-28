@@ -84,3 +84,7 @@ Depth-Optimal Addressing of 2D Qubit Array with 1D Controls Based on Exact Binar
 Compilation of a simple chemistry application to quantum error correction primitives
 Strong Thermomechanical Noise Squeezing Stabilized by Feedback
 Conditional-<span class="sc">not</span> Displacement: Fast Multioscillator Control with a Single Qubit
+Squeezing below the ground state of motion of a continuously monitored levitating nanoparticle
+Probing the quantum nature of gravity using a Bose-Einstein condensate; "Erste Abhandlung"
+Optimization tools for distance-preserving flag fault-tolerant error correction
+Tangling schedules eases hardware connectivity requirements for quantum error correction
