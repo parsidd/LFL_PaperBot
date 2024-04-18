@@ -149,3 +149,5 @@ A spin-refrigerated cavity quantum electrodynamic sensor
 Quantum Simulation of Open Quantum Dynamics via Non-Markovian Quantum State Diffusion
 Minimal-noise estimation of noncommuting rotations of a spin
 Ultra-relativistic quark-nucleus scattering on quantum computers
+Fault-tolerant quantum computing with the parity code and noise-biased qubits
+Entanglement Entropy of a Scalar Field in a Squeezed State
