@@ -151,3 +151,9 @@ Minimal-noise estimation of noncommuting rotations of a spin
 Ultra-relativistic quark-nucleus scattering on quantum computers
 Fault-tolerant quantum computing with the parity code and noise-biased qubits
 Entanglement Entropy of a Scalar Field in a Squeezed State
+Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms
+Parametrically-controlled microwave-photonic interface for the fluxonium
+Tailoring Fault-Tolerance to Quantum Algorithms
+Dynamically enhancing qubit-photon interactions with anti-squeezing
+Leakage Benchmarking for Universal Gate Sets
+Error analysis of bit-flip qubits under random telegraph noise for low and high temperature measurement application
