@@ -157,3 +157,10 @@ Tailoring Fault-Tolerance to Quantum Algorithms
 Dynamically enhancing qubit-photon interactions with anti-squeezing
 Leakage Benchmarking for Universal Gate Sets
 Error analysis of bit-flip qubits under random telegraph noise for low and high temperature measurement application
+Characterizing Coherent Errors using Matrix-Element Amplification
+Qubit-assisted quantum metrology
+Erasure-tolerance protocol for the surface codes on Rydberg atomic quantum computers
+Nonclassicality in Two-Mode Stabilized Squeezed Coherent State: Quantum-to-Classical transition
+High-rate quantum LDPC codes for long-range-connected neutral atom registers
+Quantum Imaging Beyond the Standard-Quantum Limit and Phase Distillation
+Anharmonic Effects on the Squeezing of Axion Perturbations
