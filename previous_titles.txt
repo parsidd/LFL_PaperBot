@@ -164,3 +164,7 @@ Nonclassicality in Two-Mode Stabilized Squeezed Coherent State: Quantum-to-Class
 High-rate quantum LDPC codes for long-range-connected neutral atom registers
 Quantum Imaging Beyond the Standard-Quantum Limit and Phase Distillation
 Anharmonic Effects on the Squeezing of Axion Perturbations
+Lattice Surgery for Dummies
+Mechanical quadrature squeezing beyond the 3dB limit via quantum learning control
+Nanomechanical ancilla qubits generator for error correction algorithms in quantum computation
+High-coherence superconducting qubits made using industry-standard, advanced semiconductor manufacturing
