@@ -168,3 +168,5 @@ Lattice Surgery for Dummies
 Mechanical quadrature squeezing beyond the 3dB limit via quantum learning control
 Nanomechanical ancilla qubits generator for error correction algorithms in quantum computation
 High-coherence superconducting qubits made using industry-standard, advanced semiconductor manufacturing
+Distributed Architecture for FPGA-based Superconducting Qubit Control
+DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting
