@@ -170,3 +170,7 @@ Nanomechanical ancilla qubits generator for error correction algorithms in quant
 High-coherence superconducting qubits made using industry-standard, advanced semiconductor manufacturing
 Distributed Architecture for FPGA-based Superconducting Qubit Control
 DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting
+Limitations in Fluorescence-Detected Entangled Two-Photon-Absorption Experiments: Exploring the Low- to High-Gain Squeezing Regimes
+High-Coherence Kerr-cat qubit in 2D architecture
+High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transversal Gates and Lattice Surgery on a Trapped-ion Quantum Computer
+Autoparametric Resonance Extending the Bit-Flip Time of a Cat Qubit up to 0.3 s
