@@ -174,3 +174,5 @@ Limitations in Fluorescence-Detected Entangled Two-Photon-Absorption Experiments
 High-Coherence Kerr-cat qubit in 2D architecture
 High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transversal Gates and Lattice Surgery on a Trapped-ion Quantum Computer
 Autoparametric Resonance Extending the Bit-Flip Time of a Cat Qubit up to 0.3 s
+Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem
+From Qubits to Opinions: Operator and Error Syndrome Measurement in Quantum-Inspired Social Simulations on Transversal Gates
