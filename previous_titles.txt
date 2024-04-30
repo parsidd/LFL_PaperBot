@@ -176,3 +176,13 @@ High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transver
 Autoparametric Resonance Extending the Bit-Flip Time of a Cat Qubit up to 0.3 s
 Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem
 From Qubits to Opinions: Operator and Error Syndrome Measurement in Quantum-Inspired Social Simulations on Transversal Gates
+A quantum annealing approach to minimum distance problem
+High-fidelity $\sqrt{i\text{SWAP}}$ gates using a fixed coupler driven by two microwave pulses
+Single-Photon-Subtracted-Squeezed-Vacuum-State Based Postselected Weak Measurement and its Applications
+A SAT Scalpel for Lattice Surgery: Representation and Synthesis of Subroutines for Surface-Code Fault-Tolerant Quantum Computing
+Tunable coupling of a quantum phononic resonator to a transmon qubit with flip-chip architecture
+How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?
+An entanglement-enhanced atomic gravimeter
+Quantum Benchmarking via Random Dynamical Quantum Maps
+Decoherence induced by a sparse bath of two-level fluctuators: peculiar features of $1/f$ noise in high-quality qubits
+A Strategy for Preparing Quantum Squeezed States Using Reinforcement Learning
