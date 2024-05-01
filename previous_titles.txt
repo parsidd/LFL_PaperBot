@@ -186,3 +186,8 @@ An entanglement-enhanced atomic gravimeter
 Quantum Benchmarking via Random Dynamical Quantum Maps
 Decoherence induced by a sparse bath of two-level fluctuators: peculiar features of $1/f$ noise in high-quality qubits
 A Strategy for Preparing Quantum Squeezed States Using Reinforcement Learning
+Boosting generation rate of squeezed single-photon states by generalized photon subtraction
+A simple method for compiling quantum stabilizer circuits
+Many-body quantum register for a spin qubit
+Enhanced twist-and-turn dynamics of spin squeezing in internal bosonic Josephson junctions
+Operational Markovianization in Randomized Benchmarking
