@@ -191,3 +191,11 @@ A simple method for compiling quantum stabilizer circuits
 Many-body quantum register for a spin qubit
 Enhanced twist-and-turn dynamics of spin squeezing in internal bosonic Josephson junctions
 Operational Markovianization in Randomized Benchmarking
+A quantum neural network framework for scalable quantum circuit approximation of unitary matrices
+Averting multi-qubit burst errors in surface code magic state factories
+Quantum thermodynamics of the Caldeira-Leggett model with non-equilibrium Gaussian reservoirs
+QUACK: Quantum Aligned Centroid Kernel
+Expanding the Horizon: Enabling Hybrid Quantum Transfer Learning for Long-Tailed Chest X-Ray Classification
+Direct detection of down-converted photons spontaneously produced at a single Josephson junction
+Qubit dephasing by spectrally diffusing quantum two-level systems
+Control Requirements and Benchmarks for Quantum Error Correction
