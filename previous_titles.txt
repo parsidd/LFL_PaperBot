@@ -199,3 +199,9 @@ Expanding the Horizon: Enabling Hybrid Quantum Transfer Learning for Long-Tailed
 Direct detection of down-converted photons spontaneously produced at a single Josephson junction
 Qubit dephasing by spectrally diffusing quantum two-level systems
 Control Requirements and Benchmarks for Quantum Error Correction
+How much entanglement is needed for quantum error correction?
+On-demand shaped photon emission based on a parametrically modulated qubit
+Driven Multiphoton Qubit-Resonator Interactions
+Design and execution of quantum circuits using tens of superconducting qubits and thousands of gates for dense Ising optimization problems
+Single-photon induced instabilities in a cavity electromechanical device
+Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling
