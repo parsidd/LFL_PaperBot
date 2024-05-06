@@ -205,3 +205,8 @@ Driven Multiphoton Qubit-Resonator Interactions
 Design and execution of quantum circuits using tens of superconducting qubits and thousands of gates for dense Ising optimization problems
 Single-photon induced instabilities in a cavity electromechanical device
 Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling
+Quantum Circuit Learning on NISQ Hardware
+Strategies for implementing quantum error correction in molecular rotation
+Probing single electrons across 300 mm spin qubit wafers
+Decoding algorithms for surface codes
+Polylogarithmic-depth controlled-NOT gates without ancilla qubits
