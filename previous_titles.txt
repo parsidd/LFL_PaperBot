@@ -210,3 +210,6 @@ Strategies for implementing quantum error correction in molecular rotation
 Probing single electrons across 300 mm spin qubit wafers
 Decoding algorithms for surface codes
 Polylogarithmic-depth controlled-NOT gates without ancilla qubits
+Flux-Tunable Regimes and Supersymmetry in Twisted Cuprate Heterostructures
+Spatially parallel decoding for multi-qubit lattice surgery
+Erasure-tolerance scheme for the surface codes on Rydberg atomic quantum computers
