@@ -213,3 +213,13 @@ Polylogarithmic-depth controlled-NOT gates without ancilla qubits
 Flux-Tunable Regimes and Supersymmetry in Twisted Cuprate Heterostructures
 Spatially parallel decoding for multi-qubit lattice surgery
 Erasure-tolerance scheme for the surface codes on Rydberg atomic quantum computers
+Early Fault-Tolerant Quantum Algorithms in Practice: Application to Ground-State Energy Estimation
+Mitigating errors in logical qubits
+Protecting quantum gates from arbitrary single- and two-qubit errors
+Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies
+Large mechanical squeezing through synthetic magnetism in optomechanics
+Epitaxial {\alpha}-Ta (110) film on a-plane sapphire substrate for superconducting qubits on wafer scale
+Quantum enhanced balanced heterodyne readout for differential interferometry
+Strong broadband intensity noise squeezing from near-infrared to terahertz frequencies in semiconductor lasers with nonlinear dissipation
+Fabrication of Al/AlOx/Al junctions with high uniformity and stability on sapphire substrates
+High-quality superconducting {\alpha}-Ta film sputtered on heated silicon substrate
