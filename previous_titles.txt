@@ -229,3 +229,9 @@ Multimode amplitude squeezing through cascaded nonlinear optical processes
 Probing Quantum Telecloning on Superconducting Quantum Processors
 Qplacer: Frequency-Aware Component Placement for Superconducting Quantum Computers
 Quantum Sensing of Antiferromagnetic Magnon Two-Mode Squeezed Vacuum
+Characterization of errors in a CNOT between surface code patches
+Achieving millisecond coherence fluxonium through overlap Josephson junctions
+Sudden change of interferometric power for X shape states
+Self-correcting GKP qubit and gates in a driven-dissipative circuit
+Quantum Computing - A new scientific revolution in the making
+Robustness of the projected squeezed state protocol
