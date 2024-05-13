@@ -235,3 +235,5 @@ Sudden change of interferometric power for X shape states
 Self-correcting GKP qubit and gates in a driven-dissipative circuit
 Quantum Computing - A new scientific revolution in the making
 Robustness of the projected squeezed state protocol
+Arctic: A Field Programmable Quantum Array Scheduling Technique
+Quantum Optics with Recoiled Free Electrons
