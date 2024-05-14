@@ -237,3 +237,13 @@ Quantum Computing - A new scientific revolution in the making
 Robustness of the projected squeezed state protocol
 Arctic: A Field Programmable Quantum Array Scheduling Technique
 Quantum Optics with Recoiled Free Electrons
+FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects
+Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes
+Fault-Tolerant Quantum LDPC Encoders
+ZX Graphical Calculus for Continuous-Variable Quantum Processes
+Memory-corrected quantum repeaters with adaptive syndrome identification
+Quantum Computation Using Large Spin Qudits
+Suppression of quasiparticle poisoning in transmon qubits by gap engineering
+Scalable multi-qubit intrinsic gates in quantum dot arrays
+Entanglement Assisted Probe of the Non-Markovian to Markovian Transition in Open Quantum System Dynamics
+Measurement of Small Photon Numbers in Circuit QED Resonators
