@@ -247,3 +247,10 @@ Suppression of quasiparticle poisoning in transmon qubits by gap engineering
 Scalable multi-qubit intrinsic gates in quantum dot arrays
 Entanglement Assisted Probe of the Non-Markovian to Markovian Transition in Open Quantum System Dynamics
 Measurement of Small Photon Numbers in Circuit QED Resonators
+An Abstract Model and Efficient Routing for Logical Entangling Gates on Zoned Neutral Atom Architectures
+Sharing Quantum Steering via Standard Projective Measurements
+The Bell Based Super Coherent States. Uncertainty Relations, Golden Ratio and Fermion-Boson Entanglement
+A new twist on the Majorana surface code: Bosonic and fermionic defects for fault-tolerant quantum computation
+Magic of quantum hypergraph states
+Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method
+Entanglement assisted probe of the non-Markovian to Markovian transition in open quantum system dynamics
