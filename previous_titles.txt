@@ -254,3 +254,7 @@ A new twist on the Majorana surface code: Bosonic and fermionic defects for faul
 Magic of quantum hypergraph states
 Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method
 Entanglement assisted probe of the non-Markovian to Markovian transition in open quantum system dynamics
+Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout
+Demonstrating a universal logical gate set on a superconducting quantum processor
+Equivalence of flexible stripline and coaxial cables for superconducting qubit control and readout pulses
+Quantum simulation of dissipation for Maxwell equations in dispersive media
