@@ -258,3 +258,7 @@ Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout
 Demonstrating a universal logical gate set on a superconducting quantum processor
 Equivalence of flexible stripline and coaxial cables for superconducting qubit control and readout pulses
 Quantum simulation of dissipation for Maxwell equations in dispersive media
+Generalized Conditional Displacement
+Blueprint for all-to-all connected superconducting spin qubits
+Fault Tolerance Embedded in a Quantum-Gap-Estimation Algorithm with Trial-State Optimization
+Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity
