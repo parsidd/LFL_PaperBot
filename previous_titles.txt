@@ -262,3 +262,7 @@ Generalized Conditional Displacement
 Blueprint for all-to-all connected superconducting spin qubits
 Fault Tolerance Embedded in a Quantum-Gap-Estimation Algorithm with Trial-State Optimization
 Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity
+Exponential improvements in the simulation of lattice gauge theories using near-optimal techniques
+Resource-Efficient Hybrid Quantum-Classical Simulation Algorithm
+Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning
+Coexistence of Nonequilibrium Density and Equilibrium Energy Distribution of Quasiparticles in a Superconducting Qubit
