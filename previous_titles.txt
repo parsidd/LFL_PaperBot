@@ -266,3 +266,11 @@ Exponential improvements in the simulation of lattice gauge theories using near-
 Resource-Efficient Hybrid Quantum-Classical Simulation Algorithm
 Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning
 Coexistence of Nonequilibrium Density and Equilibrium Energy Distribution of Quasiparticles in a Superconducting Qubit
+Symmetrically Threaded SQUIDs As Next Generation Kerr-cat Qubits
+Ion-Based Quantum Computing Hardware: Performance and End-User Perspective
+Model-Based Qubit Noise Spectroscopy
+Exact Results for a Boundary-Driven Double Spin Chain and Resource-Efficient Remote Entanglement Stabilization
+Quantum coherent and measurement feedback control based on atoms coupled with a semi-infinite waveguide
+Thresholds for the distributed surface code in the presence of memory decoherence
+Heralded single-photon source based on superpositions of squeezed states
+Optimized mechanical quadrature squeezing beyond the 3 dB limit via gradient-descent algorithm
