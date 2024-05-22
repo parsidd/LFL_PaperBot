@@ -274,3 +274,6 @@ Quantum coherent and measurement feedback control based on atoms coupled with a 
 Thresholds for the distributed surface code in the presence of memory decoherence
 Heralded single-photon source based on superpositions of squeezed states
 Optimized mechanical quadrature squeezing beyond the 3 dB limit via gradient-descent algorithm
+Theory of fractional quantum Hall liquids coupled to quantum light and emergent graviton-polaritons
+Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators
+Non-adiabatic holonomic quantum operations in continuous variable systems
