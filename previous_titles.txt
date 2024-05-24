@@ -277,3 +277,13 @@ Optimized mechanical quadrature squeezing beyond the 3 dB limit via gradient-des
 Theory of fractional quantum Hall liquids coupled to quantum light and emergent graviton-polaritons
 Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators
 Non-adiabatic holonomic quantum operations in continuous variable systems
+Nonreciprocal Superradiant Phase Transitions and Multicriticality in a Cavity QED System
+Qudit generalization of the qubit echo and its application to a qutrit-based Toffoli gate
+Qubit-efficient Variational Quantum Algorithms for Image Segmentation
+Controlling dephasing of coupled qubits via shared-bath coherence
+Two-level system hyperpolarization using a quantum Szilard engine
+Cross-cap defects and fault-tolerant logical gates in the surface code and the honeycomb Floquet code
+Maximizing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair
+Majorana modes in trapped-ion system and their Floquet engineering
+Simple, High Saturation Power, Quantum-limited, RF SQUID Array-based Josephson Parametric Amplifiers
+Cosmological complexity of the modified dispersion relation
