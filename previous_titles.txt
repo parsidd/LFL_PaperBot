@@ -287,3 +287,8 @@ Maximizing the Yield of Bucket Brigade Quantum Random Access Memory using Redund
 Majorana modes in trapped-ion system and their Floquet engineering
 Simple, High Saturation Power, Quantum-limited, RF SQUID Array-based Josephson Parametric Amplifiers
 Cosmological complexity of the modified dispersion relation
+Parametrically controlled chiral interface for superconducting quantum devices
+Dynamically corrected gates in silicon singlet-triplet spin qubits
+Parameterization and optimizability of pulse-level VQEs
+Error Crafting in Probabilistic Quantum Gate Synthesis
+Fast adiabatic preparation of multi-squeezed states by jumping along the path
