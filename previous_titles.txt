@@ -292,3 +292,9 @@ Dynamically corrected gates in silicon singlet-triplet spin qubits
 Parameterization and optimizability of pulse-level VQEs
 Error Crafting in Probabilistic Quantum Gate Synthesis
 Fast adiabatic preparation of multi-squeezed states by jumping along the path
+Cyclic Quantum Teleportation of Two-Qubit Entangled States by using Six-Qubit Cluster State and Six-Qubit Entangled State
+Multi-qubit Lattice Surgery Scheduling
+Quantum-Classical Autoencoder Architectures for End-to-End Radio Communication
+Evaluating radiation impact on transmon qubits in above and underground facilities
+Optimizing one-axis twists for variational Bayesian quantum metrology
+Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits
