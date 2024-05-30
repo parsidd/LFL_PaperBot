@@ -298,3 +298,10 @@ Quantum-Classical Autoencoder Architectures for End-to-End Radio Communication
 Evaluating radiation impact on transmon qubits in above and underground facilities
 Optimizing one-axis twists for variational Bayesian quantum metrology
 Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits
+Chiral quantum heating and cooling with an optically controlled ion
+Quantum Optimal Control of Squeezing in Cavity Optomechanics
+Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes
+Characterising semi-Clifford gates using algebraic sets
+Analysis of spin-squeezing generation in cavity-coupled atomic ensembles with continuous measurements
+Concatenating Binomial Codes with the Planar Code
+Beating the Standard Quantum Limit Electronic Field Sensing by Simultaneously Using Quantum Entanglement and Squeezing
