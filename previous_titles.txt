@@ -305,3 +305,11 @@ Characterising semi-Clifford gates using algebraic sets
 Analysis of spin-squeezing generation in cavity-coupled atomic ensembles with continuous measurements
 Concatenating Binomial Codes with the Planar Code
 Beating the Standard Quantum Limit Electronic Field Sensing by Simultaneously Using Quantum Entanglement and Squeezing
+Parity-dependent state transfer for direct entanglement generation
+Investigating pump harmonics generation in a SNAIL-based Traveling Wave Parametric Amplifier
+Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics
+Atomistic compositional details and their importance for spin qubits in isotope-purified silicon-germanium quantum wells
+Bases for optimising stabiliser decompositions of quantum states
+Unified linear response theory of quantum electronic circuits
+Single-electron qubits based on quantum ring states on solid neon surface
+Controllable Andreev Bound States in Bilayer Graphene Josephson Junctions from Short to Long Junction Limits
