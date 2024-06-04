@@ -315,3 +315,7 @@ Single-electron qubits based on quantum ring states on solid neon surface
 Controllable Andreev Bound States in Bilayer Graphene Josephson Junctions from Short to Long Junction Limits
 Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit
 Interferometry of quantum correlation functions to access quasiprobability distribution of work
+A Near Quantum Limited Sub-GHz TiN Kinetic Inductance Traveling Wave Parametric Amplifier Operating in a Frequency Translating Mode
+Incompressible Navier-Stokes solve on noisy quantum hardware via a hybrid quantum-classical scheme
+Tuneable entangled photon pair generation in a liquid crystal
+Efficient Initialization of Fluxonium Qubits based on Auxiliary Energy Levels
