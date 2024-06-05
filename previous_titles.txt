@@ -319,3 +319,8 @@ A Near Quantum Limited Sub-GHz TiN Kinetic Inductance Traveling Wave Parametric 
 Incompressible Navier-Stokes solve on noisy quantum hardware via a hybrid quantum-classical scheme
 Tuneable entangled photon pair generation in a liquid crystal
 Efficient Initialization of Fluxonium Qubits based on Auxiliary Energy Levels
+Quantum speed limit of open quantum system models using the Wigner function
+Resource Optimized Quantum Squaring Circuit
+Demonstration of Erasure Conversion in a Molecular Tweezer Array
+Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture
+Noise-adapted qudit codes for amplitude-damping noise
