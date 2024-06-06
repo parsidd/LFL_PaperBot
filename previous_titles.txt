@@ -324,3 +324,10 @@ Resource Optimized Quantum Squaring Circuit
 Demonstration of Erasure Conversion in a Molecular Tweezer Array
 Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture
 Noise-adapted qudit codes for amplitude-damping noise
+Entangling four logical qubits beyond break-even in a nonlocal code
+In-operando microwave scattering-parameter calibrated measurement of a Josephson travelling wave parametric amplifier
+A Quantum Neural Network-Based Approach to Power Quality Disturbances Detection and Recognition
+Quantum Sensing from Gravity as Universal Dephasing Channel for Qubits
+Hot Schr\"odinger Cat States
+Random Pulse Sequences for Qubit Noise Spectroscopy
+Flying-cat parity checks for quantum error correction
