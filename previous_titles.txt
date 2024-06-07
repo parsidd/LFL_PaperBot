@@ -331,3 +331,10 @@ Quantum Sensing from Gravity as Universal Dephasing Channel for Qubits
 Hot Schr\"odinger Cat States
 Random Pulse Sequences for Qubit Noise Spectroscopy
 Flying-cat parity checks for quantum error correction
+Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit
+Circuit-level fault tolerance of cat codes
+Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories
+High-precision and low-depth eigenstate property estimation: theory and resource estimation
+Factory-based Fault-tolerant Preparation of Quantum Polar Codes Encoding One logical Qubit
+Success probabilities in time-reversal based hybrid quantum state transfer
+Deterministic Preparation of Optical Squeezed Cat and Gottesman-Kitaev-Preskill States
