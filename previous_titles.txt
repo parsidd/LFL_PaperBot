@@ -338,3 +338,8 @@ High-precision and low-depth eigenstate property estimation: theory and resource
 Factory-based Fault-tolerant Preparation of Quantum Polar Codes Encoding One logical Qubit
 Success probabilities in time-reversal based hybrid quantum state transfer
 Deterministic Preparation of Optical Squeezed Cat and Gottesman-Kitaev-Preskill States
+Efficient Fault-Tolerant Single Qubit Gate Approximation And Universal Quantum Computation Without Using The Solovay-Kitaev Theorem
+Slow and Stored Light via Electromagnetically Induced Transparency Using A $\Lambda$-type Superconducting Artificial Atom
+Heat currents in qubit systems
+Proposal of ensemble qubits with two-atom decay
+Entanglement transitions in quantum-enhanced experiments
