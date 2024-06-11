@@ -343,3 +343,9 @@ Slow and Stored Light via Electromagnetically Induced Transparency Using A $\Lam
 Heat currents in qubit systems
 Proposal of ensemble qubits with two-atom decay
 Entanglement transitions in quantum-enhanced experiments
+Field-Based Formalism for Calculating Multi-Qubit Exchange Coupling Rates for Transmon Qubits
+Fault-tolerant resource estimation using graph-state compilation on a modular superconducting architecture
+Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians
+Analog information decoding of bosonic quantum LDPC codes
+Selective Single and Double-Mode Quantum Limited Amplifier
+Performance Analysis of Superconductor-constriction-Superconductor Transmon Qubits
