@@ -349,3 +349,5 @@ Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians
 Analog information decoding of bosonic quantum LDPC codes
 Selective Single and Double-Mode Quantum Limited Amplifier
 Performance Analysis of Superconductor-constriction-Superconductor Transmon Qubits
+Conceptual Problems in Quantum Squeezing
+A mechanical qubit
