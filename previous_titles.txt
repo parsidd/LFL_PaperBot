@@ -351,3 +351,8 @@ Selective Single and Double-Mode Quantum Limited Amplifier
 Performance Analysis of Superconductor-constriction-Superconductor Transmon Qubits
 Conceptual Problems in Quantum Squeezing
 A mechanical qubit
+Balanced Coupling in Electromagnetic Circuits
+Suppressing Counter-Rotating Errors for Fast Single-Qubit Gates with Fluxonium
+Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter
+Ergodic and mixing quantum channels: From two-qubit to many-body quantum systems
+Fault-tolerant quantum computation using large spin cat-codes
