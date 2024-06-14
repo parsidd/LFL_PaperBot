@@ -356,3 +356,5 @@ Suppressing Counter-Rotating Errors for Fast Single-Qubit Gates with Fluxonium
 Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter
 Ergodic and mixing quantum channels: From two-qubit to many-body quantum systems
 Fault-tolerant quantum computation using large spin cat-codes
+Entanglement, Squeezing and non-Locality in Filtered Two-Mode Squeezed Mixed States
+Probing the quantum nature of gravity using a Bose-Einstein condensate
