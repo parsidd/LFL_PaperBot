@@ -358,3 +358,7 @@ Ergodic and mixing quantum channels: From two-qubit to many-body quantum systems
 Fault-tolerant quantum computation using large spin cat-codes
 Entanglement, Squeezing and non-Locality in Filtered Two-Mode Squeezed Mixed States
 Probing the quantum nature of gravity using a Bose-Einstein condensate
+Contextuality in anomalous heat flow
+Integration of through-sapphire substrate machining with superconducting quantum processors
+Reinforcement learning pulses for transmon qubit entangling gates
+The Superconducting Quasiparticle-Amplifying Transmon: A Qubit-Based Sensor for meV Scale Phonons and Single THz Photons
