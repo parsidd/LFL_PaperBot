@@ -362,3 +362,12 @@ Contextuality in anomalous heat flow
 Integration of through-sapphire substrate machining with superconducting quantum processors
 Reinforcement learning pulses for transmon qubit entangling gates
 The Superconducting Quasiparticle-Amplifying Transmon: A Qubit-Based Sensor for meV Scale Phonons and Single THz Photons
+Fast and Accurate GHZ Encoding Using All-to-all Interactions
+Minimal evolution times for fast, pulse-based state preparation in silicon spin qubits
+Lecture Notes on Quantum Algorithms in Open Quantum Systems
+Quantum metrology with a squeezed Kerr oscillator
+Multi-time quantum process tomography on a superconducting qubit
+The Near-optimal Performance of Quantum Error Correction Codes
+Many-excitation removal of a transmon qubit using a single-junction quantum-circuit refrigerator and a two-tone microwave drive
+Directional emission of a readout resonator for qubit measurement
+Fermion-parity qubit in a proximitized double quantum dot
