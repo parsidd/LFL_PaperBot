@@ -371,3 +371,9 @@ The Near-optimal Performance of Quantum Error Correction Codes
 Many-excitation removal of a transmon qubit using a single-junction quantum-circuit refrigerator and a two-tone microwave drive
 Directional emission of a readout resonator for qubit measurement
 Fermion-parity qubit in a proximitized double quantum dot
+Quantum Compiling with Reinforcement Learning on a Superconducting Processor
+A hybrid atom tweezer array of nuclear spin and optical clock qubits
+Transversal CNOT gate with multi-cycle error correction
+Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials
+Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems
+Exploring Gamification in Quantum Computing: The Qubit Factory
