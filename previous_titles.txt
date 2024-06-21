@@ -377,3 +377,14 @@ Transversal CNOT gate with multi-cycle error correction
 Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials
 Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems
 Exploring Gamification in Quantum Computing: The Qubit Factory
+Measurement of Many-Body Quantum Correlations in Superconducting Circuits
+Path-entangled radiation from kinetic inductance amplifier
+Gate Teleportation in Noisy Quantum Networks with the SquidASM Simulator
+Photon number distribution of squeezed light from a silicon nitride microresonator measured without photon number resolving detectors
+Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression
+Quantum limits of superconducting-photonic links and their extension to mm-waves
+Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes
+A GKP qubit protected by dissipation in a high-impedance superconducting circuit driven by a microwave frequency comb
+Synthetic magnetism enhanced mechanical squeezing in Brillouin optomechanical system
+Chip-Scale Point-Source Sagnac Interferometer by Phase-Space Squeezing
+Quantum squeezing in a nonlinear mechanical oscillator
