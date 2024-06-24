@@ -388,3 +388,10 @@ A GKP qubit protected by dissipation in a high-impedance superconducting circuit
 Synthetic magnetism enhanced mechanical squeezing in Brillouin optomechanical system
 Chip-Scale Point-Source Sagnac Interferometer by Phase-Space Squeezing
 Quantum squeezing in a nonlinear mechanical oscillator
+A mid-circuit erasure check on a dual-rail cavity qubit using the joint-photon number-splitting regime of circuit QED
+Magnon-mediated quantum gates for superconducting qubits
+Upper bounds on probabilities in channel measurements on qubit channels and their applications
+Spin Squeezing Enhanced Quantum Magnetometry with Nitrogen-Vacancy Center Qutrits
+Fault-tolerant hyperbolic Floquet quantum error correcting codes
+Optimal Control for Continuous Dynamical Decoupling
+$\mathcal{PT}$-symmetric mapping of three states and its implementation on a cloud quantum processor
