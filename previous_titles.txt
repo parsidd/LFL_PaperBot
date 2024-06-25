@@ -395,3 +395,9 @@ Spin Squeezing Enhanced Quantum Magnetometry with Nitrogen-Vacancy Center Qutrit
 Fault-tolerant hyperbolic Floquet quantum error correcting codes
 Optimal Control for Continuous Dynamical Decoupling
 $\mathcal{PT}$-symmetric mapping of three states and its implementation on a cloud quantum processor
+Quantum computer specification for nuclear structure calculations
+Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching
+Analyzing performance of $f$-deformed displaced Fock state in continuous-variable quantum teleportation
+Quantum resolution limit of long-baseline imaging using distributed entanglement
+High-Efficiency Low-Noise Optomechanical Crystal Photon-Phonon Transducers
+Lieb-Robinson correlation function for the quantum transverse field Ising model
