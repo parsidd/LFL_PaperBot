@@ -401,3 +401,9 @@ Analyzing performance of $f$-deformed displaced Fock state in continuous-variabl
 Quantum resolution limit of long-baseline imaging using distributed entanglement
 High-Efficiency Low-Noise Optomechanical Crystal Photon-Phonon Transducers
 Lieb-Robinson correlation function for the quantum transverse field Ising model
+Fault-tolerant embedding of quantum circuits on hardware architectures via swap gates
+MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework
+Nonclassical Light in a Three-Waveguide Coupler with Second-Order Nonlinearity
+Efficiently improving the performance of noisy quantum computers
+A Comparative Analysis of Hybrid-Quantum Classical Neural Networks
+A quantum annealing approach to the minimum distance problem of quantum codes
