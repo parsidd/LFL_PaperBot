@@ -407,3 +407,6 @@ Nonclassical Light in a Three-Waveguide Coupler with Second-Order Nonlinearity
 Efficiently improving the performance of noisy quantum computers
 A Comparative Analysis of Hybrid-Quantum Classical Neural Networks
 A quantum annealing approach to the minimum distance problem of quantum codes
+Managing Classical Processing Requirements for Quantum Error Correction
+Exact and approximate fluxonium array modes
+Selective cooling and squeezing in a lossy optomechanical closed loop embodying an exceptional surface
