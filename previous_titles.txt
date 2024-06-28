@@ -410,3 +410,8 @@ A quantum annealing approach to the minimum distance problem of quantum codes
 Managing Classical Processing Requirements for Quantum Error Correction
 Exact and approximate fluxonium array modes
 Selective cooling and squeezing in a lossy optomechanical closed loop embodying an exceptional surface
+Analytic solution to the nonlinear generation of squeezed states in a thermal bath
+Resource overheads and attainable rates for trapped-ion lattice surgery
+ML-Powered FPGA-based Real-Time Quantum State Discrimination Enabling Mid-circuit Measurements
+Quantum voting machine encoded with microwave photons
+Strong Converse Exponent for Entanglement-Assisted Communication
