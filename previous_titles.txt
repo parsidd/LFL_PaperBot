@@ -415,3 +415,9 @@ Resource overheads and attainable rates for trapped-ion lattice surgery
 ML-Powered FPGA-based Real-Time Quantum State Discrimination Enabling Mid-circuit Measurements
 Quantum voting machine encoded with microwave photons
 Strong Converse Exponent for Entanglement-Assisted Communication
+A Traveling-Wave Parametric Amplifier and Converter
+Mixing of counterpropagating signals in a traveling-wave Josephson device
+A Traveling Wave Parametric Amplifier Isolator
+Entanglement Assisted Squeezed States of Light in All Fiber Form-Factor
+Complete quantum toolbox for an acoustic resonator
+Inverse Mpemba Effect Demonstrated on a Single Trapped Ion Qubit
