@@ -421,3 +421,15 @@ A Traveling Wave Parametric Amplifier Isolator
 Entanglement Assisted Squeezed States of Light in All Fiber Form-Factor
 Complete quantum toolbox for an acoustic resonator
 Inverse Mpemba Effect Demonstrated on a Single Trapped Ion Qubit
+Hybrid Quantum-Classical Clustering for Preparing a Prior Distribution of Eigenspectrum
+Non-Gaussian generalized two-mode squeezing: applications to two-ensemble spin squeezing and beyond
+Realizing a Compact, High-Fidelity, Telecom-Wavelength Source of Multipartite Entangled Photons
+Classical and Quantum Frequency Combs for Satellite-based Clock Synchronization
+Influence of a squeezed prewell on tunneling properties and bound states in heterostructures
+Robustness of Higher Dimensional Nonlocality against dual noise and sequential measurements
+Efficient realization of quantum algorithms with qudits
+State preparation by shallow circuits using feed forward
+Revisiting the impact of dissipation on time-reversed one-axis-twist quantum-sensing protocols
+Concatenating quantum error-correcting codes with decoherence-free subspaces and vice versa
+Control of multi-modal scattering in a microwave frequency comb
+Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches
