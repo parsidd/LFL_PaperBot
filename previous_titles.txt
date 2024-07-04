@@ -433,3 +433,5 @@ Revisiting the impact of dissipation on time-reversed one-axis-twist quantum-sen
 Concatenating quantum error-correcting codes with decoherence-free subspaces and vice versa
 Control of multi-modal scattering in a microwave frequency comb
 Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches
+Two-mode squeezing and SU(1,1) interferometry with trapped ions
+Parametric Light-Matter Interaction in the Single-Photon Strong Coupling Limit
