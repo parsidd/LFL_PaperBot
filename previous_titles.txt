@@ -435,3 +435,6 @@ Control of multi-modal scattering in a microwave frequency comb
 Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches
 Two-mode squeezing and SU(1,1) interferometry with trapped ions
 Parametric Light-Matter Interaction in the Single-Photon Strong Coupling Limit
+Unifying Floquet theory of longitudinal and dispersive readout
+Noise-adapted recovery circuits for quantum error correction
+Non-classical correlations between a quantum probe and complex quantum systems in presence of noise
