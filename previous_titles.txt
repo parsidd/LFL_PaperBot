@@ -438,3 +438,12 @@ Parametric Light-Matter Interaction in the Single-Photon Strong Coupling Limit
 Unifying Floquet theory of longitudinal and dispersive readout
 Noise-adapted recovery circuits for quantum error correction
 Non-classical correlations between a quantum probe and complex quantum systems in presence of noise
+Limitations to Dynamical Error Suppression and Gate-Error Virtualization from Temporally Correlated Nonclassical Noise
+Qudit Dynamical Decoupling on a Superconducting Quantum Processor
+Entanglement marker for lifetime of time crystal in transmon-modulated open Dicke model
+Continuous variable quantum teleportation using photon subtracted and photon added two mode squeezed coherent state
+Stabilizing an individual charge fluctuator in a Si/SiGe quantum dot
+Stochastic modeling of superconducting qudits in the dispersive regime
+Two-dimensional topological effect in a transmon qubit array with tunable couplings
+State Estimation and Control for Stochastic Quantum Dynamics with Homodyne Measurement: Stabilizing Qubits under Uncertainty
+The strong-coupling quantum thermodynamics of quantum Brownian motion based on the exact solution of its reduced density matrix
