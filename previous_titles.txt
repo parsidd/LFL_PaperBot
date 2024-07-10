@@ -447,3 +447,7 @@ Stochastic modeling of superconducting qudits in the dispersive regime
 Two-dimensional topological effect in a transmon qubit array with tunable couplings
 State Estimation and Control for Stochastic Quantum Dynamics with Homodyne Measurement: Stabilizing Qubits under Uncertainty
 The strong-coupling quantum thermodynamics of quantum Brownian motion based on the exact solution of its reduced density matrix
+Passive photonic CZ gate with two-level emitters in chiral multi-mode waveguide QED
+Precision frequency tuning of tunable transmon qubits using alternating-bias assisted annealing
+Low-cost noise reduction for Clifford circuits
+Vacuum Beam Guide for Large-Scale Quantum Networks
