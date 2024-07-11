@@ -451,3 +451,7 @@ Passive photonic CZ gate with two-level emitters in chiral multi-mode waveguide 
 Precision frequency tuning of tunable transmon qubits using alternating-bias assisted annealing
 Low-cost noise reduction for Clifford circuits
 Vacuum Beam Guide for Large-Scale Quantum Networks
+The Quantum Imitation Game: Reverse Engineering of Quantum Machine Learning Models
+Detection of broadband squeezed light with a low-noise die-level balanced receiver
+Continuous variable dense coding under realistic non-ideal scenarios
+Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computing
