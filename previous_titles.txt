@@ -455,3 +455,7 @@ The Quantum Imitation Game: Reverse Engineering of Quantum Machine Learning Mode
 Detection of broadband squeezed light with a low-noise die-level balanced receiver
 Continuous variable dense coding under realistic non-ideal scenarios
 Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computing
+Entanglement of photonic modes from a continuously driven two-level system
+Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding
+Magnon squeezing via reservoir-engineered optomagnomechanics
+Modeling and Suppressing Unwanted Parasitic Interactions in Superconducting Circuits
