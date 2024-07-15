@@ -459,3 +459,9 @@ Entanglement of photonic modes from a continuously driven two-level system
 Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding
 Magnon squeezing via reservoir-engineered optomagnomechanics
 Modeling and Suppressing Unwanted Parasitic Interactions in Superconducting Circuits
+Exactly-solved model of light-scattering errors in quantum simulations with metastable trapped-ion qubits
+SSIP: automated surgery with quantum LDPC codes
+Direct Measurement of Microwave Loss in Nb Films for Superconducting Qubits
+Ultra-dispersive resonator readout of a quantum-dot qubit using longitudinal coupling
+Quantum metrology of low frequency electromagnetic modes with frequency upconverters
+Using quantum computers to identify prime numbers via entanglement dynamics
