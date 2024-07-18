@@ -470,3 +470,5 @@ A cryogenic on-chip microwave pulse generator for large-scale superconducting qu
 Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes
 Decay-protected superconducting qubit with fast control enabled by integrated on-chip filters
 Candidate for a Passively Protected Quantum Memory in Two Dimensions
+Atomic and entanglement dynamics in the mixed squeezed coherent state version of the Jaynes-Cummings interaction
+Robust teleportation of a surface code and cascade of topological quantum phase transitions
