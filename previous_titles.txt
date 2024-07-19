@@ -472,3 +472,6 @@ Decay-protected superconducting qubit with fast control enabled by integrated on
 Candidate for a Passively Protected Quantum Memory in Two Dimensions
 Atomic and entanglement dynamics in the mixed squeezed coherent state version of the Jaynes-Cummings interaction
 Robust teleportation of a surface code and cascade of topological quantum phase transitions
+Systematic input scheme for many-boson Hamiltonians via quantum walk
+Emerging Quadrature Lattices of Kerr Combs
+Fault Tolerant Quantum Error Mitigation
