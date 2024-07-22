@@ -475,3 +475,9 @@ Robust teleportation of a surface code and cascade of topological quantum phase 
 Systematic input scheme for many-boson Hamiltonians via quantum walk
 Emerging Quadrature Lattices of Kerr Combs
 Fault Tolerant Quantum Error Mitigation
+Optimized Quantum Simulation Algorithms for Scalar Quantum Field Theories
+Kinetic Inductance Parametric Converter
+Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation
+Diagonalization of large many-body Hamiltonians on a quantum processor
+Robust and fast microwave-driven quantum logic for trapped-ion qubits
+Agnostic Phase Estimation
