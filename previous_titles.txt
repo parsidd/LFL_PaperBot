@@ -481,3 +481,13 @@ Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale
 Diagonalization of large many-body Hamiltonians on a quantum processor
 Robust and fast microwave-driven quantum logic for trapped-ion qubits
 Agnostic Phase Estimation
+Virtual Z gates and symmetric gate compilation
+A Nanomechanical Atomic Force Qubit
+Verifying the analogy between transversely coupled spin-1/2 systems and inductively-coupled fluxoniums
+Qubit-efficient quantum combinatorial optimization solver
+24 days-stable CNOT-gate on fluxonium qubits with over 99.9% fidelity
+A Practical Quantum Algorithm for the Schur Transform
+T-count optimization of approximate quantum Fourier transform
+Modeling and Harmonic Balance Analysis of Parametric Amplifiers for Qubit Read-out
+Error-Tolerant Amplification and Simulation of the Ultrastrong-Coupling Quantum Rabi Model
+Alternating Bias Assisted Annealing of Amorphous Oxide Tunnel Junctions
