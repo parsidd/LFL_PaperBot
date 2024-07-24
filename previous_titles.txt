@@ -491,3 +491,6 @@ T-count optimization of approximate quantum Fourier transform
 Modeling and Harmonic Balance Analysis of Parametric Amplifiers for Qubit Read-out
 Error-Tolerant Amplification and Simulation of the Ultrastrong-Coupling Quantum Rabi Model
 Alternating Bias Assisted Annealing of Amorphous Oxide Tunnel Junctions
+Breadth-first graph traversal union-find decoder
+An Exponential Mixing Condition for Quantum Channels
+Pure kinetic inductance coupling for cQED with flux qubits
