@@ -494,3 +494,8 @@ Alternating Bias Assisted Annealing of Amorphous Oxide Tunnel Junctions
 Breadth-first graph traversal union-find decoder
 An Exponential Mixing Condition for Quantum Channels
 Pure kinetic inductance coupling for cQED with flux qubits
+Systematic study of High $E_J/E_C$ transmon qudits up to $d = 12$
+Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociation Curve of Molecular Nitrogen on a Superconducting Quantum Computer
+SQuADDS: A validated design database and simulation workflow for superconducting qubit design
+Multi-qubit gates and Schr\"odinger cat states in an optical clock
+Twist-and-turn dynamics of spin squeezing in bosonic Josephson junctions: Enhanced shortcuts-to-adiabaticity approach
