@@ -499,3 +499,5 @@ Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociat
 SQuADDS: A validated design database and simulation workflow for superconducting qubit design
 Multi-qubit gates and Schr\"odinger cat states in an optical clock
 Twist-and-turn dynamics of spin squeezing in bosonic Josephson junctions: Enhanced shortcuts-to-adiabaticity approach
+Entangling power, gate typicality and Measurement-induced Phase Transitions
+Ancilla-assisted erasure of quantum information beyond Landauer's limit
