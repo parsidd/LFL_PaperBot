@@ -512,3 +512,14 @@ Protecting Expressive Circuits with a Quantum Error Detection Code
 Quantum memories for squeezed and coherent superpositions in a driven-dissipative nonlinear oscillator
 Scalable spin squeezing with local interactions
 Scalable spin squeezing from finite-temperature easy-plane magnetism
+Routing and wavelength assignment in quantum key distribution networks: power control heuristics for quantum-classical multiplexing
+Microwave-Optical Entanglement from Pulse-pumped Electro-optomechanics
+Modular quantum processor with an all-to-all reconfigurable router
+Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits
+Purification and correction of quantum channels by commutation-derived quantum filters
+Search for QCD axion dark matter with transmon qubits and quantum circuit
+Estimate distillable entanglement and quantum capacity by squeezing useless entanglement
+Cryogenic microwave link for quantum local area networks
+Practical Trainable Temporal Postprocessor for Multistate Quantum Measurement
+Qudit-Generalization of the Qubit Echo and Its Application to a Qutrit-Based Toffoli Gate
+Improved Belief Propagation Decoding algorithms for surface codes
