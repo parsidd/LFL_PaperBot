@@ -523,3 +523,7 @@ Cryogenic microwave link for quantum local area networks
 Practical Trainable Temporal Postprocessor for Multistate Quantum Measurement
 Qudit-Generalization of the Qubit Echo and Its Application to a Qutrit-Based Toffoli Gate
 Improved Belief Propagation Decoding algorithms for surface codes
+All-photonic GKP-qubit repeater using analog-information-assisted multiplexed entanglement ranking
+Optical interferometer using two-mode squeezed light for enhanced chip-integrated quantum metrology
+Certifiable Lower Bounds of Wigner Negativity Volume and Non-Gaussian Entanglement with Conditional Displacement Gates
+Robust Hamiltonian Engineering for Interacting Qudit Systems
