@@ -527,3 +527,12 @@ All-photonic GKP-qubit repeater using analog-information-assisted multiplexed en
 Optical interferometer using two-mode squeezed light for enhanced chip-integrated quantum metrology
 Certifiable Lower Bounds of Wigner Negativity Volume and Non-Gaussian Entanglement with Conditional Displacement Gates
 Robust Hamiltonian Engineering for Interacting Qudit Systems
+Charge and Flux Noise from Nonequilibrium Quasiparticle Energy Distributions in Superconducting Wires
+Universal Euler-Cartan Circuits for Quantum Field Theories
+Multi-Purpose Architecture for Fast Reset and Protective Readout of Superconducting Qubits
+Quantum Thermodynamics of Open Quantum Systems: Nature of Thermal Fluctuations
+Experimentally probing Landauer's principle in the quantum many-body regime
+Engineering a multi-level bath for transmon with three-wave mixing and parametric drives
+Redundant string symmetry-based error correction: Demonstrations on quantum devices
+Dynamical quantum maps for single-qubit gates under universal non-Markovian noise
+Scalable Parity Architecture With a Shuttling-Based Spin Qubit Processor
