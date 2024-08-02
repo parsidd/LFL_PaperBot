@@ -536,3 +536,8 @@ Engineering a multi-level bath for transmon with three-wave mixing and parametri
 Redundant string symmetry-based error correction: Demonstrations on quantum devices
 Dynamical quantum maps for single-qubit gates under universal non-Markovian noise
 Scalable Parity Architecture With a Shuttling-Based Spin Qubit Processor
+Persistent Topological Negativity in a High-Temperature Mixed-State
+Optimally robust shortcuts to population inversion in cat-state qubits
+Transmission of quantum information through quantum fields in curved spacetimes
+To reset, or not to reset -- that is the question
+Error budget of parametric resonance entangling gate with a tunable coupler
