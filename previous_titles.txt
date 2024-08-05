@@ -541,3 +541,10 @@ Optimally robust shortcuts to population inversion in cat-state qubits
 Transmission of quantum information through quantum fields in curved spacetimes
 To reset, or not to reset -- that is the question
 Error budget of parametric resonance entangling gate with a tunable coupler
+Optimizing quantum error correction protocols with erasure qubits
+Surface Code with Imperfect Erasure Checks
+Long-lived metastable-qubit memory
+A Logarithmic Depth Quantum Carry-Lookahead Modulo $(2^n-1)$ Adder
+Fabrication and characterization of low-loss Al/Si/Al parallel plate capacitors for superconducting quantum information applications
+Error correction of transversal controlled-NOT gates for scalable surface code computation
+Flux-pulse-assisted Readout of a Fluxonium Qubit
