@@ -548,3 +548,11 @@ A Logarithmic Depth Quantum Carry-Lookahead Modulo $(2^n-1)$ Adder
 Fabrication and characterization of low-loss Al/Si/Al parallel plate capacitors for superconducting quantum information applications
 Error correction of transversal controlled-NOT gates for scalable surface code computation
 Flux-pulse-assisted Readout of a Fluxonium Qubit
+Wigner-negative states in the steady-state emission of a two-level system driven by squeezed light
+Something from Nothing: A Theoretical Framework for Enhancing or Enabling Cooling of a Mechanical Resonator via the anti-Stokes or Stokes Interaction and Zero-Photon Detection
+Weak force sensing based on optical parametric amplification in a cavity optomechanical system coupled in series with two oscillators
+Magnon-squeezing-enhanced weak magnetic field sensing in cavity-magnon system
+Measurement Induced Magic Resources
+Squeezing-enhanced quantum sensing with quadratic optomechanics
+Modeling phonon-mediated quasiparticle poisoning in superconducting qubit arrays
+Improved Belief Propagation Decoding Algorithms for Surface Codes
