@@ -556,3 +556,11 @@ Measurement Induced Magic Resources
 Squeezing-enhanced quantum sensing with quadratic optomechanics
 Modeling phonon-mediated quasiparticle poisoning in superconducting qubit arrays
 Improved Belief Propagation Decoding Algorithms for Surface Codes
+Modular Architectures and Entanglement Schemes for Error-Corrected Distributed Quantum Computation
+Measurement-Based Long-Range Entangling Gates in Constant Depth
+Enhanced Superconducting Qubit Performance Through Ammonium Fluoride Etch
+Microwave driven singlet-triplet qubits enabled by site-dependent g-tensors
+Squeezing equivalence of quantum harmonic oscillators under different frequency modulations
+Individually-addressed quantum gate interactions using dynamical decoupling
+Tripartite quantum entanglement with squeezed optomechanics
+Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications
