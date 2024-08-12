@@ -567,3 +567,4 @@ Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstr
 Quantum Transfer Learning for MNIST Classification Using a Hybrid Quantum-Classical Approach
 Periodically poled thin-film lithium niobate ring Mach Zehnder coupling interferometer as an efficient quantum source of light
 Quasiparticle Dynamics in a Superconducting Qubit Irradiated by a Localized Infrared Source
+Optical readout of a superconducting qubit using a scalable piezo-optomechanical transducer
