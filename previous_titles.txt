@@ -578,3 +578,5 @@ Trade-offs between unitary and measurement induced spin squeezing in cavity QED
 Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification
 Characterizing the magnetic noise power spectrum of dark spins in diamond
 Gate Operations for Superconducting Qubits and Non-Markovianity
+Quantum-limited generalized measurement for tunnel-coupled condensates
+Tunneling of fluxons via a Josephson resonant level
