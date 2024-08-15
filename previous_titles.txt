@@ -580,3 +580,7 @@ Characterizing the magnetic noise power spectrum of dark spins in diamond
 Gate Operations for Superconducting Qubits and Non-Markovianity
 Quantum-limited generalized measurement for tunnel-coupled condensates
 Tunneling of fluxons via a Josephson resonant level
+The x+y Floquet code: A simple example for topological quantum computation in the path integral approach
+Squeezed states of light after high-harmonic generation in excited atomic systems
+Randomized Benchmarking Protocol for Dynamic Circuits
+Demonstration of 3 V Programmable Josephson Junction Arrays Using Non-Integer-Multiple Logic
