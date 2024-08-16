@@ -584,3 +584,11 @@ The x+y Floquet code: A simple example for topological quantum computation in th
 Squeezed states of light after high-harmonic generation in excited atomic systems
 Randomized Benchmarking Protocol for Dynamic Circuits
 Demonstration of 3 V Programmable Josephson Junction Arrays Using Non-Integer-Multiple Logic
+Hybrid entanglement and error correction in a scalable quantum network node
+Constant-Overhead Magic State Distillation
+A Multilevel Approach For Solving Large-Scale QUBO Problems With Noisy Hybrid Quantum Approximate Optimization
+On the Constant Depth Implementation of Pauli Exponentials
+A universal neutral-atom quantum computer with individual optical addressing and non-destructive readout
+Modeling flux-quantizing Josephson junction circuits in Keysight ADS
+Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion
+Modeling error correction with Lindblad dynamics and approximate channels
