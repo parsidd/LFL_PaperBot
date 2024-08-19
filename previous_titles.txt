@@ -592,3 +592,11 @@ A universal neutral-atom quantum computer with individual optical addressing and
 Modeling flux-quantizing Josephson junction circuits in Keysight ADS
 Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion
 Modeling error correction with Lindblad dynamics and approximate channels
+A controlled-squeeze gate in superconducting quantum circuits
+Experiments with the 4D Surface Code on a QCCD Quantum Computer
+Producing entangled photon pairs and quantum squeezed states in plasmas
+Strong tunable spin-spin coupling with cavity-magnon criticality
+Superconducting Qubits Above 20 GHz Operating over 200 mK
+Virtual Channel Purification
+Kerr nonlinearity and parametric amplification with an Al-InAs superconductor-semiconductor Josephson junction
+Low Overhead Qutrit Magic State Distillation
