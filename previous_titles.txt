@@ -600,3 +600,10 @@ Superconducting Qubits Above 20 GHz Operating over 200 mK
 Virtual Channel Purification
 Kerr nonlinearity and parametric amplification with an Al-InAs superconductor-semiconductor Josephson junction
 Low Overhead Qutrit Magic State Distillation
+Fault-tolerant optical interconnects for neutral-atom arrays
+The quantum uncertainty relations of quantum channels
+Squeezed Light via Exciton-Phonon Cavity QED
+Atomic non-classicality: A study of the anti-Jaynes-Cummings interaction
+Enhancing quantum phase synchronization through squeezed-reservoir engineering
+Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing
+Quantum circuits with multiterminal Josephson-Andreev junctions
