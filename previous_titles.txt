@@ -615,3 +615,8 @@ Passive decoy-state quantum secure direct communication with heralded single-pho
 Stabilizer codes for Heisenberg-limited many-body Hamiltonian estimation
 Quantum Property Preservation
 M2CS: A Microwave Measurement and Control System for Large-scale Superconducting Quantum Processors
+Automated Synthesis of Fault-Tolerant State Preparation Circuits for Quantum Error Correction Codes
+A Practical Introduction to Benchmarking and Characterization of Quantum Computers
+Dynamic phases induced by two-level system defects on driven qubits
+Error estimation of different schemes to measure spin-squeezing inequalities
+High-performance multiqubit system with double-transmon couplers: Toward scalable superconducting quantum computers
