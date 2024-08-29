@@ -628,3 +628,7 @@ Realtime Compilation for Continuous Angle Quantum Error Correction Architectures
 Squeezing light to get non-classical work in quantum engines
 Engineering a Josephson junction chain for the simulation of the clock model
 Quantum sensing in Kerr parametric oscillators
+Initial Correlations and Time-Retarded Noise in Dynamical Decoupling Schemes for Superconducting Qubits
+Artificially intelligent Maxwell's demon for optimal control of open quantum systems
+Comprehensive explanation of ZZ coupling in superconducting qubits
+Dynamic compensation for pump-induced frequency shift in Kerr-cat qubit initialization
