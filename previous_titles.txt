@@ -660,3 +660,8 @@ Thermometry Based on a Superconducting Qubit
 Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity
 Heisenberg-limit spin squeezing with spin Bogoliubov Hamiltonian
 Semiquantum private comparison based on Bell states without quantum measurements from the classical user
+Progress in Trapped-Ion Quantum Simulation
+High Energy Physics from Low Energy Physics
+Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states
+Hardware-Assisted Parameterized Circuit Execution
+Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
