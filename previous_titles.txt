@@ -665,3 +665,8 @@ High Energy Physics from Low Energy Physics
 Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states
 Hardware-Assisted Parameterized Circuit Execution
 Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
+Squeezing Enhancement in Lossy Multi-Path Atom Interferometers
+Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes
+Lightcone shading for classically accelerated quantum error mitigation
+CMOS compatibility of semiconductor spin qubits
+Equilibrium Parametric Amplification in Raman-Cavity Hybrids
