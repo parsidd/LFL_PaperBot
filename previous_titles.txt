@@ -700,3 +700,7 @@ Contrasting Statistical Phase Estimation with the Variational Quantum Eigensolve
 Photon pair generation via down-conversion in III-V semiconductor microrings: modal dispersion and quasi-phase matching
 Experimental error suppression in Cross-Resonance gates via multi-derivative pulse shaping
 Useful autonomous quantum machines
+CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimentional Neuroimaging Data
+Remote Entangling Gates for Spin Qubits in Quantum Dots using an Offset-Charge-Sensitive Transmon Coupler
+Control of solid-state nuclear spin qubits using an electron spin-1/2
+Boson sampling with self-generation of squeezing via interaction of photons and atoms
