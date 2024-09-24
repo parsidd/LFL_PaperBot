@@ -736,3 +736,7 @@ Efficient fault-tolerant code switching via one-way transversal CNOT gates
 Improved Electron-Nuclear Quantum Gates for Spin Sensing and Control
 A fault-tolerant pairwise measurement-based code on eight qubits
 Squeezing the quantum noise of a gravitational-wavedetector below the standard quantum limit
+Flag Proxy Networks: Tackling the Architectural, Scheduling, and Decoding Obstacles of Quantum LDPC codes
+Defending crosstalk-mediated quantum attacks using dynamical decoupling
+Quantum Error Correction of Qudits Beyond Break-even
+Synthesis of Energy-Conserving Quantum Circuits with XY interaction
