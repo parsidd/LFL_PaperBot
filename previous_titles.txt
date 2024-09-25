@@ -740,3 +740,7 @@ Flag Proxy Networks: Tackling the Architectural, Scheduling, and Decoding Obstac
 Defending crosstalk-mediated quantum attacks using dynamical decoupling
 Quantum Error Correction of Qudits Beyond Break-even
 Synthesis of Energy-Conserving Quantum Circuits with XY interaction
+Effect of Etching Methods on Dielectric Losses in Transmons
+A real-time, scalable, fast and highly resource efficient decoder for a quantum computer
+Concurrent spin squeezing and light squeezing in an atomic ensemble
+Efficient and precise quantum simulation of ultra-relativistic quark-nucleus scattering
