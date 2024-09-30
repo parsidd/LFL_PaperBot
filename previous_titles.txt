@@ -751,3 +751,7 @@ Scalable quantum eraser for superconducting integrated circuits
 Squeezing Quantum States in Three-Dimensional Twisted Crystals
 Non-collapsing electric readout of arbitrary Andreev qubits
 Preserving phase coherence and linearity in cat qubits with exponential bit-flip suppression
+Influence of bias voltage noise on the Inelastic Cooper-Pair Tunneling Amplifier (ICTA)
+Bath Dynamical Decoupling with a Quantum Channel
+Fault-Tolerant Belief Propagation for Practical Quantum Memory
+Channel-based framework for phase esimation of multiple eigenvalues
