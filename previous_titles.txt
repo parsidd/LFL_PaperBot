@@ -755,3 +755,8 @@ Influence of bias voltage noise on the Inelastic Cooper-Pair Tunneling Amplifier
 Bath Dynamical Decoupling with a Quantum Channel
 Fault-Tolerant Belief Propagation for Practical Quantum Memory
 Channel-based framework for phase esimation of multiple eigenvalues
+Effects of Systematic Error on Quantum-Enhanced Atom Interferometry
+Protected Fluxonium Control with Sub-harmonic Parametric Driving
+High-performance conditional-driving gate for Kerr parametric oscillator qubits
+Deployed quantum link characterization via Bayesian ancilla-assisted process tomography
+The quantum trajectory sensing problem and its solution
