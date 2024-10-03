@@ -760,3 +760,9 @@ Protected Fluxonium Control with Sub-harmonic Parametric Driving
 High-performance conditional-driving gate for Kerr parametric oscillator qubits
 Deployed quantum link characterization via Bayesian ancilla-assisted process tomography
 The quantum trajectory sensing problem and its solution
+IBM Quantum Computers: Evolution, Performance, and Future Directions
+Flux-pump induced degradation of $T_1$ for dissipative cat qubits
+Thermalization of a flexible microwave stripline measured by a superconducting qubit
+MaxSAT decoders for arbitrary CSS codes
+Circuit QED Spectra in the Ultrastrong Coupling Regime: How They Differ from Cavity QED
+Photon-mediated long-range coupling of two Andreev pair qubits
