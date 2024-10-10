@@ -766,3 +766,8 @@ Thermalization of a flexible microwave stripline measured by a superconducting q
 MaxSAT decoders for arbitrary CSS codes
 Circuit QED Spectra in the Ultrastrong Coupling Regime: How They Differ from Cavity QED
 Photon-mediated long-range coupling of two Andreev pair qubits
+Experimental realization of direct entangling gates between dual-type qubits
+On the Computational Power of QAC0 with Barely Superlinear Ancillae
+Tailoring fusion-based photonic quantum computing schemes to quantum emitters
+Entanglement, information and non-equilibrium phase transitions in long-range open quantum Ising chains
+Quantum Vector Signal Analyzer: Wideband Electric Field Sensing via Motional Raman Transitions
