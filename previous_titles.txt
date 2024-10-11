@@ -771,3 +771,7 @@ On the Computational Power of QAC0 with Barely Superlinear Ancillae
 Tailoring fusion-based photonic quantum computing schemes to quantum emitters
 Entanglement, information and non-equilibrium phase transitions in long-range open quantum Ising chains
 Quantum Vector Signal Analyzer: Wideband Electric Field Sensing via Motional Raman Transitions
+Toward hybrid quantum simulations with qubits and qumodes on trapped-ion platforms
+Geometric structure and transversal logic of quantum Reed-Muller codes
+Microwave-activated two-qubit gates for fixed-coupling and fixed-frequency transmon qubits
+LEGO: QEC Decoding System Architecture for Dynamic Circuits
