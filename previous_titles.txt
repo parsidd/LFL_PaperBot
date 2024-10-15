@@ -775,3 +775,12 @@ Toward hybrid quantum simulations with qubits and qumodes on trapped-ion platfor
 Geometric structure and transversal logic of quantum Reed-Muller codes
 Microwave-activated two-qubit gates for fixed-coupling and fixed-frequency transmon qubits
 LEGO: QEC Decoding System Architecture for Dynamic Circuits
+Conditional Motional Squeezing of an Optomechanical Oscillator Approaching the Quantum Regime
+High-Coherence Quantum Acoustics with Planar Superconducting Qubits
+Application of zero-noise extrapolation-based quantum error mitigation to a silicon spin qubit
+Complementing the transmon by integrating a geometric shunt inductor
+Individual solid-state nuclear spin qubits with coherence exceeding seconds
+Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators
+Tachyonic and parametric instabilities in an extended bosonic Josephson Junction
+Microwave photon detection at parametric criticality
+Long-range-enhanced surface codes
