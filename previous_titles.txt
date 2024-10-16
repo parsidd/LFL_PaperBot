@@ -784,3 +784,8 @@ Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators
 Tachyonic and parametric instabilities in an extended bosonic Josephson Junction
 Microwave photon detection at parametric criticality
 Long-range-enhanced surface codes
+Robust spontaneous parametric down-conversion via detuning modulated composite segments designs
+Quantum-optical sensing and target detection
+Generating entanglement of two acoustic modes by driving the qubit in circuit quantum acoustodynamics system
+Topological anomalous Floquet photon pump
+Using Bifluxon Tunneling to Protect the Fluxonium Qubit
