@@ -789,3 +789,10 @@ Quantum-optical sensing and target detection
 Generating entanglement of two acoustic modes by driving the qubit in circuit quantum acoustodynamics system
 Topological anomalous Floquet photon pump
 Using Bifluxon Tunneling to Protect the Fluxonium Qubit
+Agnostic Process Tomography
+Superconducting Quantum Simulation for Many-Body Physics beyond Equilibrium
+Dynamical weight reduction of Pauli measurements
+Quantum subspace verification for error correction codes
+Systematic input scheme of many-boson Hamiltonians with applications to the two-dimensional $\phi ^4$ theory
+Superconducting flux qubit with ferromagnetic Josephson $\pi$-junction operating at zero magnetic field
+Observation of Discrete Charge States of a Coherent Two-Level System in a Superconducting Qubit
