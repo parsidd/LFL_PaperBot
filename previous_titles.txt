@@ -796,3 +796,9 @@ Quantum subspace verification for error correction codes
 Systematic input scheme of many-boson Hamiltonians with applications to the two-dimensional $\phi ^4$ theory
 Superconducting flux qubit with ferromagnetic Josephson $\pi$-junction operating at zero magnetic field
 Observation of Discrete Charge States of a Coherent Two-Level System in a Superconducting Qubit
+Autonomous Stabilization of Floquet States Using Static Dissipation
+Single-shot and measurement-based quantum error correction via fault complexes
+Measurement-free, scalable and fault-tolerant universal quantum computing
+Co-designing Transmon devices for control with simple pulses
+The Optimization of Flux Trajectories for the Adiabatic Controlled-Z Gate on Split-Tunable Transmons
+Squeezing the quantum noise of a gravitational-wave detector below the standard quantum limit
