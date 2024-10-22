@@ -806,3 +806,16 @@ Experimental protocol for observing single quantum many-body scars with transmon
 Optimized continuous dynamical decoupling via differential geometry and machine learning
 Simulating electronic structure on bosonic quantum computers
 High Precision Fault-Tolerant Quantum Circuit Synthesis by Diagonalization using Reinforcement Learning
+LUCI in the Surface Code with Dropouts
+Enhancing entanglement in nano-mechanical oscillators via hybrid optomechanical systems
+Preparing Spin Squeezed States via Adaptive Genetic Algorithm
+Geometric phase for mixed squeezed-coherent states
+Reservoir-engineered spin squeezing in quantum hybrid solid-state platforms
+Cryogenic Control and Readout Integrated Circuits for Solid-State Quantum Computing
+Strong photon coupling to high-frequency antiferromagnetic magnons via topological surface states
+Transport properties and quantum phase transitions in one-dimensional superconductor-ferromagnetic insulator heterostructures
+A 300 mm foundry silicon spin qubit unit cell exceeding 99% fidelity in all operations
+Semiconductor Circuits for Quantum Computing with Electronic Wave Packets
+Hardness results for decoding the surface code with Pauli noise
+Error-Mitigated Quantum Random Access Memory
+Limits of Noisy Quantum Metrology with Restricted Quantum Controls
