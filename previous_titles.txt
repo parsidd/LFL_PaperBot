@@ -819,3 +819,10 @@ Semiconductor Circuits for Quantum Computing with Electronic Wave Packets
 Hardness results for decoding the surface code with Pauli noise
 Error-Mitigated Quantum Random Access Memory
 Limits of Noisy Quantum Metrology with Restricted Quantum Controls
+Quantum Convolutional Neural Network: A Hybrid Quantum-Classical Approach for Iris Dataset Classification
+Measuring error rates of mid-circuit measurements
+TE-PAI: Exact Time Evolution by Sampling Random Circuits
+Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates
+Semiclassical origin of suppressed quantum chaos in Rydberg chains
+Limits of noisy quantum metrology with restricted quantum controls
+Acceptor-Induced Bulk Dielectric Loss in Superconducting Circuits on Silicon
