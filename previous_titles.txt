@@ -826,3 +826,5 @@ Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates
 Semiclassical origin of suppressed quantum chaos in Rydberg chains
 Limits of noisy quantum metrology with restricted quantum controls
 Acceptor-Induced Bulk Dielectric Loss in Superconducting Circuits on Silicon
+Concurrent Spin Squeezing and Light Squeezing in an Atomic Ensemble
+Measurement-Induced Transmon Ionization
