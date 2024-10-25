@@ -828,3 +828,10 @@ Limits of noisy quantum metrology with restricted quantum controls
 Acceptor-Induced Bulk Dielectric Loss in Superconducting Circuits on Silicon
 Concurrent Spin Squeezing and Light Squeezing in an Atomic Ensemble
 Measurement-Induced Transmon Ionization
+Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces
+Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light
+Generation of Structured Light and Controlled-NOT Gate in Microwave Regime
+Practical implementation of a single-qubit rotation algorithm
+Multi-qubit entanglement swapping with squeezed modes
+Ultrafast single-photon detection using nanophotonic parametric amplifiers
+A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state
