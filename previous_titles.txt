@@ -835,3 +835,5 @@ Practical implementation of a single-qubit rotation algorithm
 Multi-qubit entanglement swapping with squeezed modes
 Ultrafast single-photon detection using nanophotonic parametric amplifiers
 A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state
+Quantum Graph-State Synthesis with SAT
+Crosstalk-Robust Quantum Control in Multimode Bosonic Systems
