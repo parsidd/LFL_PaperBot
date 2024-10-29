@@ -837,3 +837,6 @@ Ultrafast single-photon detection using nanophotonic parametric amplifiers
 A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state
 Quantum Graph-State Synthesis with SAT
 Crosstalk-Robust Quantum Control in Multimode Bosonic Systems
+Characterizing entangled state update in different reference frames with weak measurements
+All-optical measurement-device-free feedforward enabling ultra-fast quantum information processing
+Of gyrators and anyons
