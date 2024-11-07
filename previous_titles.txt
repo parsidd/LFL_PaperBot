@@ -879,3 +879,7 @@ Polynomial-Time Classical Simulation of Noisy Circuits with Naturally Fault-Tole
 Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath
 Architectures for Heterogeneous Quantum Error Correction Codes
 Realization of a fast triple-magic all-optical qutrit in strontium-88
+Programming an Optical Lattice Interferometer
+Polylog-time- and constant-space-overhead fault-tolerant quantum computation with quantum low-density parity-check codes
+High-fidelity gates in a transmon using bath engineering for passive leakage reset
+Fault-tolerant Coding for Quantum Communication
