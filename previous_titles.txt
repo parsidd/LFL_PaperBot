@@ -891,3 +891,9 @@ Strong Quantum Mpemba Effect with Squeezed Thermal Reservoirs
 Tracking and Decoding Rydberg Leakage Error with MBQC
 Quantum limited imaging of a nanomechanical resonator with a spatial mode sorter
 The Floquet Fluxonium Molecule: Driving Down Dephasing in Coupled Superconducting Qubits
+Quantum Imaging and Metrology with Undetected squeezed Photons: Noise Canceling and Noise Based Imaging
+Quantum Speed Limit Time in two-qubit system by Dynamical Decoupling Method
+Experimental realization of qubit-state-controlled directional edge states in waveguide QED
+Mesoscopic theory of the Josephson junction
+AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography
+Molecular Electronic Structure Calculation via a Quantum Computer
