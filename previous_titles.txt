@@ -908,3 +908,7 @@ Observation of Josephson Harmonics in Tunnel Junctions
 QECC-Synth: A Layout Synthesizer for Quantum Error Correction Codes on Sparse Hardware Architectures
 Benchmarking the ability of a controller to execute quantum error corrected non-Clifford circuits
 Squeezing atomic $p$-orbital condensates for detecting gravitational waves
+A cat qubit stabilization scheme using a voltage biased Josephson junction
+A fiber array architecture for atom quantum computing
+Multiplexed bi-layered realization of fault-tolerant quantum computation over optically networked trapped-ion modules
+An architecture for two-qubit encoding in neutral ytterbium-171 atoms
