@@ -912,3 +912,9 @@ A cat qubit stabilization scheme using a voltage biased Josephson junction
 A fiber array architecture for atom quantum computing
 Multiplexed bi-layered realization of fault-tolerant quantum computation over optically networked trapped-ion modules
 An architecture for two-qubit encoding in neutral ytterbium-171 atoms
+Fermion-qubit fault-tolerant quantum computing
+Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance
+Correction of circuit faults in a stacked quantum memory using rank-metric codes
+Letting the tiger out of its cage: bosonic coding without concatenation
+A Universal Circuit Set Using the $S_3$ Quantum Double
+Topological Josephson parametric amplifier array: A proposal for directional, broadband, and low-noise amplification
