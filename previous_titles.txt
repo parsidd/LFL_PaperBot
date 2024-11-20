@@ -926,3 +926,8 @@ Towards ultrastrong-coupling quantum thermodynamics using a superconducting flux
 Logical computation demonstrated with a neutral atom quantum processor
 Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator
 Optimizing Entanglement in Nanomechanical Resonators through Quantum Squeezing and Parametric Amplification
+Circuit Quantisation from First Principles
+Low loss lumped-element inductors made from granular aluminum
+Sensing atomic superfluid rotation beyond the standard quantum limit
+Evaluating the Effectiveness of Hybrid Quantum-Classical Convolutional Neural Networks for Image Classification in Multiple Color Spaces
+High-Coherence Kerr-Cat Qubit in 2D Architecture
