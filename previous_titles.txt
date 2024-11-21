@@ -931,3 +931,12 @@ Low loss lumped-element inductors made from granular aluminum
 Sensing atomic superfluid rotation beyond the standard quantum limit
 Evaluating the Effectiveness of Hybrid Quantum-Classical Convolutional Neural Networks for Image Classification in Multiple Color Spaces
 High-Coherence Kerr-Cat Qubit in 2D Architecture
+Thermodynamic limitations on fault-tolerant quantum computing
+Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction
+Optimized four-qubit quantum error correcting code for amplitude damping channel
+Machine Learning for Arbitrary Single-Qubit Rotations on an Embedded Device
+Measurement-free code-switching for low overhead quantum computation using permutation invariant codes
+A universal framework for the quantum simulation of Yang-Mills theory
+Improved fluxonium readout through dynamic flux pulsing
+Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth
+Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill Codes
