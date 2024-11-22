@@ -940,3 +940,5 @@ A universal framework for the quantum simulation of Yang-Mills theory
 Improved fluxonium readout through dynamic flux pulsing
 Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth
 Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill Codes
+A 2x2 quantum dot array in silicon with fully tuneable pairwise interdot coupling
+High-distance codes with transversal Clifford and T-gates
