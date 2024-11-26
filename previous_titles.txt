@@ -948,3 +948,11 @@ Energy participation ratio analysis for very anharmonic superconducting circuits
 Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol
 Advanced LIGO detector performance in the fourth observing run
 Thermodynamics and State Preparation in a Two-State System of Light
+Deterministic multi-phonon entanglement between two mechanical resonators on separate substrates
+Asymmetric Quantum Harmonic Otto Engine Under Hot Squeezed Thermal Reservoir
+Soft information decoding with superconducting qubits
+Quantum droplets and Schr\"{o}dinger's cat states in atomic-molecular Bose-Einstein condensates
+Protomon: A Multimode Qubit in the Fluxonium Molecule
+Extension of Clifford Data Regression Methods for Quantum Error Mitigation
+Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler
+Exchange anisotropies in microwave-driven singlet-triplet qubits
