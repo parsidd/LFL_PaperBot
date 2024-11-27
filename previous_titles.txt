@@ -956,3 +956,7 @@ Protomon: A Multimode Qubit in the Fluxonium Molecule
 Extension of Clifford Data Regression Methods for Quantum Error Mitigation
 Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler
 Exchange anisotropies in microwave-driven singlet-triplet qubits
+Properties and dynamics of generalized squeezed states
+Fast, accurate, and error-resilient noise spectroscopy via basis optimization
+High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture
+Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation
