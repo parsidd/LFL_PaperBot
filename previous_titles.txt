@@ -960,3 +960,6 @@ Properties and dynamics of generalized squeezed states
 Fast, accurate, and error-resilient noise spectroscopy via basis optimization
 High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture
 Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation
+Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications
+Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond
+Demonstrating a universal logical gate set in error-detecting surface codes on a superconducting quantum processor
