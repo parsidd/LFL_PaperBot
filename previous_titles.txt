@@ -970,3 +970,11 @@ Leveraging Hardware Power through Optimal Pulse Profiling for Each Qubit Pair
 Unitary-transformed projective squeezing: applications for circuit-knitting and state-preparation of non-Gaussian states
 Theory of the photonic Joule effect in superconducting circuits
 Synthetic $\mathbb{Z}_2$ gauge theories based on parametric excitations of trapped ions
+Controller-decoder system requirements derived by implementing Shor's algorithm with surface code
+Programming Variational Quantum Circuits with Quantum-Train Agent
+Magic State Injection on IBM Quantum Processors Above the Distillation Threshold
+Dynamic Evolution of Quantum Fisher and Skew Information under Decoherence in Three-Qubit X-States
+Observing the dynamics of quantum states generated inside nonlinear optical cavities
+Quantum microwaves: stabilizing squeezed light by phase locking
+Measurement-induced state transitions in dispersive qubit readout schemes
+Erasure-tolerance scheme for the surface codes on neutral atom quantum computers
