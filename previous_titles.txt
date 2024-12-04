@@ -978,3 +978,6 @@ Observing the dynamics of quantum states generated inside nonlinear optical cavi
 Quantum microwaves: stabilizing squeezed light by phase locking
 Measurement-induced state transitions in dispersive qubit readout schemes
 Erasure-tolerance scheme for the surface codes on neutral atom quantum computers
+CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction
+Effects of multi-photon states in the calibration of single-photon detectors based on a portable bi-photon source
+Optical losses as a function of beam position on the mirrors in a 285-m suspended Fabry-Perot cavity
