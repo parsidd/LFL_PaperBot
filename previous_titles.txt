@@ -990,3 +990,10 @@ Recovering Quantum Coherence of a Cavity Qubit Coupled to a Noisy Ancilla throug
 Self-correcting GKP qubit in a superconducting circuit with an oscillating voltage bias
 Utilizing redundancies in Qubit Hilbert Space to reduce entangling gate counts in the Unitary Vibrational Coupled-Cluster Method
 Super-Poissonian Squeezed Light in the Deep Strong Regime of the Quantum Rabi Model
+Spin squeezing: Thermal behavior and distribution on excited states
+Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices
+Non-rotational measures in the Bargmann space, and entanglement of bipartite squeezed coherent states
+Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic fieldxx
+Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Arrays
+Performance Bounds for Quantum Feedback Control
+Resisting High-Energy Impact Events through Gap Engineering in Superconducting Qubit Arrays
