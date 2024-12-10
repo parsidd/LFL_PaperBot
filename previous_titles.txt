@@ -997,3 +997,8 @@ Enhancing fidelity in teleportation of a two-qubit state via a quantum communica
 Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Arrays
 Performance Bounds for Quantum Feedback Control
 Resisting High-Energy Impact Events through Gap Engineering in Superconducting Qubit Arrays
+Noise-induced quantum-circuit refrigeration
+Optimizing Qubit Mapping with Quasi-Orthogonal Space-Time Block Codes and Quaternion Orthogonal Designs
+Towards novel tunability schemes for hybrid ferromagnetic transmon qubits
+Electron-beam annealing of Josephson junctions for frequency tuning of quantum processors
+Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic field
