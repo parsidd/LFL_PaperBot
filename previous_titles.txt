@@ -1002,3 +1002,8 @@ Optimizing Qubit Mapping with Quasi-Orthogonal Space-Time Block Codes and Quater
 Towards novel tunability schemes for hybrid ferromagnetic transmon qubits
 Electron-beam annealing of Josephson junctions for frequency tuning of quantum processors
 Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic field
+Pre-detection squeezing as a resource for high-dimensional Bell-state measurements
+Deterministic Storage of Quantum Information in the Genetic Code
+Robustness of longitudinal transmon readout to ionization
+Charge and Flux Noise from Nonequilibrium Quasiparticle Energy Distributions in Superconducting Qubits and Resonators
+Parametric tuning of quantum phase transitions in ultracold reactions
