@@ -1007,3 +1007,8 @@ Deterministic Storage of Quantum Information in the Genetic Code
 Robustness of longitudinal transmon readout to ionization
 Charge and Flux Noise from Nonequilibrium Quasiparticle Energy Distributions in Superconducting Qubits and Resonators
 Parametric tuning of quantum phase transitions in ultracold reactions
+Quantum Computing in Corrosion Modeling: Bridging Research and Industry
+A mechanical quantum memory for microwave photons
+Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices
+Lattice Hamiltonians and Stray Interactions Within Quantum Processors
+Optical Gottesman-Kitaev-Preskill Qubit Generation via Approximate Squeezed Coherent State Superposition Breeding
