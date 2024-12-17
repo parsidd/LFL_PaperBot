@@ -1016,3 +1016,15 @@ A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomi
 Partial-immunity of two-photon correlation against wavefront distortion for spatially entangled photons
 An Optical Interconnect for Modular Quantum Computers
 Ultrafast Quantum Optics and Communication
+Quantum evolution of mixed states and performance of quantum heat engines
+Fabrication of low-loss Josephson parametric devices
+The Stabilizer Bootstrap of Quantum Machine Learning with up to 10000 qubits
+Magnon Blockade with Skyrmion Qubit-Magnon Coupling in a Hybrid Quantum System
+Quantum heat engine in the optomechanical system with mechanical parametric drive
+Conveyor-belt superconducting quantum computer
+Fast single-qubit gates for continuous dynamically decoupled systems
+Control of a Josephson Digital Phase Detector via an SFQ-based Flux Bias Driver
+Gatemon Qubit Revisited for Improved Reliability and Stability
+Fully and partially distributed Quantum Generalized Benders Decomposition for Unit Commitment Problems
+Cascaded Multiparameter Quantum Metrology
+Simultaneous measurement of multimode squeezing
