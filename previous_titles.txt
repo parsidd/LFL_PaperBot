@@ -1028,3 +1028,6 @@ Gatemon Qubit Revisited for Improved Reliability and Stability
 Fully and partially distributed Quantum Generalized Benders Decomposition for Unit Commitment Problems
 Cascaded Multiparameter Quantum Metrology
 Simultaneous measurement of multimode squeezing
+End-to-end switchless architecture for fault-tolerant photonic quantum computing
+Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States
+Classical simulation of circuits with realistic Gottesman-Kitaev-Preskill states
