@@ -1038,3 +1038,14 @@ Tensor-network decoders for process tensor descriptions of non-Markovian noise
 99.9%-fidelity in measuring a superconducting qubit
 The random coupled-plaquette gauge model and the surface code under circuit-level noise
 Hyperbolic Quantum Processor
+Reliable quantum advantage in quantum battery charging
+Optimizing FTQC Programs through QEC Transpiler and Architecture Codesign
+New Design of three-qubit system with three transmons and a single fixed-frequency resonator coupler
+Implementation of Magic State Injection within Heavy-Hexagon Architecture
+Indistinguishable MHz-narrow heralded photon pairs from a whispering gallery resonator
+Optimization of Two-Qubit Gates in Tunable-Coupler Architectures Using Single Flux Quantum Control
+Knowledge-dependent optimal Gaussian strategies for phase estimation
+Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations
+Robust quantum gap estimation with a noise-resilient hybrid algorithm
+Multiplexed Readout of Superconducting Qubits Using a 3D Re-entrant Cavity Filter
+Short two-qubit pulse sequences for exchange-only spin qubits in 2D layouts
