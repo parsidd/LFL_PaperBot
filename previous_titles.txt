@@ -1049,3 +1049,8 @@ Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations
 Robust quantum gap estimation with a noise-resilient hybrid algorithm
 Multiplexed Readout of Superconducting Qubits Using a 3D Re-entrant Cavity Filter
 Short two-qubit pulse sequences for exchange-only spin qubits in 2D layouts
+Resource-efficient high-threshold fault-tolerant quantum computation with weak nonlinear optics
+Sensitivity-Adapted Closed-Loop Optimization for High-Fidelity Controlled-Z Gates in Superconducting Qubits
+Ultrashort-pulse-pumped, single-mode type-0 squeezers in lithium niobate nanophotonics
+Digital Quantum Simulation of Cavity Quantum Electrodynamics: Insights from Superconducting and Trapped Ion Quantum Testbeds
+Processing and Decoding Rydberg Leakage Error with MBQC
