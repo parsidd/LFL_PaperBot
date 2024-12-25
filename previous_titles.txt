@@ -1054,3 +1054,5 @@ Sensitivity-Adapted Closed-Loop Optimization for High-Fidelity Controlled-Z Gate
 Ultrashort-pulse-pumped, single-mode type-0 squeezers in lithium niobate nanophotonics
 Digital Quantum Simulation of Cavity Quantum Electrodynamics: Insights from Superconducting and Trapped Ion Quantum Testbeds
 Processing and Decoding Rydberg Leakage Error with MBQC
+Universal pulses for superconducting qudit ladder gates
+Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management
