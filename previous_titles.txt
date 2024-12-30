@@ -1056,3 +1056,11 @@ Digital Quantum Simulation of Cavity Quantum Electrodynamics: Insights from Supe
 Processing and Decoding Rydberg Leakage Error with MBQC
 Universal pulses for superconducting qudit ladder gates
 Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management
+Enhancing tripartite photon-phonon-magnon entanglement by synergizing parametric amplifications
+Traversing Quantum Control Robustness Landscapes: A New Paradigm for Quantum Gate Engineering
+A C-Band Cryogenic GaAs MMIC Low-Noise Amplifier for Quantum Applications
+Entanglement-Driven Energy Exchange in a Two-Qubit Quantum Battery
+Transmon qutrit-based simulation of spin-1 AKLT systems
+Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice
+Boosting the generation rate of squeezed single-photon states by generalized photon subtraction
+Segal-Bargmann type spaces related to non-rotational measure, and entanglement of bipartite squeezed coherent states
