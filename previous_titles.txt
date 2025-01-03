@@ -1064,3 +1064,12 @@ Transmon qutrit-based simulation of spin-1 AKLT systems
 Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice
 Boosting the generation rate of squeezed single-photon states by generalized photon subtraction
 Segal-Bargmann type spaces related to non-rotational measure, and entanglement of bipartite squeezed coherent states
+Optimal asymptotic precision bounds for nonlinear quantum metrology under collective dephasing
+Unraveling the switching dynamics in a quantum double-well potential
+Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays
+Electronic Noise Considerations for Designing Integrated Solid-State Quantum Memories
+Measurable Improvement in Multi-Qubit Readout Using a Kinetic Inductance Traveling Wave Parametric Amplifier
+Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled Photon Sources
+Black Hole Waterfall: a unitary phenomenological model for black hole evaporation with Page curve
+Quantum speed limit and nonclassicality in open quantum system models using the Wigner function
+Probing Light Bosonic Dark Matter with Transmon Qubits
