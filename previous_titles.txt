@@ -1073,3 +1073,10 @@ Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled
 Black Hole Waterfall: a unitary phenomenological model for black hole evaporation with Page curve
 Quantum speed limit and nonclassicality in open quantum system models using the Wigner function
 Probing Light Bosonic Dark Matter with Transmon Qubits
+Topological quantum compilation of metaplectic anyons
+Restoring Heisenberg-Limited Precision in Non-Markovian Open Quantum Systems via Dynamical Decoupling
+Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform
+Empirical learning of dynamical decoupling on quantum processors
+Qubit-assisted quantum metrology under a time-reversal strategy
+Optical Gottesman-Kitaev-Preskill qubit generation via approximate squeezed coherent state superposition breeding
+Genuine quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator
