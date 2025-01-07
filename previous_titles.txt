@@ -1080,3 +1080,6 @@ Empirical learning of dynamical decoupling on quantum processors
 Qubit-assisted quantum metrology under a time-reversal strategy
 Optical Gottesman-Kitaev-Preskill qubit generation via approximate squeezed coherent state superposition breeding
 Genuine quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator
+Linear Optics to Scalable Photonic Quantum Computing
+Floquet geometric squeezing in fast-rotating condensates
+Non-Markovian dynamics of a superconducting qubit in a phononic bandgap
