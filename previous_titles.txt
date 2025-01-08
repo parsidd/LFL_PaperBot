@@ -1083,3 +1083,7 @@ Genuine quantum non-Gaussianity and metrological sensitivity of Fock states prep
 Linear Optics to Scalable Photonic Quantum Computing
 Floquet geometric squeezing in fast-rotating condensates
 Non-Markovian dynamics of a superconducting qubit in a phononic bandgap
+Four-body coupler for superconducting qubits based on Josephson parametric oscillators
+Exact Decoding of Repetition Code under Circuit Level Noise
+Spin Environment of a Superconducting Qubit in High Magnetic Fields
+All-microwave Lamb shift engineering for a fixed frequency multi-level superconducting qubit
