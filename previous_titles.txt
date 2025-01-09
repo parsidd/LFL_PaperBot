@@ -1087,3 +1087,8 @@ Four-body coupler for superconducting qubits based on Josephson parametric oscil
 Exact Decoding of Repetition Code under Circuit Level Noise
 Spin Environment of a Superconducting Qubit in High Magnetic Fields
 All-microwave Lamb shift engineering for a fixed frequency multi-level superconducting qubit
+Dephasing-tolerant quantum sensing for transverse magnetic fields with spin qudits
+Realizing Lattice Surgery on Two Distance-Three Repetition Codes with Superconducting Qubits
+Realization of versatile and effective quantum metrology using a single bosonic mode
+Thermally driven quantum refrigerator autonomously resets a superconducting qubit
+Direct Detection of Down-Converted Photons Spontaneously Produced at a Single Josephson Junction
