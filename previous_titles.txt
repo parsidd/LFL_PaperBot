@@ -1092,3 +1092,10 @@ Realizing Lattice Surgery on Two Distance-Three Repetition Codes with Supercondu
 Realization of versatile and effective quantum metrology using a single bosonic mode
 Thermally driven quantum refrigerator autonomously resets a superconducting qubit
 Direct Detection of Down-Converted Photons Spontaneously Produced at a Single Josephson Junction
+Efficient Qubit Calibration by Binary-Search Hamiltonian Tracking
+Entropy flow in a parametric amplifier
+Demonstrating experimentally the encoding and dynamics of an error-correctable logical qubit on a hyperfine-coupled nuclear spin qudit
+Kerr-magnon-assisted asymptotic stationary photon-phonon squeezing
+Simple Construction of Qudit Floquet Codes on a Family of Lattices
+Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions
+Impact of Josephson junction array modes on fluxonium readout
