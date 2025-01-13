@@ -1099,3 +1099,9 @@ Kerr-magnon-assisted asymptotic stationary photon-phonon squeezing
 Simple Construction of Qudit Floquet Codes on a Family of Lattices
 Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions
 Impact of Josephson junction array modes on fluxonium readout
+Deterministic Fault-Tolerant State Preparation for Near-Term Quantum Error Correction: Automatic Synthesis Using Boolean Satisfiability
+Teleportation and Entanglement Swapping of Continuous Quantum Variables of Microwave Radiation
+Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't
+Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array
+Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms
+Randomized benchmarking with non-Markovian noise and realistic finite-time gates
