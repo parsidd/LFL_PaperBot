@@ -1105,3 +1105,11 @@ Myths around quantum computation before full fault tolerance: What no-go theorem
 Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array
 Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms
 Randomized benchmarking with non-Markovian noise and realistic finite-time gates
+Classical Attack on Bell Inequalities
+Neutral atom entangling gate in the ultrastrong coupling regime
+Capability of anti-degradable quantum channel with additional entanglement
+A Flux-Tunable cavity for Dark matter detection
+Bosonic Amplitude-Damping Codes Beyond Binomial Schemes
+Enhancing the sensitivity of single microwave photon detection with bandwidth tunability
+Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits
+Quantum State Transfer via a Multimode Resonator
