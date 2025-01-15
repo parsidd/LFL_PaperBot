@@ -1113,3 +1113,5 @@ Bosonic Amplitude-Damping Codes Beyond Binomial Schemes
 Enhancing the sensitivity of single microwave photon detection with bandwidth tunability
 Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits
 Quantum State Transfer via a Multimode Resonator
+Exact amplitudes of parametric processes in driven Josephson circuits
+The Clifford hierarchy for one qubit or qudit
