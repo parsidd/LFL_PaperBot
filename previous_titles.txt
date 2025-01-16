@@ -1115,3 +1115,7 @@ Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer
 Quantum State Transfer via a Multimode Resonator
 Exact amplitudes of parametric processes in driven Josephson circuits
 The Clifford hierarchy for one qubit or qudit
+Magnon cat states in a cavity-magnon-qubit system via two-magnon driving and dissipation
+Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantum Walk on Dual-Rail Qubit Arrays
+Balanced cross-Kerr coupling for superconducting qubit readout
+Error Crafting in Mixed Quantum Gate Synthesis
