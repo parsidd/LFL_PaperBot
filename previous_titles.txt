@@ -1119,3 +1119,11 @@ Magnon cat states in a cavity-magnon-qubit system via two-magnon driving and dis
 Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantum Walk on Dual-Rail Qubit Arrays
 Balanced cross-Kerr coupling for superconducting qubit readout
 Error Crafting in Mixed Quantum Gate Synthesis
+High-frequency readout free from transmon multi-excitation resonances
+Non-reciprocical Scattering in a Microwave Frequency Comb
+Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements
+Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction
+Thermodynamics of coherent energy exchanges between lasers and two-level systems
+Sample-based Krylov Quantum Diagonalization
+Topological quantum compilation of metaplectic anyons based on the genetic optimized algorithms
+Non-Markovian Feedback for Optimized Quantum Error Correction
