@@ -1127,3 +1127,6 @@ Thermodynamics of coherent energy exchanges between lasers and two-level systems
 Sample-based Krylov Quantum Diagonalization
 Topological quantum compilation of metaplectic anyons based on the genetic optimized algorithms
 Non-Markovian Feedback for Optimized Quantum Error Correction
+Low-overhead Magic State Circuits with Transversal CNOTs
+Quantum tomography from the evolution of a single expectation
+Benchmarking the readout of a superconducting qubit for repeated measurements
