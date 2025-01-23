@@ -1147,3 +1147,6 @@ Designing fast quantum gates using optimal control with a reinforcement-learning
 Entangling Schr\"odinger's cat states by bridging discrete- and continuous-variable encoding
 Entangling power, gate typicality, and measurement-induced phase transitions
 Dissipative Protection of a GKP Qubit in a High-Impedance Superconducting Circuit Driven by a Microwave Frequency Comb
+Cavity Mode Initialization via a Rabi Driven Qubit
+Preparing low-variance states using a distributed quantum algorithm
+Looped Pipelines Enabling Effective 3D Qubit Lattices in a Strictly 2D Device
