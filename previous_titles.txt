@@ -1150,3 +1150,8 @@ Dissipative Protection of a GKP Qubit in a High-Impedance Superconducting Circui
 Cavity Mode Initialization via a Rabi Driven Qubit
 Preparing low-variance states using a distributed quantum algorithm
 Looped Pipelines Enabling Effective 3D Qubit Lattices in a Strictly 2D Device
+Probabilistic Channel Distillation via Indefinite Causal Order
+Read out the fermion parity of a potential artificial Kitaev chain utilizing a transmon qubit
+Recovery of Quantum Correlations using Machine Learning
+Quantum Error Correction near the Coding Theoretical Bound
+Unifying Floquet Theory of Longitudinal and Dispersive Readout
