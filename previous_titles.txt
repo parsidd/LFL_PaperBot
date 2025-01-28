@@ -1163,3 +1163,6 @@ Verifying Fault-Tolerance of Quantum Error Correction Codes
 End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml
 A dressed singlet-triplet qubit in germanium
 Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization
+Construction of new type of CNOT gate using cross-resonance pulse in the transmon-PPQ system
+Crystalline superconductor-semiconductor Josephson junctions for compact superconducting qubits
+Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions
