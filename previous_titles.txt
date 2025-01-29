@@ -1166,3 +1166,13 @@ Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization
 Construction of new type of CNOT gate using cross-resonance pulse in the transmon-PPQ system
 Crystalline superconductor-semiconductor Josephson junctions for compact superconducting qubits
 Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions
+Near-Optimal Parameter Tuning of Level-1 QAOA for Ising Models
+Viewing fluxonium through the lens of the cat qubit
+High-fidelity QND readout and measurement back-action in a Tantalum-based high-coherence fluxonium qubit
+Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing
+Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver
+Dephasing-induced leakage in multi-level superconducting quantum circuits
+Two measurement bases are asymptotically informationally complete for any pure state tomography
+Directly probing work extraction from a single qubit engine fueled by quantum measurements
+Time-Efficient Constant-Space-Overhead Fault-Tolerant Quantum Computation
+Benchmarking Quantum Optimization for the Maximum-Cut Problem on a Superconducting Quantum Computer
