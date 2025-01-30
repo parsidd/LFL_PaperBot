@@ -1176,3 +1176,8 @@ Two measurement bases are asymptotically informationally complete for any pure s
 Directly probing work extraction from a single qubit engine fueled by quantum measurements
 Time-Efficient Constant-Space-Overhead Fault-Tolerant Quantum Computation
 Benchmarking Quantum Optimization for the Maximum-Cut Problem on a Superconducting Quantum Computer
+Efficient compilation of quantum circuits using multi-qubit gates
+Multiplexed color centers in a silicon photonic cavity array
+The quantromon: A qubit-resonator system with orthogonal qubit and readout modes
+Readout-induced leakage of the fluxonium qubit
+Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration
