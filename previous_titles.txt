@@ -1200,3 +1200,9 @@ Noise-resilient host for electron qubit operation up to 0.4 K
 Comparative study of quantum error correction strategies for the heavy-hexagonal lattice
 Monitoring the energy of a cavity by observing the emission of a repeatedly excited qubit
 Non-reciprocal Scattering in a Microwave Frequency Comb
+Cavity-enhanced solid-state nuclear spin gyroscope
+Potential of photon-subtracted CV states towards gain sensitivity of the Mach-Zehnder interferometer
+Dynamic Circuits for the Quantum Lattice-Boltzmann Method
+Contextuality of Quantum Error-Correcting Codes
+Extension of the Alberti-Uhlmann criterion beyond qubit dichotomies
+Quantum enhanced real-time sensing of protein-gold adsorption kinetics
