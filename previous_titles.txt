@@ -1219,3 +1219,11 @@ Improving and benchmarking NISQ qubit routers
 DAPO-QAOA: An algorithm for solving combinatorial optimization problems by dynamically constructing phase operators
 Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz
 Impulse measurements enhanced with squeezed readout light
+Heuristic Time Complexity of NISQ Shortest-Vector-Problem Solvers
+First-principle crosstalk dynamics and Hamiltonian learning via Rabi experiments
+Efficient learning and optimizing non-Gaussian correlated noise in digitally controlled qubit systems
+Telegraph flux noise induced beating Ramsey fringe in transmon qubits
+How to Entangle or Disentangle Gaussian States with Hong-Ou-Mandel Interference
+Heisenberg-limited calibration of entangling gates with robust phase estimation
+Noise-resilient and resource-efficient hybrid algorithm for robust quantum gap estimation
+Energy exchange and fluctuations between a dissipative qubit and a monitor under continuous measurement and feedback
