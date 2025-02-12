@@ -1227,3 +1227,9 @@ How to Entangle or Disentangle Gaussian States with Hong-Ou-Mandel Interference
 Heisenberg-limited calibration of entangling gates with robust phase estimation
 Noise-resilient and resource-efficient hybrid algorithm for robust quantum gap estimation
 Energy exchange and fluctuations between a dissipative qubit and a monitor under continuous measurement and feedback
+Mixed-state geometric phases of coherent and squeezed spin states
+Quantum State Tomography in a Third-Order Integrated Optical Parametric Oscillator
+Kinetic inductance coupling for circuit QED with spins
+A proposal for charge basis tomography of superconducting qubits
+Operation of a high-frequency, phase-slip qubit
+Tomographic Signatures of Interacting Majorana and Andreev States in Superconductor-Semiconductor Transmon Qubits
