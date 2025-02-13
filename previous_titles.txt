@@ -1233,3 +1233,6 @@ Kinetic inductance coupling for circuit QED with spins
 A proposal for charge basis tomography of superconducting qubits
 Operation of a high-frequency, phase-slip qubit
 Tomographic Signatures of Interacting Majorana and Andreev States in Superconductor-Semiconductor Transmon Qubits
+Enhancing dissipative cat qubit protection by squeezing
+Multiplexed qubit readout quality metric beyond assignment fidelity
+Spin-Valley Protected Kramers Pair in Bilayer Graphene
