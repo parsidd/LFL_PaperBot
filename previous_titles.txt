@@ -1236,3 +1236,7 @@ Tomographic Signatures of Interacting Majorana and Andreev States in Superconduc
 Enhancing dissipative cat qubit protection by squeezing
 Multiplexed qubit readout quality metric beyond assignment fidelity
 Spin-Valley Protected Kramers Pair in Bilayer Graphene
+High-Rate Four Photon Subtraction from Squeezed Vacuum: Preparing Cat State for Optical Quantum Computation
+Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory
+Approximate Dynamical Quantum Error-Correcting Codes
+Approaching the ultrastrong coupling regime between an Andreev level and a microwave resonator
