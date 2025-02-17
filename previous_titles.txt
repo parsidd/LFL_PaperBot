@@ -1240,3 +1240,9 @@ High-Rate Four Photon Subtraction from Squeezed Vacuum: Preparing Cat State for 
 Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory
 Approximate Dynamical Quantum Error-Correcting Codes
 Approaching the ultrastrong coupling regime between an Andreev level and a microwave resonator
+Variational quantum thermalizers based on weakly-symmetric nonunitary multi-qubit operations
+Revealing correlated noise with single-qubit operations
+Weak continuous measurements require more work than strong ones
+Floquet Engineering and Harnessing Giant Atoms in Frequency-Comb Emission and Bichromatic Correlations in Waveguide QED
+Spin-squeezed vector atomic magnetometry
+Variational optical phase learning on a continuous-variable quantum compiler
