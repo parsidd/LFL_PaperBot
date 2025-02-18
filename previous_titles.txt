@@ -1246,3 +1246,7 @@ Weak continuous measurements require more work than strong ones
 Floquet Engineering and Harnessing Giant Atoms in Frequency-Comb Emission and Bichromatic Correlations in Waveguide QED
 Spin-squeezed vector atomic magnetometry
 Variational optical phase learning on a continuous-variable quantum compiler
+The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing
+Quantum Error Mitigation for Sampling Algorithms
+Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing
+Bulk-to-boundary anyon fusion from microscopic models
