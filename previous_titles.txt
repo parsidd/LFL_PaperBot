@@ -1250,3 +1250,7 @@ The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Lar
 Quantum Error Mitigation for Sampling Algorithms
 Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing
 Bulk-to-boundary anyon fusion from microscopic models
+Roadmap to fault tolerant quantum computation using topological qubit arrays
+A Compact One-Way Fault-Tolerant Optical Quantum Computation
+Benchmarking MedMNIST dataset on real quantum hardware
+Compression of Entanglement Improves Quantum Communication
