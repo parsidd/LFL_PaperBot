@@ -1254,3 +1254,5 @@ Roadmap to fault tolerant quantum computation using topological qubit arrays
 A Compact One-Way Fault-Tolerant Optical Quantum Computation
 Benchmarking MedMNIST dataset on real quantum hardware
 Compression of Entanglement Improves Quantum Communication
+Beam splitters as controlled-Z gate for hybrid state
+Emergence of realism through quantum discord suppression in photonic weak measurements
