@@ -1256,3 +1256,14 @@ Benchmarking MedMNIST dataset on real quantum hardware
 Compression of Entanglement Improves Quantum Communication
 Beam splitters as controlled-Z gate for hybrid state
 Emergence of realism through quantum discord suppression in photonic weak measurements
+Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning
+Passive leakage removal unit based on a disordered transmon array
+Noise Mitigation in Single Microwave Photon Counting by Cascaded Quantum Measurements
+Adaptive Syndrome Extraction
+Spin Squeezing of Macroscopic Nuclear Spin Ensembles
+Taming Recoil Effect in Cavity-Assisted Quantum Interconnects
+Error correctable efficient quantum homomorphic encryption using Calderbank-Shor-Steane codes
+Decoherence of surface phonons in a quantum acoustic system
+Non-Gaussian Generalized Two-Mode Squeezing: Applications to Two-Ensemble Spin Squeezing and Beyond
+Demonstrating Experimentally the Encoding and Dynamics of an Error-Correctable Logical Qubit on a Hyperfine-Coupled Nuclear Spin Qudit
+Optimal Control in Large Open Quantum Systems: The Case of Transmon Readout and Reset
