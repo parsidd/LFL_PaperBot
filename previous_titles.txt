@@ -1267,3 +1267,5 @@ Decoherence of surface phonons in a quantum acoustic system
 Non-Gaussian Generalized Two-Mode Squeezing: Applications to Two-Ensemble Spin Squeezing and Beyond
 Demonstrating Experimentally the Encoding and Dynamics of an Error-Correctable Logical Qubit on a Hyperfine-Coupled Nuclear Spin Qudit
 Optimal Control in Large Open Quantum Systems: The Case of Transmon Readout and Reset
+Randomized benchmarking of a high-fidelity remote CNOT gate over a meter-scale microwave interconnect
+Non-degenerate noise-resilient superconducting qubit
