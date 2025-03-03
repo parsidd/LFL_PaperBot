@@ -1292,3 +1292,7 @@ Non-paraxial effects on laser-qubit interactions
 The Octo-Rail Lattice: a four-dimensional cluster state design
 Remote Entangling Gates for Spin Qubits in Quantum Dots using a Charge-Sensitive Superconducting Coupler
 Entangling distant systems via universal nonadiabatic passage
+Leveraging Atom Loss Errors in Fault Tolerant Quantum Algorithms
+Improving error suppression with noise-aware decoding
+Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction
+Learning-Driven Annealing with Adaptive Hamiltonian Modification for Solving Large-Scale Problems on Quantum Devices
