@@ -1327,3 +1327,11 @@ Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes
 Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays
 Constrained many-body phases in a $\mathbb{Z}_2$-Higgs lattice gauge theory
 Nonlinear response theory for lossy superconducting quantum circuits
+Retrieving information in sloppy quantum phase estimation
+Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors
+Spectrum analysis with parametrically modulated transmon qubits
+Quantum decoherence of nitrogen-vacancy spin ensembles in a nitrogen spin bath in diamond under dynamical decoupling
+Cooperative squeezing of internal and collective spins in an atomic ensemble
+The singlet-triplet and exchange-only flopping-mode spin qubits
+Platonic dynamical decoupling sequences for interacting spin systems
+Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing
