@@ -1351,3 +1351,7 @@ Vulnerability of fault-tolerant topological quantum error correction to quantum 
 Efficient and Scalable Architectures for Multi-Level Superconducting Qubit Readout
 Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoders
 Processing and Decoding Rydberg Decay Error with MBQC
+Quantum Error Corrected Non-Markovian Metrology
+Quantum squeezing amplification with a weak Kerr nonlinear oscillator
+Single-Qubit Gates Beyond the Rotating-Wave Approximation for Strongly Anharmonic Low-Frequency Qubits
+Kramers-protected hardware-efficient error correction with Andreev spin qubits
