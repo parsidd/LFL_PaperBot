@@ -1355,3 +1355,6 @@ Quantum Error Corrected Non-Markovian Metrology
 Quantum squeezing amplification with a weak Kerr nonlinear oscillator
 Single-Qubit Gates Beyond the Rotating-Wave Approximation for Strongly Anharmonic Low-Frequency Qubits
 Kramers-protected hardware-efficient error correction with Andreev spin qubits
+Eigen-SNAP gate for photonic qubits in a cavity-transmon system
+Correlated quasiparticle poisoning from phonon-only events in superconducting qubits
+Variational Graphical Quantum Error Correction Codes
