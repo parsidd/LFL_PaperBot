@@ -1358,3 +1358,8 @@ Kramers-protected hardware-efficient error correction with Andreev spin qubits
 Eigen-SNAP gate for photonic qubits in a cavity-transmon system
 Correlated quasiparticle poisoning from phonon-only events in superconducting qubits
 Variational Graphical Quantum Error Correction Codes
+The quantum non-Markovianity for a special class of generalized Weyl channel
+Extractors: QLDPC Architectures for Efficient Pauli-Based Computation
+Direct estimation of arbitrary observables of an oscillator
+Performance of the spin qubit shuttling architecture for a surface code implementation
+Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory
