@@ -1389,3 +1389,7 @@ Mixed spin-boson coupling for qubit readout with suppressed residual shot-noise 
 Exchange-Coupled Spins for Robust High-Temperature Qubits
 Strongly-anharmonic gateless gatemon qubits based on InAs/Al 2D heterostructure
 Engineering Bosonic Codes with Quantum Lattice Gates
+Error correction of a logical qubit encoded in a single atomic ion
+Optimal Moment-based Characterization of a Gaussian State
+Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits
+Demonstration of High-Fidelity Entangled Logical Qubits using Transmons
