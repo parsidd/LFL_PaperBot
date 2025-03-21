@@ -1408,3 +1408,11 @@ Thermally driven quantum refrigerator autonomously resets superconducting qubit
 Quantum metrology using quantum combs and tensor network formalism
 High-Precision Multi-Qubit Clifford+T Synthesis by Unitary Diagonalization
 Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications
+Reducing T Gates with Unitary Synthesis
+Optimizing realistic continuous-variable quantum teleportation with non-Gaussian resources
+Excitonic Enhancement of Squeezed Light in Quantum-Optical High-Harmonic Generation From a Mott Insulator
+Multimode Qubit-Conditional Operations via Generalized Cross-Resonance
+Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback
+Non-Markovian Relaxation Spectroscopy of Fluxonium Qubits
+Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment
+Fast, accurate, and error-resilient variational quantum noise spectroscopy
