@@ -1435,3 +1435,4 @@ Predicted third-order sweet spots for phi-junction Josephson parametric amplifie
 High-Rate Extended Binomial Codes for Multi-Qubit Encoding
 Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits
 Preserving Phase Coherence and Linearity in Cat Qubits with Exponential Bit-Flip Suppression
+Prospect for measuring work statistics in quantum coherent systems
