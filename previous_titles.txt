@@ -1445,3 +1445,7 @@ Efficiency Enhancement up to Unity in a Generalized Quantum Otto Engine: Compara
 Atomic Josephson Parametric Amplifier
 Dissipative protection of a GKP qubit in a high-impedance superconducting circuit driven by a microwave frequency comb
 Benchmarking the performance of a high-Q cavity qudit using random unitaries
+Quantum error correction for long chains of trapped ions
+Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code
+Husimi phase distribution in non-Gaussian operations
+Experimental realization of deterministic and selective photon addition in a bosonic mode assisted by an ancillary qubit
