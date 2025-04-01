@@ -1449,3 +1449,12 @@ Quantum error correction for long chains of trapped ions
 Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code
 Husimi phase distribution in non-Gaussian operations
 Experimental realization of deterministic and selective photon addition in a bosonic mode assisted by an ancillary qubit
+Theory of the correlated quantum Zeno effect in a monitored qubit dimer
+Towards practical non-Markovianity measures: Normalization and regularization techniques
+Quantum Computation with Quantum Batteries
+Quantum Features of the Thermal Two-Qubit Quantum Rabi Model in Ultra- and Deep-Strong Regimes
+Coherent manipulation of interacting electron qubits on solid neon
+Mechanical Squeezed Kerr Oscillator based on Tapered Ion Trap
+Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor
+Mitigation of correlated readout errors without randomized measurements
+Finite-round quantum error correction on symmetric quantum sensors
