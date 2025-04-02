@@ -1458,3 +1458,9 @@ Mechanical Squeezed Kerr Oscillator based on Tapered Ion Trap
 Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor
 Mitigation of correlated readout errors without randomized measurements
 Finite-round quantum error correction on symmetric quantum sensors
+Bright squeezed light in the kilohertz frequency band
+Experimental realization and synchronization of a quantum van der Pol oscillator
+A Clue on Small-Capacitance Josephson Junction: What to Expect from Cooper Pair Ideal Conductor and Ohmic Resistor in Parallel?
+Wavelet correlation noise analysis for qubit operation variable time series
+Complexity-constrained quantum thermodynamics
+Scalable noise characterization of syndrome-extraction circuits with averaged circuit eigenvalue sampling
