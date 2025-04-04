@@ -1468,3 +1468,5 @@ Fault-tolerant correction-ready encoding of the [[7,1,3]] Steane code on a 2D gr
 Preparation of conditionally-squeezed states in qubit-oscillator systems
 Variational preparation of entangled states in a system of transmon qubits
 Accurate and Honest Approximation of Correlated Qubit Noise
+Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla
+An Overview of Josephson Junctions Based QPUs
