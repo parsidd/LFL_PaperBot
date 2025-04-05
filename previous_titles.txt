@@ -1470,3 +1470,4 @@ Variational preparation of entangled states in a system of transmon qubits
 Accurate and Honest Approximation of Correlated Qubit Noise
 Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla
 An Overview of Josephson Junctions Based QPUs
+Fast and Accurate Greenberger-Horne-Zeilinger Encoding Using All-to-All Interactions
