@@ -1486,3 +1486,6 @@ CutQAS: Topology-aware quantum circuit cutting via reinforcement learning
 Fast gates for bit-flip protected superconducting qubits
 Correlated decoding of logical algorithms with transversal gates
 Controlled-squeeze gate in superconducting quantum circuits
+Spin Squeezing via One-Axis Twisting in a Quadrupolar NMR system under relaxation effects
+Training Hybrid Deep Quantum Neural Network for Reinforcement Learning Efficiently
+Dynamically near-stable two-mode squeezing in optomechanical systems
