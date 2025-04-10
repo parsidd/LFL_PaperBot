@@ -1489,3 +1489,10 @@ Controlled-squeeze gate in superconducting quantum circuits
 Spin Squeezing via One-Axis Twisting in a Quadrupolar NMR system under relaxation effects
 Training Hybrid Deep Quantum Neural Network for Reinforcement Learning Efficiently
 Dynamically near-stable two-mode squeezing in optomechanical systems
+Experimental Implementation of a Qubit-Efficient Variational Quantum Eigensolver with Analog Error Mitigation on a Superconducting Quantum Processor
+Kerr enhanced optomechanical entanglement via reservoir design
+Variational Quantum Machine Learning with Quantum Error Detection
+Dissipation and noise in strongly driven Josephson junctions
+Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics
+Kerr-cat Qubit Operations Below the Fault-tolerant Threshold
+Wigner Function of Observed Quantum Systems
