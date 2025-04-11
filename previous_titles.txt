@@ -1496,3 +1496,9 @@ Dissipation and noise in strongly driven Josephson junctions
 Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics
 Kerr-cat Qubit Operations Below the Fault-tolerant Threshold
 Wigner Function of Observed Quantum Systems
+Ergotropy-Based Quantum Thermodynamics
+Characterising the failure mechanisms of error-corrected quantum logic gates
+Estimating entanglement monotones of non-pure spin-squeezed states
+Quantum error correction via multi-particle discrete-time quantum walk
+Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors
+Efficient Formal Verification of Quantum Error Correcting Programs
