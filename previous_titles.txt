@@ -1515,3 +1515,9 @@ Scalable fluxonium qubit architecture with tunable interactions between non-comp
 Cross-talk in superconducting qubit lattices with tunable couplers - comparing transmon and fluxonium architectures
 Universal fault-tolerant logic with heterogeneous holographic codes
 LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing
+No-Go Theorems for Universal Quantum State Purification via Classically Simulable Operations
+Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning
+A Quantum Advantage in Localizing Transmission Loss Change in Optical Networks
+Measuring coherent dynamics of a superconducting qubit in an open waveguide
+Reducing leakage of single-qubit gates for superconducting quantum processors using analytical control pulse envelopes
+Surface Code Error Correction with Crosstalk Noise
