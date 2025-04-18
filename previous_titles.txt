@@ -1526,3 +1526,8 @@ Characterizing physical and logical errors in a transversal CNOT via cycle error
 Locality-aware Pauli-based computation for local magic state preparation
 Logical multi-qubit entanglement with dual-rail superconducting qubits
 High-Efficiency, Low-Loss Floquet-mode Traveling Wave Parametric Amplifier
+Multi-qubit nanoscale sensing with entanglement as a resource
+Non-invasive mid-circuit measurement and reset on atomic qubits
+Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model
+Feedforward suppression of readout-induced faults in quantum error correction
+The effects of disorder in superconducting materials on qubit coherence
