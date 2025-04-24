@@ -1549,3 +1549,10 @@ Quantum Discrete Variable Representations
 Non-demolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering
 Detector of microwave photon pairs based on a Josephson photomultiplier
 Two-time weak measurement protocol for ergotropy protection in open quantum batteries
+Kronecker states: a powerful source of multipartite maximally entangled states in quantum information
+Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems
+Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario
+Quantum sensing with spin defects in boron nitride nanotubes
+Beating the break-even point with autonomous quantum error correction
+Potentiometric detection of spin polarization expected at the surface of FeTe0.6Se0.4 in the effective p-wave superconducting state
+Improved performance of the Bacon-Shor code with Steane's syndrome extraction method
