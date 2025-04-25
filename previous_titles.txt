@@ -1556,3 +1556,9 @@ Quantum sensing with spin defects in boron nitride nanotubes
 Beating the break-even point with autonomous quantum error correction
 Potentiometric detection of spin polarization expected at the surface of FeTe0.6Se0.4 in the effective p-wave superconducting state
 Improved performance of the Bacon-Shor code with Steane's syndrome extraction method
+Surface-code Superconducting Quantum Processors: From Calibration To Logical Performance
+OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing
+Broadband Kinetic-Inductance Parametric Amplifiers with Impedance Engineering
+Leakage at zero temperature from changes in chemical potential in Majorana qubits
+Magic state distillation without measurements and post-selection
+Small correlation is sufficient for optimal noisy quantum metrology
