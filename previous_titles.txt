@@ -1562,3 +1562,8 @@ Broadband Kinetic-Inductance Parametric Amplifiers with Impedance Engineering
 Leakage at zero temperature from changes in chemical potential in Majorana qubits
 Magic state distillation without measurements and post-selection
 Small correlation is sufficient for optimal noisy quantum metrology
+Multiparameter quantum estimation with Gaussian states: efficiently evaluating Holevo, RLD and SLD Cram\'er-Rao bounds
+Spin decoherence in molecular crystals: nuclear v.s. electronic spin baths
+Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms
+Optical Schr\"odinger cat states generation using cubic phase resource state and beamsplitter
+Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control
