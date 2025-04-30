@@ -1574,3 +1574,9 @@ Precision Polarization Tuning for Light Shift Mitigation in Trapped-Ion Qubits
 Fooling the Decoder: An Adversarial Attack on Quantum Error Correction
 Quantum Error Correction in Quaternionic Hilbert Spaces
 Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures
+Network-Aware Scheduling for Remote Gate Execution in Quantum Data Centers
+Parameter optimization for the unimon qubit
+Saturation of Quantum Cramer-Rao Bounds for Distributed Sensing via Error Sensitivity in SU(1,1)-SU(m) Interferometry
+Noise limits for dc SQUID readout of high-$Q$ resonators below 300 MHz
+Transversal Gates in Nonadditive Quantum Codes
+Phase-locking in dynamical systems and quantum mechanics
