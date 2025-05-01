@@ -1580,3 +1580,11 @@ Saturation of Quantum Cramer-Rao Bounds for Distributed Sensing via Error Sensit
 Noise limits for dc SQUID readout of high-$Q$ resonators below 300 MHz
 Transversal Gates in Nonadditive Quantum Codes
 Phase-locking in dynamical systems and quantum mechanics
+Iceberg Beyond the Tip: Co-Compilation of a Quantum Error Detection Code and a Quantum Algorithm
+A microwave-activated high-fidelity three-qubit gate scheme for fixed-frequency superconducting qubits
+Simulating quantum collision models with Hamiltonian simulations using early fault-tolerant quantum computers
+Heterogeneously error-corrected QRAMs
+SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing
+Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels
+Landau-Zener-St\"uckelberg spectroscopy of a fluxonium quantum circuit
+High coherence fluxonium manufactured with a wafer-scale uniformity process
