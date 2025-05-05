@@ -1596,3 +1596,8 @@ Probing excited-state dynamics of transmon ionization
 Offset Charge Dependence of Measurement-Induced Transitions in Transmons
 Classical variational optimization of PREPARE circuit for quantum phase estimation of quantum chemistry Hamiltonians
 Dynamics of decoherence in a noisy driven environment
+Optomechanical resource for fault-tolerant quantum computing
+Quasiparticle-induced decoherence of a driven superconducting qubit
+Theory of Quasiparticle Generation by Microwave Drives in Superconducting Qubits
+S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices
+Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes
