@@ -1601,3 +1601,12 @@ Quasiparticle-induced decoherence of a driven superconducting qubit
 Theory of Quasiparticle Generation by Microwave Drives in Superconducting Qubits
 S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices
 Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes
+Interference in complex canonical variables is not quantum
+Flux-Trapping Fluxonium Qubit
+Time-delayed collective dynamics in waveguide QED and bosonic quantum networks
+Data-driven Hamiltonian correction for qubits for design of gates
+Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout
+Hyperinductance based on stacked Josephson junctions
+Engineering a multi-level bath for transmons with three-wave mixing and parametric drives
+Engineering CSS surgery: compiling any CNOT in any code
+Quadrature-Dependent Lattice Dynamics of Dissipative Microcombs
