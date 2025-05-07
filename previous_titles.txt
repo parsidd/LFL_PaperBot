@@ -1610,3 +1610,6 @@ Hyperinductance based on stacked Josephson junctions
 Engineering a multi-level bath for transmons with three-wave mixing and parametric drives
 Engineering CSS surgery: compiling any CNOT in any code
 Quadrature-Dependent Lattice Dynamics of Dissipative Microcombs
+Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability
+Concatenate codes, save qubits
+Theoretical framework for enhancing or enabling cooling of a mechanical resonator via the anti-Stokes or Stokes interaction and zero-photon detection
