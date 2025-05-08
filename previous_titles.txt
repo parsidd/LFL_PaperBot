@@ -1613,3 +1613,11 @@ Quadrature-Dependent Lattice Dynamics of Dissipative Microcombs
 Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability
 Concatenate codes, save qubits
 Theoretical framework for enhancing or enabling cooling of a mechanical resonator via the anti-Stokes or Stokes interaction and zero-photon detection
+Non-Gaussian Noise Magnetometry Using Local Spin Qubits
+Traveling-Wave Parametric Amplifier with Passive Reverse Isolation
+Unconventional photon blockade in cavity QED with parametric amplification
+Phase sensitivity via photon-subtraction operations inside Mach-Zehnder interferometer
+Quantum thermodynamics and semi-definite optimization
+Encoding classical data into the squeezing of noisy-states for nanowire communication
+Clock precision beyond the Standard Quantum Limit at $10^{-18}$ level
+Timescales, Squeezing and Heisenberg Scalings in Many-Body Continuous Sensing
