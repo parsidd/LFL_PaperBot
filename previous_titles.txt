@@ -1635,3 +1635,7 @@ Coherent Generation and Protection of Anticoherent Spin States
 Non-degenerate pumping of superconducting resonator parametric amplifier with evidence of phase-sensitive amplification
 Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality
 Combining quantum noise reduction resources: a practical approach
+Constant-Overhead Magic State Injection into qLDPC Codes with Error Independence Guarantees
+Suppressing Measurement Noise in Logical Qubits Through Measurement Scheduling
+Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications
+Near-quantum-limited axion dark matter search with the ORGAN experiment around 26 $\mu$eV
