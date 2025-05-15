@@ -1649,3 +1649,5 @@ Runtime Quantum Advantage with Digital Quantum Optimization
 Controllable creation of topological boundary states in topological-insulator-based Josephson corner junctions
 Thermodynamics of ancilla-assisted erasure of quantum information
 Achieving computational gains with quantum error-correction primitives: Generation of long-range entanglement enhanced by error detection
+Quantum Error-Corrected Computation of Molecular Energies
+Light-Matter Interaction in dispersive Superconducting Circuit QED
