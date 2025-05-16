@@ -1651,3 +1651,9 @@ Thermodynamics of ancilla-assisted erasure of quantum information
 Achieving computational gains with quantum error-correction primitives: Generation of long-range entanglement enhanced by error detection
 Quantum Error-Corrected Computation of Molecular Energies
 Light-Matter Interaction in dispersive Superconducting Circuit QED
+Uniqueness of Squeezed States for One and Two Modes, and a No-Go Beyond
+Demonstration of low-overhead quantum error correction codes
+Efficient benchmarking of logical magic state
+Unlocking early fault-tolerant quantum computing with mitigated magic dilution
+Generation of Motional Squeezed States for Neutral Atoms in Optical Tweezers
+Magnon Nesting in Driven Two-Dimensional Quantum Magnets
