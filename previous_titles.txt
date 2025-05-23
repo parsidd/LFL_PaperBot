@@ -1681,3 +1681,8 @@ Impact of Clifford operations on non-stabilizing power and quantum chaos
 Measurement-free quantum error correction optimized for biased noise
 Procedure of tuning up a three-site artificial Kitaev chain based on transmon measurements
 Search for Dark Photon Dark Matter of a Mass around $36.1\text{ }\mathrm{\mu}\mathrm{eV}$ Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
+Mitigating cosmic ray-like correlated events with a modular quantum processor
+Magnonic entanglement in a chiral cavity-magnon coupling system
+Satellite-assisted Entanglement Distribution with High-Dimensional Photonic Encoding
+Extending Quantum Computing through Subspace, Embedding and Classical Molecular Dynamics Techniques
+Active Quantum Reservoir Engineering: Using a Qubit to Manipulate its Environment
