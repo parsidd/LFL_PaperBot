@@ -1693,3 +1693,9 @@ Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated S
 Line search by quantum logic spectroscopy enhanced with squeezing and statistical tests
 Hardware-tailored logical Clifford circuits for stabilizer codes
 A distillation-teleportation protocol for fault-tolerant QRAM
+Fundamentals of Trapped Ions and Quantum Simulation of Chemical Dynamics
+Inflationary power spectrum from the Lanczos algorithm
+Competition between heating and cooling effects in an optomechanical oscillator using a squeezed field
+Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit
+Parasitic RF-SQUIDs in superconducting qubits due to wirebonds
+Strong-coupling quantum thermodynamics using a superconducting flux qubit
