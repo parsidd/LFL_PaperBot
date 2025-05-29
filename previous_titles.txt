@@ -1699,3 +1699,8 @@ Competition between heating and cooling effects in an optomechanical oscillator 
 Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit
 Parasitic RF-SQUIDs in superconducting qubits due to wirebonds
 Strong-coupling quantum thermodynamics using a superconducting flux qubit
+Low Crosstalk in a Scalable Superconducting Quantum Lattice
+Calibrating quantum gates up to 52 qubits in a superconducting processor
+Dynamical Sweet and Sour Regions in Bichromatically Driven Floquet Qubits
+Disambiguating Pauli noise in quantum computers
+How Much Entanglement Is Needed for Quantum Error Correction?
