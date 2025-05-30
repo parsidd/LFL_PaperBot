@@ -1704,3 +1704,7 @@ Calibrating quantum gates up to 52 qubits in a superconducting processor
 Dynamical Sweet and Sour Regions in Bichromatically Driven Floquet Qubits
 Disambiguating Pauli noise in quantum computers
 How Much Entanglement Is Needed for Quantum Error Correction?
+Flow to Nishimori universality in weakly monitored quantum circuits with qubit loss
+Optimizing QUBO on a quantum computer by mimicking imaginary time evolution
+Fast-tracking and disentangling of qubit noise fluctuations using minimal-data averaging and hierarchical discrete fluctuation auto-segmentation
+Fluxonium as a control qubit for bosonic quantum information
