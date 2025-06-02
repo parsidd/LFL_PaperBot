@@ -1708,3 +1708,5 @@ Flow to Nishimori universality in weakly monitored quantum circuits with qubit l
 Optimizing QUBO on a quantum computer by mimicking imaginary time evolution
 Fast-tracking and disentangling of qubit noise fluctuations using minimal-data averaging and hierarchical discrete fluctuation auto-segmentation
 Fluxonium as a control qubit for bosonic quantum information
+Strongly driven transmon as an incoherent noise source
+NbTiN Nanowire Resonators for Spin-Photon Coupling on Solid Neon
