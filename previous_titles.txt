@@ -1710,3 +1710,7 @@ Fast-tracking and disentangling of qubit noise fluctuations using minimal-data a
 Fluxonium as a control qubit for bosonic quantum information
 Strongly driven transmon as an incoherent noise source
 NbTiN Nanowire Resonators for Spin-Photon Coupling on Solid Neon
+Bosonic quantum error correction using squeezed Fock states
+Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems
+Cross-resonance control of an oscillator with an auxiliary fluxonium qubit
+Quantum dynamics of semiconductor quantum dot Josephson junctions
