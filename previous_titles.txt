@@ -1714,3 +1714,7 @@ Bosonic quantum error correction using squeezed Fock states
 Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems
 Cross-resonance control of an oscillator with an auxiliary fluxonium qubit
 Quantum dynamics of semiconductor quantum dot Josephson junctions
+Demonstrating magnetic field robustness and reducing temporal T1 noise in transmon qubits through magnetic field engineering
+Noiseless signal amplification in an opto-mechanical transducer
+Stacking the Odds: Full-Stack Quantum System Design Space Exploration
+Floquet-Engineered Fast SNAP gates in weakly coupled cQED systems
