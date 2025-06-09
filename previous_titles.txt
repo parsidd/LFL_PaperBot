@@ -1734,3 +1734,6 @@ Correlating Superconducting Qubit Performance Losses to Sidewall Near-Field Scat
 Gate-tunable spectrum and charge dispersion mitigation in a graphene superconducting qubit
 Cosmic-ray-induced correlated errors in superconducting qubit array
 Realization of maximally-entangling two-qutrit gates using the Cross-Resonance scheme
+Ancilla measurement-based Quantum Otto engine using double-pair spin architecture
+Design Tradeoffs in Photonically Linked Qubit Networks
+Squeezing and quantum control of antiferromagnetic magnon pseudospin
