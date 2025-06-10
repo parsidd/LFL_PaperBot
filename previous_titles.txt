@@ -1737,3 +1737,9 @@ Realization of maximally-entangling two-qutrit gates using the Cross-Resonance s
 Ancilla measurement-based Quantum Otto engine using double-pair spin architecture
 Design Tradeoffs in Photonically Linked Qubit Networks
 Squeezing and quantum control of antiferromagnetic magnon pseudospin
+Photon Antibunching from Superposed Squeezed Vacua via Quantum Interference
+Quantum transduction via generalized continuous-variable teleportation
+Experimental memory control in continuous variable optical quantum reservoir computing
+Robust, fast and high-fidelity composite single-qubit gates for superconducting transmon qubits
+Suppression of spin bath and low-frequency noise for sub-MHz AC magnetometry based on double-dressed spin qubit in diamond
+Key Issues Review: Useful autonomous quantum machines
