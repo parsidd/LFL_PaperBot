@@ -1751,3 +1751,7 @@ Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction
 Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates
 Low-crosstalk optical addressing system for atomic qubits based on multiple objectives and acousto-optic deflectors
 Fault-tolerant quantum computation with a neutral atom processor
+Devanagari Digit Recognition using Quantum Machine Learning
+Enhancing quantum noise characterization via extra energy levels
+Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits
+Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides
