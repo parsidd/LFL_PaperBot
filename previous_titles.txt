@@ -1755,3 +1755,5 @@ Devanagari Digit Recognition using Quantum Machine Learning
 Enhancing quantum noise characterization via extra energy levels
 Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits
 Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides
+Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction
+Physics-inspired neural networks as quasi inverse of quantum channels
