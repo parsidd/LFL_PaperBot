@@ -1757,3 +1757,14 @@ Real-time adaptive tracking of fluctuating relaxation rates in superconducting q
 Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides
 Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction
 Physics-inspired neural networks as quasi inverse of quantum channels
+Physical-Layer Machine Learning with Multimode Interferometric Photon Counting
+Simulating the Antiferromagnetic Heisenberg Model on a Spin-Frustrated Kagome Lattice with the Contextual Subspace Variational Quantum Eigensolver
+Noise tolerance via reinforcement: Learning a reinforced quantum dynamics
+A unified picture for quantum Zeno and anti-Zeno effects
+Theory of Stationary Photon Emission from a Steadily Driven Parametric Oscillator Based on the Complex Spectral Analysis of the Heisenberg Equation
+Scalable Simulation of Quantum Many-Body Dynamics with Or-Represented Quantum Algebra
+Exact Quantum Capacity of Decohering Channels in Arbitrary Dimensions
+Nonclassicality of fully degenerate triple-photon states and its application in generating non-Gaussian entanglement
+Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation
+Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms
+Lieb-Mattis states for robust entangled differential phase sensing
