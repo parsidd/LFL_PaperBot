@@ -1768,3 +1768,12 @@ Nonclassicality of fully degenerate triple-photon states and its application in 
 Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation
 Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms
 Lieb-Mattis states for robust entangled differential phase sensing
+Long-Range Entangling Operations via Josephson Junction Metasurfaces
+Optimal Compilation Strategies for QFT Circuits in Neutral-Atom Quantum Computing
+A Topologically Fault-Tolerant Quantum Computer with Four Dimensional Geometric Codes
+High-Efficiency Quantum Memory of Full-Bandwidth Squeezed Light
+Error-detected coherence metrology of a dual-rail encoded fixed-frequency multimode superconducting qubit
+Symmetry in Multi-Qubit Correlated Noise Errors Enhances Surface Code Thresholds
+Fast, continuous and coherent atom replacement in a neutral atom qubit array
+Optimizing mechanical entanglement using squeezing and parametric amplification
+Reservoir-Engineered Squeezed Lasing through the Parametric Coupling
