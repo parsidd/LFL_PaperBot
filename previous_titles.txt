@@ -1777,3 +1777,12 @@ Symmetry in Multi-Qubit Correlated Noise Errors Enhances Surface Code Thresholds
 Fast, continuous and coherent atom replacement in a neutral atom qubit array
 Optimizing mechanical entanglement using squeezing and parametric amplification
 Reservoir-Engineered Squeezed Lasing through the Parametric Coupling
+Crosstalk-Robust Dynamical Decoupling for Bipartite-Topology Quantum Processors
+Planar Fault-Tolerant Quantum Computation with Low Overhead
+Correlated Error Bursts in a Gap-Engineered Superconducting Qubit Array
+Classical and Quantum Resources in Perfect Teleportation
+Robust Control of High-dimensional Quantum Systems against Coherent and Incoherent Errors
+Phase-Dependent Squeezing in Dual-Comb Interferometry
+Improving the lifetime of aluminum-based superconducting qubits through atomic layer etching and deposition
+Towards a hybrid 3D transmon qubit with topological insulator-based Josephson junctions
+Global Variational Quantum Circuits for Arbitrary Symmetric State Preparation
