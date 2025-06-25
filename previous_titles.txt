@@ -1786,3 +1786,7 @@ Phase-Dependent Squeezing in Dual-Comb Interferometry
 Improving the lifetime of aluminum-based superconducting qubits through atomic layer etching and deposition
 Towards a hybrid 3D transmon qubit with topological insulator-based Josephson junctions
 Global Variational Quantum Circuits for Arbitrary Symmetric State Preparation
+A Qubit-Efficient Hybrid Quantum Encoding Mechanism for Quantum Machine Learning
+Error recovery protocols within metastable Decoherence-Free Subspaces
+High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity
+Fast readout of quantum dot spin qubits via Andreev spins
