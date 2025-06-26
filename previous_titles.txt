@@ -1790,3 +1790,13 @@ A Qubit-Efficient Hybrid Quantum Encoding Mechanism for Quantum Machine Learning
 Error recovery protocols within metastable Decoherence-Free Subspaces
 High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity
 Fast readout of quantum dot spin qubits via Andreev spins
+Metamaterials in Superconducting and Cryogenic Quantum Technologies
+Quantum Annealing with Qubit-Resonator Systems for Simultaneous Optimization of Binary and Continuous Variables
+Quantum nonlinear parametric interaction in realistic waveguides: a comprehensive study
+Robust Tripartite Entanglement Generation via Correlated Noise in Spin Qubits
+Realization of a Quantum Error Detection Code with a Dynamically Reassigned Ancillary Qubit
+Speeding up thermalization and quantum state preparation through engineered quantum collisions
+Quantum sensing of displacements with stabilized GKP states
+Continuous operation of a coherent 3,000-qubit system
+Architectural mechanisms of a universal fault-tolerant quantum computer
+Variational quantum regression algorithm with encoded data structure
