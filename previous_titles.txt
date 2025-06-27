@@ -1800,3 +1800,5 @@ Quantum sensing of displacements with stabilized GKP states
 Continuous operation of a coherent 3,000-qubit system
 Architectural mechanisms of a universal fault-tolerant quantum computer
 Variational quantum regression algorithm with encoded data structure
+Explainable quantum regression algorithm with encoded data structure
+Amplifying microwave pulses with a single qubit engine fueled by quantum measurements
