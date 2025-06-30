@@ -1802,3 +1802,8 @@ Architectural mechanisms of a universal fault-tolerant quantum computer
 Variational quantum regression algorithm with encoded data structure
 Explainable quantum regression algorithm with encoded data structure
 Amplifying microwave pulses with a single qubit engine fueled by quantum measurements
+Consistent Simulation of Fibonacci Anyon Braiding within a Qubit Quasicrystal Inflation Code
+Daemonic ergotropy of Gaussian quantum states and the role of measurement-induced purification via general-dyne detection
+Spin squeezing generation in atom-cavity systems: on the effects of adiabatic elimination beyond the leading order
+General many-body entanglement swapping protocol
+Decoherence of Majorana qubits by 1/f noise
