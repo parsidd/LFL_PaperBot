@@ -1807,3 +1807,7 @@ Daemonic ergotropy of Gaussian quantum states and the role of measurement-induce
 Spin squeezing generation in atom-cavity systems: on the effects of adiabatic elimination beyond the leading order
 General many-body entanglement swapping protocol
 Decoherence of Majorana qubits by 1/f noise
+Demonstration of measurement-free universal fault-tolerant quantum computation
+A scanning resonator for probing quantum coherent devices
+SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks
+Unraveling superradiance: Entanglement and mutual information in collective decay
