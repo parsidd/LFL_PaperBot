@@ -1811,3 +1811,7 @@ Demonstration of measurement-free universal fault-tolerant quantum computation
 A scanning resonator for probing quantum coherent devices
 SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks
 Unraveling superradiance: Entanglement and mutual information in collective decay
+Logarithmic Depth Decomposition of Approximate Multi-Controlled Single-Qubit Gates Without Ancilla Qubits
+Quantum Imaginary-Time Evolution with Polynomial Resources in Time
+The Metaphysics of Protection: Emergence, Agency, and the Ontological Status of Logical Qubits
+Logical operations with a dynamical qubit in Floquet-Bacon-Shor code
