@@ -1815,3 +1815,7 @@ Logarithmic Depth Decomposition of Approximate Multi-Controlled Single-Qubit Gat
 Quantum Imaginary-Time Evolution with Polynomial Resources in Time
 The Metaphysics of Protection: Emergence, Agency, and the Ontological Status of Logical Qubits
 Logical operations with a dynamical qubit in Floquet-Bacon-Shor code
+Quantum Computing in Discrete- and Continuous-Variable Architectures
+Temperature and Magnetic-Field Dependence of Energy Relaxation in a Fluxonium Qubit
+Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware
+Fiber transmission of cluster states via multi-level time-bin encoding
