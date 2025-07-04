@@ -1819,3 +1819,7 @@ Quantum Computing in Discrete- and Continuous-Variable Architectures
 Temperature and Magnetic-Field Dependence of Energy Relaxation in a Fluxonium Qubit
 Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware
 Fiber transmission of cluster states via multi-level time-bin encoding
+Efficient characterization of coherent and correlated noise in layers of gates
+Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity
+Structured squeezed light allows for high-harmonic generation in classical forbidden geometries
+Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware
