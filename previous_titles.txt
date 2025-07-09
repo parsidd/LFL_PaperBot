@@ -1830,3 +1830,7 @@ Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Read
 Bounds on Autonomous Quantum Error Correction
 A Useful Metric for the NISQ Era: Qubit Error Probability and Its Role in Zero Noise Extrapolation
 Enhancing variational quantum algorithms by balancing training on classical and quantum hardware
+Solving Large-Scale Vehicle Routing Problems with Hybrid Quantum-Classical Decomposition
+Reservoir-engineered squeezed lasing through the parametric coupling
+Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays
+How the Kerr-Cat Qubit Dies-And How to Rescue It
