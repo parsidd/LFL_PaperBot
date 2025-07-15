@@ -1842,3 +1842,13 @@ A Neural-Guided Variational Quantum Algorithm for Efficient Sign Structure Learn
 Kinetic Inductance Traveling Wave Parametric Amplifiers Near the Quantum Limit: Methodology and Characterization
 Preparing spin-squeezed states in Rydberg atom arrays via quantum optimal control
 Vacuum squeezing enhanced micrometer scale vapor cell magnetometer
+Time crystals and nonequilibrium dissipative phase transitions mediated by squeezed bath
+Impedance-Engineered Josephson Parametric Amplifier with Single-Step Lithography
+Using a Kerr interaction for GKP magic state preparation
+Small Quantum Low Parity Density Check Codes for Near-Term Experiments
+Intrinsic Multi-Mode Interference for Passive Suppression of Purcell Decay in Superconducting Circuits
+Continuous variable quantum communication with 40 pairs of entangled sideband
+Thermal rectification in a qubit-resonator system
+Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise
+Universal scaling of microwave dissipation in superconducting circuits
+Non-reciprocal scattering in a microwave frequency comb
