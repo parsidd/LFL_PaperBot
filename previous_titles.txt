@@ -1877,3 +1877,8 @@ Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Informati
 Two-photon coupling via Josephson element II: Interaction renormalizations and cross-Kerr coupling
 Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr$_7$Mn Molecular Nanomagnet
 Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit
+High-fidelity, quasi-deterministic entanglement generation using phase-matched spectral islands in a zero-added-loss multiplexing architecture
+Mitigating state transition errors during readout with a synchronized flux pulse
+Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor
+Resource-Efficient Cross-Platform Verification with Modular Superconducting Devices
+Quantum thermometry with non-Gaussian states: From non-equilibrium speed to equilibrium precision
