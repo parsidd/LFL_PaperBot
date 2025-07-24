@@ -1889,3 +1889,8 @@ Engineering Non-Hermitian Quantum Evolution Using a Hermitian Bath Environment
 Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity
 Parametric Amplification of Spin-Motion Coupling in Three-Dimensional Trapped-Ion Crystals
 Enhanced Quantum Mpemba Effect with Squeezed Thermal Reservoirs
+On small perturbations of coherent information
+Qubit-Efficient Quantum Algorithm for Linear Differential Equations
+On-chip stencil lithography for superconducting qubits
+Josephson Traveling-Wave Parametric Amplifier with Inverse Kerr Phase Matching
+Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation
