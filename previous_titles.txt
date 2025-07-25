@@ -1894,3 +1894,10 @@ Qubit-Efficient Quantum Algorithm for Linear Differential Equations
 On-chip stencil lithography for superconducting qubits
 Josephson Traveling-Wave Parametric Amplifier with Inverse Kerr Phase Matching
 Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation
+Quantum Fisher Information in Curved Spacetime: Dirac Particles in Noisy Channels around a Schwarzschild Black Hole
+Squeezing enhanced sensing at an exceptional point
+Certifying non-classicality and non-Gaussianity through optical parametric amplification
+Tunable Non-Gaussian Mechanical States in a Strongly Coupled Hybrid Quantum System
+Hybrid quantum-classical algorithm for near-optimal planning in POMDPs
+Phase-selective tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering in squeezed optomechanics
+Fast generation of Pauli transfer matrices utilizing tensor product structure
