@@ -1901,3 +1901,11 @@ Tunable Non-Gaussian Mechanical States in a Strongly Coupled Hybrid Quantum Syst
 Hybrid quantum-classical algorithm for near-optimal planning in POMDPs
 Phase-selective tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering in squeezed optomechanics
 Fast generation of Pauli transfer matrices utilizing tensor product structure
+Analysis of RF Surface Loss in a Planar 2D Qubit
+Digital Twin Simulations Toolbox of the Nitrogen-Vacancy Center in Diamond
+Co-optimization of codon usage and mRNA secondary structure using quantum computing
+Almost fault--tolerant quantum machine learning with drastic overhead reduction
+Scalable native multi-qubit gates for fluxonium architectures with tunable plasmon interactions
+Random approximate quantum information masking
+Higher-dimensional entanglement detection and quantum channel characterization using moments of generalized positive maps
+Testing time order and Leggett-Garg inequalities with noninvasive measurements on public quantum computers
