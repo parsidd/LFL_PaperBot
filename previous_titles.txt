@@ -1909,3 +1909,10 @@ Scalable native multi-qubit gates for fluxonium architectures with tunable plasm
 Random approximate quantum information masking
 Higher-dimensional entanglement detection and quantum channel characterization using moments of generalized positive maps
 Testing time order and Leggett-Garg inequalities with noninvasive measurements on public quantum computers
+Quantum Reinforcement Learning by Adaptive Non-local Observables
+Exponentially robust non-Clifford gate in a driven-dissipative circuit
+Circuit simulation of readout process toward large-scale superconducting quantum circuits
+A small and interesting architecture for early fault-tolerant quantum computers
+Electron charge coherence on a solid neon surface
+Real-Space Chemistry on Quantum Computers: A Fault-Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension
+Noise-Limited Sensitivity in Cavity Optomechanical Molecular Sensing Enabled by Quantum Zero-Point Displacement Coupling and Strong Photon-Phonon Interaction for Chiral Detection
