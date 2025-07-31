@@ -1916,3 +1916,12 @@ A small and interesting architecture for early fault-tolerant quantum computers
 Electron charge coherence on a solid neon surface
 Real-Space Chemistry on Quantum Computers: A Fault-Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension
 Noise-Limited Sensitivity in Cavity Optomechanical Molecular Sensing Enabled by Quantum Zero-Point Displacement Coupling and Strong Photon-Phonon Interaction for Chiral Detection
+Protected quantum gates using qubit doublons in dynamical optical lattices
+Parametric Amplification in Kerr Nonlinear Resonators: A theoretical review of Josephson Parametric Amplifiers
+Single- and Two-Mode Squeezing by Modulated Coupling to a Rabi Driven Qubit
+Programmable Microwave Cluster States via Josephson Metamaterials
+Digital Quantum Simulation of Spin Transport
+Joint Estimation of a Two-Phase Spin Rotation beyond Classical Limit
+Symmetrically Threaded Superconducting Quantum Interference Devices As Next Generation Kerr-cat Qubits
+Unitary reformulation of the thermofield double state and limits of cyclic multi-mode squeezing
+Superconducting integrated on-demand quantum memory with microwave pulse preservation
