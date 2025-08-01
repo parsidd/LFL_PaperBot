@@ -1925,3 +1925,8 @@ Joint Estimation of a Two-Phase Spin Rotation beyond Classical Limit
 Symmetrically Threaded Superconducting Quantum Interference Devices As Next Generation Kerr-cat Qubits
 Unitary reformulation of the thermofield double state and limits of cyclic multi-mode squeezing
 Superconducting integrated on-demand quantum memory with microwave pulse preservation
+Asymptotically optimal joint phase and dephasing strength estimation using spin-squeezed states
+Environment-assisted and weak measurement strategies for robust bidirectional quantum teleportation
+Superradiant Axionic Black-Hole Clouds as Seeds for Graviton Squeezing
+Squeezed gravitons from superradiant axion fields around rotating black holes
+Turning qubit noise into an advantage: Automatic state preparation and long-time dynamics for impurity models on quantum computers
