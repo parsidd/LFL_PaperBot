@@ -1930,3 +1930,8 @@ Environment-assisted and weak measurement strategies for robust bidirectional qu
 Superradiant Axionic Black-Hole Clouds as Seeds for Graviton Squeezing
 Squeezed gravitons from superradiant axion fields around rotating black holes
 Turning qubit noise into an advantage: Automatic state preparation and long-time dynamics for impurity models on quantum computers
+Nonclassical microwave radiation from the parametric dynamical Casimir effect in the reversed-dissipation regime of circuit optomechanics
+Quantum repeaters based on stationary and flying Gottesman-Kitaev-Preskill qudits
+Quantum entanglement of Hawking-Partner modes in expanding cavities
+Implementing fault-tolerant non-Clifford gates using the [[8,3,2]] color code
+Celestial Quantum Error Correction I: Qubits from Noncommutative Klein Space
