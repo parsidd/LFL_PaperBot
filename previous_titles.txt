@@ -1955,3 +1955,9 @@ Efficient detection of spectrally multimode squeezed light through optical param
 Transmon qubit using Sn as a junction superconductor
 Dynamical generation of geometric squeezing in interacting Bose-Einstein condensates
 Density of States (Gate) - Controlled Andreev Molecule and Sensor
+Automorphism gadgets in homological product codes
+Fault-Tolerant Universal Quantum Computing in the Presence of Anisotropic Noise
+Taming coherent noise with teleportation
+Minimum-Weight Parity Factor Decoder for Quantum Error Correction
+Material-Driven Optimization of Transmon Qubits for Scalable and Efficient Quantum Architectures
+Third harmonic-mediated amplification in TWPA
