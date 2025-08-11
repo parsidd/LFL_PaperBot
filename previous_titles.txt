@@ -1961,3 +1961,9 @@ Taming coherent noise with teleportation
 Minimum-Weight Parity Factor Decoder for Quantum Error Correction
 Material-Driven Optimization of Transmon Qubits for Scalable and Efficient Quantum Architectures
 Third harmonic-mediated amplification in TWPA
+End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple
+State-adaptive quantum error correction and fault-tolerant quantum computing
+The loss tolerance of cat breeding for fault-tolerant grid state generation
+ConiQ: Enabling Concatenated Quantum Error Correction on Neutral Atom Arrays
+Quantum Benchmarking of High-Fidelity Noise-Biased Operations on a Detuned-Kerr-Cat Qubit
+Viewing protected superconducting qubits through the lens of the cat qubit
