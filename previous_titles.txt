@@ -1967,3 +1967,12 @@ The loss tolerance of cat breeding for fault-tolerant grid state generation
 ConiQ: Enabling Concatenated Quantum Error Correction on Neutral Atom Arrays
 Quantum Benchmarking of High-Fidelity Noise-Biased Operations on a Detuned-Kerr-Cat Qubit
 Viewing protected superconducting qubits through the lens of the cat qubit
+Nondegenerate Josephson Mixers with Enhanced Bandwidth and Saturation Power for Quantum Signal Amplification and Transduction
+Unambiguous discrimination of the change point for quantum channels
+Squeezed Coherent States in Supersymmetric Quantum Mechanics with Position-Dependent Mass
+GPU-Accelerated Syndrome Decoding for Quantum LDPC Codes below the 63 $\mu$s Latency Threshold
+$\bf A^2$-robust superradiant phase transition in hybrid qubit-cavity optomechanics
+Handling fabrication defects in hex-grid surface codes
+Color it, Code it, Cancel it: k-local dynamical decoupling from classical additive codes
+Spin Phonon Coupling and Relaxation time in Lu(II) compound with 9.2GHz clock transition
+Rabi Oscillations Modulated Noise Squeezing in Active Quantum Dot Ensembles
