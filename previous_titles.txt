@@ -1976,3 +1976,9 @@ Handling fabrication defects in hex-grid surface codes
 Color it, Code it, Cancel it: k-local dynamical decoupling from classical additive codes
 Spin Phonon Coupling and Relaxation time in Lu(II) compound with 9.2GHz clock transition
 Rabi Oscillations Modulated Noise Squeezing in Active Quantum Dot Ensembles
+Robust quantum computational advantage with programmable 3050-photon Gaussian boson sampling
+Constrained free energy minimization for the design of thermal states and stabilizer thermodynamic systems
+A Broadband Squeezed Light Source for Table-Top Interferometry
+Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors
+Fast superconducting qubit control with sub-harmonic drives
+Characterization and generation of a SQL-beating cat-like state through repetitive measurements
