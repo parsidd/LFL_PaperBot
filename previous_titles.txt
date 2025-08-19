@@ -2000,3 +2000,14 @@ Generation of frequency-bin-encoded dual-rail cluster states via time-frequency 
 Wireless Josephson parametric amplifier above 20 GHz
 Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin
 Quantum-Enhanced Sensing of Excited-State Dynamics with Correlated Photons
+The Role of Quantum Computing in Advancing Scientific High-Performance Computing: A perspective from the ADAC Institute
+Control of Dipolar Dynamics by Geometrical Programming
+Generalized Number-Phase Lattice Encoding of a Bosonic Mode for Quantum Error Correction
+Graybox characterization and calibration with finite-shot estimation on superconducting-qubit experiments
+Coherence of Microwave and Optical Qubit Levels in Neutral Thulium
+Dynamic syndrome decoder in volume-law phases of hybrid quantum circuits
+Quantum Phase Estimation Beyond the Gaussian Limit
+Quantum sensing of electron beams using solid-state spins
+Driven-Dissipative Interpretation of Measurement-Induced State Transitions Beyond Semiclassical Predictions
+Floquet-engineered system-reservoir interaction in the transverse field Ising model
+Scalable Optical Quantum State Synthesizer with Dual-Mode Resonator Memory
