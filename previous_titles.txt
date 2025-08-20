@@ -2011,3 +2011,4 @@ Quantum sensing of electron beams using solid-state spins
 Driven-Dissipative Interpretation of Measurement-Induced State Transitions Beyond Semiclassical Predictions
 Floquet-engineered system-reservoir interaction in the transverse field Ising model
 Scalable Optical Quantum State Synthesizer with Dual-Mode Resonator Memory
+All-mechanical coherence protection and fast control of a spin qubit
