@@ -2012,3 +2012,12 @@ Driven-Dissipative Interpretation of Measurement-Induced State Transitions Beyon
 Floquet-engineered system-reservoir interaction in the transverse field Ising model
 Scalable Optical Quantum State Synthesizer with Dual-Mode Resonator Memory
 All-mechanical coherence protection and fast control of a spin qubit
+Flag at origin: a modular fault-tolerant preparation for CSS codes
+Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions
+Free-Particle State Realized via Optimal Filtering in Optomechanics: Implications for Gravity-Induced Entanglement
+Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes
+Quantum reservoir computing induced by controllable damping
+String Diagrams for Defect-Based Surface Code Computing
+Quantum teleportation over thermal microwave network
+Efficient nonclassical state preparation via generalized parity measurement
+Anyon Theory and Topological Frustration of High-Efficiency Quantum Low-Density Parity-Check Codes
