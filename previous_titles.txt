@@ -2021,3 +2021,9 @@ String Diagrams for Defect-Based Surface Code Computing
 Quantum teleportation over thermal microwave network
 Efficient nonclassical state preparation via generalized parity measurement
 Anyon Theory and Topological Frustration of High-Efficiency Quantum Low-Density Parity-Check Codes
+Energy-independent tomography of Gaussian states
+Microscopic Theory of Squeezed Light in Quantum Dot Systems
+Non-Commutative weak measurements: Entanglement, Symmetry Breaking, and the Role of Readout
+Fermion-to-Fermion Low-Density Parity-Check Codes
+Quantum-enhanced parameter estimation in continuously monitored boundary time crystals
+Colour Codes Reach Surface Code Performance using Vibe Decoding
