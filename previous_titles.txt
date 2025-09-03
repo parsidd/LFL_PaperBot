@@ -2048,3 +2048,14 @@ Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Exp
 Linear optical quantum computing with a hybrid squeezed cat code
 A Quantum Speedup in Localizing Transmission Loss Change in Optical Networks
 The carbon nanotube gatemon qubit
+Strategies to search for two-dimensional materials with long spin qubit coherence time
+An exploration of the noise sensitivity of the Shor's algorithm
+Trainmon: a framework for reverse engineering potentials in superconducting Qubits
+A simple universal routing strategy for reducing the connectivity requirements of quantum LDPC codes
+Quantum Seniority-based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for Efficient Quantum Measurements
+Superstrong Dynamics and Chiral Emission of a Giant Atom in a Structured Bath
+Sampling Continuous Quantum Dynamics from a Single Static State
+Quantum Machine Learning for UAV Swarm Intrusion Detection
+Exponentially Enhanced Tripartite Coupling in Quantum Nonlinear Magnonics
+Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing
+Parametrically Driven Superradiance of an Interacting Tavis-Cummings Model
