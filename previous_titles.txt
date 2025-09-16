@@ -2110,3 +2110,10 @@ Achieving the Heisenberg limit of metrology via measurement on an ancillary qubi
 Optimal Moment-Based Characterization of a Gaussian State
 Quantum sensing in the presence of pulse errors and qubit leakage
 Wafer-Scale Squeezed-Light Chips
+Non-Hermitian Physics in Quantum Channels: Pseudo-Hermiticity, Spectrum Measurement and Application to Hamiltonian Parameter Estimation
+Gradients, parallelism, and variance of quantum estimates
+Neural Decoders for Universal Quantum Algorithms
+Efficient Preparation of Decoherence Free Subspace Basis States
+Learning kernels with quantum optical circuits
+Placing and routing quantum LDPC codes in multilayer superconducting hardware
+Correlated Quasiparticle Poisoning from Phonon-Only Events in Superconducting Qubits
