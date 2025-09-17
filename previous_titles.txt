@@ -2117,3 +2117,7 @@ Efficient Preparation of Decoherence Free Subspace Basis States
 Learning kernels with quantum optical circuits
 Placing and routing quantum LDPC codes in multilayer superconducting hardware
 Correlated Quasiparticle Poisoning from Phonon-Only Events in Superconducting Qubits
+EmuPlat: A Framework-Agnostic Platform for Quantum Hardware Emulation with Validated Transpiler-to-Pulse Pipeline
+Designing Shadow Tomography Protocols by Natural Language Processing
+The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning
+Steady-state entanglement of spin qubits mediated by non-reciprocal and chiral magnons
