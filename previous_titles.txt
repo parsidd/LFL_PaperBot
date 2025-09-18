@@ -2121,3 +2121,8 @@ EmuPlat: A Framework-Agnostic Platform for Quantum Hardware Emulation with Valid
 Designing Shadow Tomography Protocols by Natural Language Processing
 The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning
 Steady-state entanglement of spin qubits mediated by non-reciprocal and chiral magnons
+End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models
+Loss-tolerant detection of squeezed states in the 2 um region
+Trajectory-based Measure of Nonlocality in the Double Caldeira-Leggett Formalism
+Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures
+Quantum Simulations of Battery Electrolytes with VQE-qEOM and SQD: Active-Space Design, Dissociation, and Excited States of LiPF$_6$, NaPF$_6$, and FSI Salts
