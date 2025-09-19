@@ -2126,3 +2126,10 @@ Loss-tolerant detection of squeezed states in the 2 um region
 Trajectory-based Measure of Nonlocality in the Double Caldeira-Leggett Formalism
 Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures
 Quantum Simulations of Battery Electrolytes with VQE-qEOM and SQD: Active-Space Design, Dissociation, and Excited States of LiPF$_6$, NaPF$_6$, and FSI Salts
+HQCNN: A Hybrid Quantum-Classical Neural Network for Medical Image Classification
+Improving the efficiency of quantum engineering of SCSs by adding two demultiplexed input photons
+The superconducting grid-states qubit
+Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes
+Proposal of cavity quantum acoustodynamics platform based on Lithium Niobate-on-Sapphire chip
+Magnetic-Field and Temperature Limits of a Kinetic-Inductance Traveling-Wave Parametric Amplifier
+A unified picture for quantum Zeno and anti-Zeno effects -- a review
