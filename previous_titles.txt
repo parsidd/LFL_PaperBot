@@ -2133,3 +2133,7 @@ Composable logical gate error in approximate quantum error correction: reexamini
 Proposal of cavity quantum acoustodynamics platform based on Lithium Niobate-on-Sapphire chip
 Magnetic-Field and Temperature Limits of a Kinetic-Inductance Traveling-Wave Parametric Amplifier
 A unified picture for quantum Zeno and anti-Zeno effects -- a review
+Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Computing
+Qubit-oscillator-based gate implementations for approximate Gottesman-Kitaev-Preskill codes
+Theory of Multi-photon Processes for Applications in Quantum Control
+Nonequilibrium Quasiparticles in Superconducting Circuits: Energy Relaxation, Charge and Flux Noise
