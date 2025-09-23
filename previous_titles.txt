@@ -2137,3 +2137,13 @@ Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Co
 Qubit-oscillator-based gate implementations for approximate Gottesman-Kitaev-Preskill codes
 Theory of Multi-photon Processes for Applications in Quantum Control
 Nonequilibrium Quasiparticles in Superconducting Circuits: Energy Relaxation, Charge and Flux Noise
+Machine Learning for Quantum Noise Reduction
+Two- and three-mode squeezing in a three-qubit entangled system
+A Collisional Model Approach to Quantum Phase Sensitivity
+Variational processing of multimode squeezed light
+Transfer of entanglement from nonlocal photon to non-Gaussian CV states
+Noise Protected Logical Qubit in a Open Chain of Superconducting Qubits with Ultrastrong Interactions
+Analysis of polymerized superconducting circuits
+Distribution of non-Gaussian states in a deployed telecommunication fiber channel
+Optimal Particle-Conserved Linear Encoding for Practical Fermionic Simulation
+Search for Dark Photon Dark Matter with a Mass around $36.1\text{ }\mathrm{\mu eV}$ Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
