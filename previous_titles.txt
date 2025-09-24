@@ -2147,3 +2147,7 @@ Analysis of polymerized superconducting circuits
 Distribution of non-Gaussian states in a deployed telecommunication fiber channel
 Optimal Particle-Conserved Linear Encoding for Practical Fermionic Simulation
 Search for Dark Photon Dark Matter with a Mass around $36.1\text{ }\mathrm{\mu eV}$ Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
+Generalized Gottesman-Kitaev-Preskill States on a Quantum Torus
+Transversal STAR architecture for megaquop-scale quantum simulation with neutral atoms
+Chiral Color Code : Single-shot error correction for exotic topological order
+Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector
