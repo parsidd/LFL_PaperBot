@@ -2151,3 +2151,5 @@ Generalized Gottesman-Kitaev-Preskill States on a Quantum Torus
 Transversal STAR architecture for megaquop-scale quantum simulation with neutral atoms
 Chiral Color Code : Single-shot error correction for exotic topological order
 Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector
+Teleportation-based filtering for gravitational-wave detectors
+Erasing Photon-Number Correlations through Hong-Ou-Mandel Interference
