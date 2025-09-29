@@ -2153,3 +2153,6 @@ Chiral Color Code : Single-shot error correction for exotic topological order
 Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector
 Teleportation-based filtering for gravitational-wave detectors
 Erasing Photon-Number Correlations through Hong-Ou-Mandel Interference
+Machine Learning for Quantum State Tomography: Robust Covariance Matrix Estimation for Squeezed Vacuum States with Thermal Noise
+Multi-Qubit Gates by Dynamical Decoupling Implemented with IBMQ and 15NV Center in Diamond
+Extending coherence time beyond break-even point using only drives and dissipation
