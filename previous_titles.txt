@@ -2156,3 +2156,13 @@ Erasing Photon-Number Correlations through Hong-Ou-Mandel Interference
 Machine Learning for Quantum State Tomography: Robust Covariance Matrix Estimation for Squeezed Vacuum States with Thermal Noise
 Multi-Qubit Gates by Dynamical Decoupling Implemented with IBMQ and 15NV Center in Diamond
 Extending coherence time beyond break-even point using only drives and dissipation
+Fractional Control Gate Protocols For Quantum Engines
+Hyperbolic Floquet code with graph-edge syndromes
+Magnon squeezing near a quantum critical point in a cavity-magnon-qubit system
+Orchestrating multi-level magic state distillation: a dynamic pipeline architecture
+Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning
+A Quantum Computer Based on Donor-Cluster Arrays in Silicon
+Demonstration of quantum error detection in a silicon quantum processor
+Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes
+Controlling Sloppiness in Two-Phase Estimation with a Tunable Weak Measurement
+Experimental Extraction of Coherent Ergotropy and Its Energetic Cost in a Superconducting Qubit
