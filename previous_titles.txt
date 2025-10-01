@@ -2166,3 +2166,9 @@ Demonstration of quantum error detection in a silicon quantum processor
 Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes
 Controlling Sloppiness in Two-Phase Estimation with a Tunable Weak Measurement
 Experimental Extraction of Coherent Ergotropy and Its Energetic Cost in a Superconducting Qubit
+Gradiometric, Fully Tunable C-Shunted Flux Qubits
+Autonomous quantum error correction beyond break-even and its metrological application
+Hybrid Quantum-Classical Optimisation of Traveling Salesperson Problem
+Suppressing leakage and maintaining robustness in transmon qubits: Signatures of a trade-off relation
+Physics-Inspired Extrapolation for efficient error mitigation and hardware certification
+A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits
