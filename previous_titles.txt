@@ -2183,3 +2183,7 @@ Pre-Distillation of Magic States via Composite Schemes
 Superpositions of Quantum Gaussian Processes
 Quantum Lego and XP Stabilizer Codes
 Estimating quantum relative entropies on quantum computers
+Design and Characterization of a Cryogenic Vacuum Chamber for Ion Trapping Experiments
+Benchmarking Quantum Simulation Methods
+Toward high-fidelity quantum information processing and quantum simulation with spin qubits and phonons
+Single-shot preparation of hypergraph product codes via dimension jump
