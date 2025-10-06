@@ -2187,3 +2187,5 @@ Design and Characterization of a Cryogenic Vacuum Chamber for Ion Trapping Exper
 Benchmarking Quantum Simulation Methods
 Toward high-fidelity quantum information processing and quantum simulation with spin qubits and phonons
 Single-shot preparation of hypergraph product codes via dimension jump
+MAQCY: Modular Atom-Array Quantum Computing with Space-Time Hybrid Multiplexing
+Basis-independent coherence and its distribution in de Sitter spacetime
