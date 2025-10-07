@@ -2189,3 +2189,13 @@ Toward high-fidelity quantum information processing and quantum simulation with 
 Single-shot preparation of hypergraph product codes via dimension jump
 MAQCY: Modular Atom-Array Quantum Computing with Space-Time Hybrid Multiplexing
 Basis-independent coherence and its distribution in de Sitter spacetime
+Reduction of the impact of the local valley splitting on the coherence of conveyor-belt spin shuttling in $^{28}$Si/SiGe
+Quantum Error Correction with Superpositions of Squeezed Fock States
+Time-resolved characterization of pulsed squeezed light from a strongly driven silicon nitride microresonator
+Robust iSWAP gates for semiconductor spin qubits with local driving
+Fast surgery for quantum LDPC codes
+Efficient three-qubit gates with giant atoms
+Enhancing Optomechanical Entanglement and Mechanical Squeezing by the Synergistic Effect of Quadratic Optomechanical Coupling and Coherent Feedback
+Quantum Reservoir Computing for Credit Card Default Prediction on a Neutral Atom Platform
+Correcting quantum errors using a classical code and one additional qubit
+Coupling a $^{73}$Ge nuclear spin to an electrostatically defined quantum dot
