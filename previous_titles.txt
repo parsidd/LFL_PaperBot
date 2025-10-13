@@ -2226,3 +2226,10 @@ Transversal gates for probabilistic implementation of multi-qubit Pauli rotation
 Universal Fault Tolerance with Non-Transversal Clifford Gates
 Dynamical error reshaping for dual-rail erasure qubits
 Single-Shot Universality in Quantum LDPC Codes via Code-Switching
+Tensor-network representation of excitations in Josephson junction arrays
+Single-shot conditional displacement gate between a trapped atom and traveling light
+Universal syndrome-based recovery for noise-adapted quantum error correction
+Gate Teleportation vs Circuit Cutting in Distributed Quantum Computing
+A Davydov Ansatz approach to accurate system-bath dynamics in the presence of multiple baths with distinct temperatures
+Quantum Channel Masking
+Simplified Quantum Weight Reduction with Optimal Bounds
