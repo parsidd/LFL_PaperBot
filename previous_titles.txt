@@ -2233,3 +2233,9 @@ Gate Teleportation vs Circuit Cutting in Distributed Quantum Computing
 A Davydov Ansatz approach to accurate system-bath dynamics in the presence of multiple baths with distinct temperatures
 Quantum Channel Masking
 Simplified Quantum Weight Reduction with Optimal Bounds
+Broad nonlocal spectrum in the Pb-InSb hybrid three terminals for potential realization of Kitaev chains
+Quantum Radar: An Engineering Perspective
+Hierarchical Qubit-Merging Transformer for Quantum Error Correction
+Hybrid Quantum Systems: Coupling Single-Molecule Magnet Qudits with Industrial Silicon Spin Qubits
+Quasiparticle pairing encoding of atomic nuclei for quantum annealing
+Dynamically stable two-mode squeezing in cavity optomechanics
