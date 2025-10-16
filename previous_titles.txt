@@ -2242,3 +2242,5 @@ Dynamically stable two-mode squeezing in cavity optomechanics
 Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States
 Trajectory-Protected Quantum Computing
 Classical simulation of circuits with realistic odd-dimensional Gottesman-Kitaev-Preskill states
+Probing non-Markovian qubit noise and modeling Post Markovian Master Equation
+Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching
