@@ -2263,3 +2263,6 @@ Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Archit
 Topological Dynamical Decoupling with Complete Pulse Error Cancellation
 Memory effects in a dynamical decoupling process
 Fault-tolerant dynamically-decoupled hyper-Ramsey spectroscopy of ultra-narrow clock transitions
+Application Scale Quantum Circuit Compilation and Optimization
+Simple logical quantum computation with concatenated symplectic double codes
+Surface code scaling on heavy-hex superconducting quantum processors
