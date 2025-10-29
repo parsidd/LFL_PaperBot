@@ -2286,3 +2286,5 @@ Autonomous Floquet Engineering of Bosonic Codes via Reinforcement Learning
 Scalable Neural Decoders for Practical Real-Time Quantum Error Correction
 Heat measurement of quantum interference
 Optimal strategies for transient and equilibrium quantum thermometry using Gaussian and non-Gaussian probes
+An exact Error Threshold of Surface Code under Correlated Nearest-Neighbor Errors: A Statistical Mechanical Analysis
+Application Scale Quantum Circuit Compilation with Controlled Error
