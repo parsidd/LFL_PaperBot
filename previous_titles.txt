@@ -2293,3 +2293,11 @@ Accurate Leakage Speculation for Quantum Error Correction
 Low-Gap Hf-HfOx-Hf Josephson Junctions for meV-Scale Particle Detection
 Hybrid Quantum-Classical Recurrent Neural Networks
 Superstrong Dynamics and Directional Emission of a Giant Atom in a Structured Bath
+Nonlinear quantum evolution of a dissipative superconducting qubit
+Optimal Displacement Sensing with Spin-Dependent Squeezed States
+Enabling Fast and Accurate Neutral Atom Readout through Image Denoising
+The Fast for the Curious: How to accelerate fault-tolerant quantum applications
+Modeling of simple bandpass filters: bandwidth broadening of Josephson parametric devices due to non-Markovian coupling to dressed transmission-line modes
+Generation and detection of squeezed states via a synchronously pumped optical parametric oscillator
+Simulation Framework for the Automated Search of Optimal Parameters Using Physically Relevant Metrics in Nonlinear Superconducting Quantum Circuits
+Artificial Transmission Line Synthesis Tailored for Traveling-Wave Parametric Processes
