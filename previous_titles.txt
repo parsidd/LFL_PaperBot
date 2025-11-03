@@ -2301,3 +2301,6 @@ Modeling of simple bandpass filters: bandwidth broadening of Josephson parametri
 Generation and detection of squeezed states via a synchronously pumped optical parametric oscillator
 Simulation Framework for the Automated Search of Optimal Parameters Using Physically Relevant Metrics in Nonlinear Superconducting Quantum Circuits
 Artificial Transmission Line Synthesis Tailored for Traveling-Wave Parametric Processes
+Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions
+Teleportation-based squeezer for bosonic cluster states
+How the Kerr-Cat Qubit Dies -- And How to Rescue It
