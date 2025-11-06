@@ -2317,3 +2317,10 @@ Decay of transmon qubit strongly coupled with a continuum
 Collective Quantum Batteries and Charger-Battery Setup in Open Quantum Systems: Impact of Inter-Qubit Interactions, Dissipation, and Quantum Criticality
 Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era
 Josephson Junction Tuning Described by Depinning Physics
+Frequency- and Amplitude-Modulated Gates for Universal Quantum Control
+Quantum properties of superpositions of oppositely squeezed states
+Quantum phase transition in the anisotropic Rabi model induced by parametric amplification
+Frequency shifts as a reflection of ground state squeezing and entanglement in two coupled harmonic oscillators
+Quantum Error Correction-like Noise Mitigation for Wave-like Dark Matter Searches with Quantum Sensors
+Multi-qubit DC gates over an inhomogeneous array of quantum dots
+Low Overhead Universal Quantum Computation with Triorthogonal Codes
