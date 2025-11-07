@@ -2324,3 +2324,14 @@ Frequency shifts as a reflection of ground state squeezing and entanglement in t
 Quantum Error Correction-like Noise Mitigation for Wave-like Dark Matter Searches with Quantum Sensors
 Multi-qubit DC gates over an inhomogeneous array of quantum dots
 Low Overhead Universal Quantum Computation with Triorthogonal Codes
+Quantum error correction for multiparameter metrology
+Quantum Chip Co-Design for Fidelity and Entanglement Preservation
+Engineered Robustness for Nonadiabatic Geometric Quantum Gates
+Quantum time-marching algorithms for solving linear transport problems including boundary conditions
+Neutral-atom quantum computation using multi-qubit geometric gates via adiabatic passage
+Hybrid Single-Ion Atomic-Ensemble Node for High-Rate Remote Entanglement Generation
+Homodyne detection for pulse-by-pulse squeezing measurements
+Qubit Mapping and Routing tailored to Advanced Quantum ISAs: Not as Costly as You Think
+Photodetection of Squeezed Light: a Whittaker-Shannon Analysis
+Automatic tuning of a donor in a silicon quantum device using machine learning
+The Clifford theory of the n-qubit Clifford group
