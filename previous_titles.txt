@@ -2335,3 +2335,4 @@ Qubit Mapping and Routing tailored to Advanced Quantum ISAs: Not as Costly as Yo
 Photodetection of Squeezed Light: a Whittaker-Shannon Analysis
 Automatic tuning of a donor in a silicon quantum device using machine learning
 The Clifford theory of the n-qubit Clifford group
+Clock Precision beyond the Standard Quantum Limit at ${10}^{−18}$ Level
