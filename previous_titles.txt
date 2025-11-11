@@ -2341,3 +2341,14 @@ Robust Quantum Teleportation Against Noise Using Weak Measurement and Flip Opera
 Mapping the positions of Two-Level-Systems on the surface of a superconducting transmon qubit
 Quantum advantage from effective $200$-qubit holographic random circuit sampling
 Quantum Boltzmann Machines for Sample-Efficient Reinforcement Learning
+Squeezed-vacuum bosonic codes
+Addressable gate-based logical computation with quantum LDPC codes
+Spontaneous emission of a three-level artificial atom in a one-dimensional open waveguide
+Magnon-Squeezing-Induced Nonreciprocal Quantum Coherence in a Cavity Magnomechanical System
+High-Fidelity Controlled-Phase Gate for Binomial Codes via Geometric Phase Engineering
+Flux-modulated tunable interaction regimes in two strongly nonlinear oscillators
+Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling
+Sample-efficient quantum error mitigation via classical learning surrogates
+A Comprehensive Approach to Finite-Bath Open Quantum Systems: Exact Dynamics
+Efficient certification of intractable quantum states with few Pauli measurements
+Fault-tolerant syndrome extraction in [[n,1,3]] non-CSS code family generated using measurements on graph states
