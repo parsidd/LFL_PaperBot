@@ -2352,3 +2352,10 @@ Sample-efficient quantum error mitigation via classical learning surrogates
 A Comprehensive Approach to Finite-Bath Open Quantum Systems: Exact Dynamics
 Efficient certification of intractable quantum states with few Pauli measurements
 Fault-tolerant syndrome extraction in [[n,1,3]] non-CSS code family generated using measurements on graph states
+Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits
+Space-Time Optimisations for Early Fault-Tolerant Quantum Computation
+All-nitride superconducting qubits based on atomic layer deposition
+Degeneracy beyond the parity-symmetry protection in one-dimensional spinless models: The parity-violating Kerr parametric oscillator
+Transversal Toffoli-gate in Hybrid-code System
+Adaptive Estimation of Drifting Noise in Quantum Error Correction
+The prize at the end of the quantum tunnel
