@@ -2371,3 +2371,6 @@ Impacts of Decoder Latency on Utility-Scale Quantum Computer Architectures
 Fault-tolerant and secure long-distance quantum communication via uncorrectable-error-injection
 Tunable Hybrid-Mode Coupler Enabling Strong Interactions between Transmons at Centimeter-Scale Distance
 Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
+Relative entropy for locally squeezed states
+A Depinning Model for Josephson Junction Tuning
+Quantum low-density parity-check codes for erasure-biased atomic quantum processors
