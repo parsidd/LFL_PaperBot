@@ -2374,3 +2374,17 @@ Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
 Relative entropy for locally squeezed states
 A Depinning Model for Josephson Junction Tuning
 Quantum low-density parity-check codes for erasure-biased atomic quantum processors
+Application of optical squeezing to microresonator based optical sensors
+Scalable quantum error mitigation with phase-cycled dynamical decoupling
+Optimal Multiparameter Quantum Estimation of Magnonic Couplings in a Magnomechanical Cavity
+Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance
+Discovering autonomous quantum error correction via deep reinforcement learning
+Autonomously Designed Pulses for Precise, Site-Selective Control of Atomic Qubits
+Minute-Scale Photonic Quantum Memory
+Topological quantum compilation for non-semisimple Ising anyons via monte carlo simulations
+Measurement-based Dynamical Decoupling for Fidelity Preservation on Large-scale Quantum Processors
+Ultra Low Overhead Syndrome Extraction for the Steane code
+Quantum Error Correction Codes for Truncated SU(2) Lattice Gauge Theories
+The role of interaction in matter wave optics with motional states
+Universal quantum computation via scalable measurement-free error correction
+Axion Electrodynamics and Giant Magnetic Birefringence in Weyl Excitonic Insulators
