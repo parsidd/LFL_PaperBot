@@ -2408,3 +2408,8 @@ Generation of spin-squeezed states using dipole-coupled spins
 Quantum speed limit for observables from quantum asymmetry
 Probing Sub-eV Dark Photon, Scalar and Axion-like Particle Dark Matters with Transmon Qubits
 Cooperative Squeezing of Internal and Collective Spins in an Atomic Ensemble
+Magnetically induced Josephson nano-diodes in field-resilient superconducting microwave circuits
+Spectroscopy on a single nonlinear mode recognizes quantum states
+Basic cell for a quantum microwave router
+Improved error correction with leakage reduction units built into qubit measurement in a superconducting quantum processor
+Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $\Sigma(72\times3)$
