@@ -2434,3 +2434,11 @@ Mode multiplexing for scalable cavity-enhanced operations in neutral-atom arrays
 Generalized Heralded Generation of Non-Gaussian States Using an Optical Parametric Amplifier
 Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tolerant Surface Code Architecture
 Frequency shifts heralding ground state squeezing and entanglement of two coupled harmonic oscillators
+Experimental signatures of a $\sigma_z\sigma_x$ beam-splitter interaction between a Kerr-cat and transmon qubit
+Quantum Sensing using Geometrical Phase in Qubit-Oscillator Systems
+Ultrafast Single Qubit Gates through Multi-Photon Transition Removal
+Tunable and nonlinearity-enhanced dispersive-plus-dissipative coupling in photon-pressure circuits
+Superconducting Qubit Gates Robust to Parameter Fluctuations
+Raising the Cavity Frequency in cQED
+Evidence for unexpectedly low quasiparticle generation rates across Josephson junctions of driven superconducting qubits
+Denotational semantics for stabiliser quantum programs
