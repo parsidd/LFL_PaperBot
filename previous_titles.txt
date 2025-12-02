@@ -2442,3 +2442,14 @@ Superconducting Qubit Gates Robust to Parameter Fluctuations
 Raising the Cavity Frequency in cQED
 Evidence for unexpectedly low quasiparticle generation rates across Josephson junctions of driven superconducting qubits
 Denotational semantics for stabiliser quantum programs
+A Concatenated Dual Displacement Code for Continuous-Variable Quantum Error Correction
+Geometric Parameterization of Kraus Operators with Applications to Quasi Inverse Channels for Multi Qubit Systems
+On-Chip Levitated Neon Particle Arrays for Robust and Scalable Electron Qubits
+Weighted Projective Line ZX Calculus: Quantized Orbifold Geometry for Quantum Compilation
+Boosting Gaussian Boson Sampling using Optical Parametric Amplification Networks
+Optimal Control of thermally noisy quantum gates in a multilevel system
+Multiqubit Rydberg Gates for Quantum Error Correction
+Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and Hamiltonian Reductions
+Hybrid Quantum State Preparation via Data Compression
+Variational quantum algorithm for anion exchange across electrolyzer membrane
+Field-free diode effects in one-dimensional superconductor: a complex interplay between Fulde-Ferrell pairing and altermagnetism
