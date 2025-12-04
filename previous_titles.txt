@@ -2453,3 +2453,7 @@ Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and H
 Hybrid Quantum State Preparation via Data Compression
 Variational quantum algorithm for anion exchange across electrolyzer membrane
 Field-free diode effects in one-dimensional superconductor: a complex interplay between Fulde-Ferrell pairing and altermagnetism
+The Pound-Drever-Hall Method for Superconducting-Qubit Readout
+Hybridized-Mode Parametric Amplifier in Kinetic-Inductance Circuits
+Energy-Scaled Zero-Noise Extrapolation for Gottesman-Kitaev-Preskill Code
+Quantum Chip Co-Design for Fidelity and Entanglement Preservation: Architecture, Modeling, and QGHNN Optimization
