@@ -2457,3 +2457,6 @@ The Pound-Drever-Hall Method for Superconducting-Qubit Readout
 Hybridized-Mode Parametric Amplifier in Kinetic-Inductance Circuits
 Energy-Scaled Zero-Noise Extrapolation for Gottesman-Kitaev-Preskill Code
 Quantum Chip Co-Design for Fidelity and Entanglement Preservation: Architecture, Modeling, and QGHNN Optimization
+Supramolecular approach-based intermolecular interaction energy calculations using quantum phase estimation algorithm
+Mitigating Residual Exchange Coupling in Resonant Singlet-Triplet Qubits
+Engineering a Multilevel Bath for Transmons with Three-Wave Mixing and Parametric Drives
