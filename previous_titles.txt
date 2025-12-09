@@ -2460,3 +2460,17 @@ Quantum Chip Co-Design for Fidelity and Entanglement Preservation: Architecture,
 Supramolecular approach-based intermolecular interaction energy calculations using quantum phase estimation algorithm
 Mitigating Residual Exchange Coupling in Resonant Singlet-Triplet Qubits
 Engineering a Multilevel Bath for Transmons with Three-Wave Mixing and Parametric Drives
+Hybrid qubit-oscillator module with motional states of two trapped interacting atoms
+Scheduling Lattice Surgery with Magic State Cultivation
+Single Flux Quantum Circuit Operation at Millikelvin Temperatures
+Suppressing Fast Dipolar Noise in Solid-State Spin Qubits
+Hidden Structural Variants in ALD NbN Superconducting Trilayers Revealed by Atomistic Analysis
+A manufacturable surface code architecture for spin qubits with fast transversal logic
+A scalable and real-time neural decoder for topological quantum codes
+Strongly driven cavity quantum electrodynamical-optomechanical hybrid system
+LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout
+Fast-feedback protocols for calibration and drift control in quantum computers
+Finite-Key Analysis of Quantum Key Distribution with Characterized Devices Using Entropy Accumulation
+Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correcting Code
+Quantum Seniority-based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for the Electronic Structure Problem
+A method for the numerical analysis of hybrid lumped-distributed superconducting quantum circuits
