@@ -2542,3 +2542,22 @@ Kerr-induced non-Gaussianity of ultrafast bright squeezed vacuum
 Low-loss frequency-tunable Josephson junction array cavities on Ge/SiGe heterostructures with a tapered etching approach
 Chronicle: "Foot of the iceberg" of Nobel Prize in Physics 2025: ILTPE and LTP contribution
 Q-Fly: An Optical Interconnect for Modular Quantum Computers
+Stability studies on subtractively-fabricated CMOS-compatible superconducting transmon qubits
+Quantum thermodynamics, quantum correlations and quantum coherence in accelerating Unruh-DeWitt detectors in both steady and dynamical state
+Crosstalk Dispersion and Spatial Scaling in Superconducting Qubit Arrays
+Superconducting qubit decoherence correlated with detected radiation events
+Size-Consistent Quantum Chemistry on Quantum Computers
+Cyber Threat Detection Enabled by Quantum Computing
+Image Denoising via Quantum Reservoir Computing
+Long-distance quantum communication sending single photons and keeping many
+Foundation Model for Unified Characterization of Optical Quantum States
+Clifford Volume and Free Fermion Volume: Complementary Scalable Benchmarks for Quantum Computers
+$W$- and Dicke-state engineering using optimal global control in nearest-neighbor coupled ring-shaped qubit arrays
+A Spin-Photon Interface in the Telecom C-Band with Long Hole Spin Dephasing Time
+Trigonometric continuous-variable gates and hybrid quantum simulations
+The EU Quantum Flagship's Key Performance Indicators for Quantum Computing
+Extremizing Measures of Magic on Pure States by Clifford-stabilizer States
+Super-Poissonian Squeezed Light in the Ground State of Strongly Coupled Light-matter Systems
+Quantum sensing of high-frequency gravitational waves with ion crystals
+Optical parametric free-electron--photon quantum interaction
+Towards Arbitrary Time-frequency Mode Squeezing with Self-conjugated Mode Squeezing in Fiber
