@@ -2561,3 +2561,9 @@ Super-Poissonian Squeezed Light in the Ground State of Strongly Coupled Light-ma
 Quantum sensing of high-frequency gravitational waves with ion crystals
 Optical parametric free-electron--photon quantum interaction
 Towards Arbitrary Time-frequency Mode Squeezing with Self-conjugated Mode Squeezing in Fiber
+Theory of Scalable Spin Squeezing with Disordered Quantum Dipoles
+Gate-Based Microwave Quantum Repeater Via Grid-State Encoding
+DC-powered broadband quantum-limited microwave amplifier
+Force Sensing Beyond the Standard Quantum Limit in a Hybrid Optomechanical Platform
+Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation
+Quantum Bayesian Optimization for the Automatic Tuning of Lorenz-96 as a Surrogate Climate Model
