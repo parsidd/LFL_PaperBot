@@ -2567,3 +2567,10 @@ DC-powered broadband quantum-limited microwave amplifier
 Force Sensing Beyond the Standard Quantum Limit in a Hybrid Optomechanical Platform
 Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation
 Quantum Bayesian Optimization for the Automatic Tuning of Lorenz-96 as a Surrogate Climate Model
+Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits
+Tutorial on Superconducting Quantum Circuits: From Basics to Applications
+Quantum Homotopy Algorithm for Solving Nonlinear PDEs and Flow Problems
+Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit
+Interaction-Resilient Scalable Fluxonium Architecture with All-Microwave Gates
+All-optical control and multiplexed readout of multiple superconducting qubits
+3D cavity-based graphene superconducting quantum circuits in two-qubit architectures
