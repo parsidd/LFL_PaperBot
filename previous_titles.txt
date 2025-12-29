@@ -2574,3 +2574,10 @@ Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limi
 Interaction-Resilient Scalable Fluxonium Architecture with All-Microwave Gates
 All-optical control and multiplexed readout of multiple superconducting qubits
 3D cavity-based graphene superconducting quantum circuits in two-qubit architectures
+Hybrid Quantum Repeater Chains with Atom-based Quantum Processing Units and Quantum Memory Multiplexers
+Delayed Choice Lorentz Transformations on a Qubit
+Efficient Robust Spontaneous Parametric Down-Conversion via Detuning Modulated Composite Segments Designs
+Non-Gaussian state preparation and enhancement using weak-value amplification
+Spontaneous Decoherence from Logarithmic Spectral Phase Deformations
+Andreev qubit readout from dynamic interference supercurrent
+On the relationship between noise squeezing and Rabi oscillations in active quantum dot ensembles
