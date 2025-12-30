@@ -2581,3 +2581,7 @@ Non-Gaussian state preparation and enhancement using weak-value amplification
 Spontaneous Decoherence from Logarithmic Spectral Phase Deformations
 Andreev qubit readout from dynamic interference supercurrent
 On the relationship between noise squeezing and Rabi oscillations in active quantum dot ensembles
+Asymmetry effects in homodyne and heterodyne measurements: Positive operator-valued measures and asymptotic security of Gaussian continuous variable quantum key distribution
+Emergence of nonclassical radiation in strongly laser-driven quantum systems
+Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet
+Novel qubits in hybrid semiconductor-superconductor nanostructures
