@@ -2585,3 +2585,11 @@ Asymmetry effects in homodyne and heterodyne measurements: Positive operator-val
 Emergence of nonclassical radiation in strongly laser-driven quantum systems
 Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet
 Novel qubits in hybrid semiconductor-superconductor nanostructures
+Quantum Error Mitigation with Attention Graph Transformers for Burgers Equation Solvers on NISQ Hardware
+Squeezed states for Frenkel-like two-fermion composite bosons
+Parametric amplification of continuous variable entangled state for loss-tolerant multi-phase estimation
+Gravitationally Induced Entanglement Between Particles in Harmonic Traps: Limits for Gaussian States
+Incorporating multi-qubit exchange coupling effects between transmon qubits in Maxwell-Schr\"{o}dinger numerical methods
+A Boundary Condition Perspective on Circuit QED Dispersive Readout
+Three-Axis Spin Squeezed States Associated with Excited-State Quantum Phase Transitions
+Easier randomizing gates provide more accurate fidelity estimation
