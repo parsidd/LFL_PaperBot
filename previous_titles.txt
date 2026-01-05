@@ -2594,3 +2594,8 @@ A Boundary Condition Perspective on Circuit QED Dispersive Readout
 Three-Axis Spin Squeezed States Associated with Excited-State Quantum Phase Transitions
 Easier randomizing gates provide more accurate fidelity estimation
 Leveraging Qubit Loss Detection in Fault-Tolerant Quantum Algorithms
+Double-Pumped Kerr Parametric Amplifier Beyond the Gain-Bandwidth Limit
+Chip scale superconducting quantum gravimeter based on a SQUID transmon mechanical resonator
+Biased-Noise Thresholds of Zero-Rate Holographic Codes with Tensor-Network Decoding
+Pure and Mixed State Entanglement Dynamics in Tavis-Cummings Model with Squeezed Coherent Thermal States
+Implementing Grover Algorithm on Quantum Chip Architecture Optimized with QGHNN for Fidelity and Entanglement Preservation
