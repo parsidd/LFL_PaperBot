@@ -2610,3 +2610,7 @@ Global Parametric Gates for Multi-qubit Entanglement
 Flux-noise-resilient transmon qubit via a doubly-connected gradiometric design
 Optical nonlinearity of cold atomic ensemble driven by strong coherent field in a saturation regime
 Developments in superconducting erasure qubits for hardware-efficient quantum error correction
+FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture
+Probing Dark Matter-Electron Interactions with Superconducting Qubits
+The source of hardware-tailored codes and coding phases
+Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for Quantum Information Processing
