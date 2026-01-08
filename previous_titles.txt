@@ -2614,3 +2614,6 @@ FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Arc
 Probing Dark Matter-Electron Interactions with Superconducting Qubits
 The source of hardware-tailored codes and coding phases
 Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for Quantum Information Processing
+Optimizing Fault-tolerant Cat State Preparation
+Hybrid non-degenerate parametric amplifier for a microwave cavity mode and an NV ensemble
+Conveyor-mode electron shuttling through a T-junction in Si/SiGe
