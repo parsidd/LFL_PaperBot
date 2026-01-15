@@ -2653,3 +2653,10 @@ Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quant
 Single-Period Floquet Control of Bosonic Codes with Quantum Lattice Gates
 Ultrafast quantum optics with attosecond control
 Local Magnetometry from Measurement-Induced Dissipation
+Displacement-Squeeze receiver for BPSK displaced squeezed vacuum states surpassing the coherent-states Helstrom bound under imperfect conditions
+Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing
+Toward Spectral Engineering of Squeezed Light in High-Gain PDC
+Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes
+Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses
+Squeezing light to get nonclassical work in quantum engines
+Noisy Quantum Learning Theory
