@@ -2666,3 +2666,11 @@ Coherence Limits in Interference-Based cos(2$\varphi$) Qubits
 Experimental Realization of Rabi-Driven Reset for Fast Cooling of a High-Q Cavity
 Minimal-Energy Optimal Control of Tunable Two-Qubit Gates in Superconducting Platforms Using Continuous Dynamical Decoupling
 Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction
+Elevator Codes: Concatenation for resource-efficient quantum memory under biased noise
+Charging a quantum battery from the Bloch sphere
+The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity
+Converting qubit relaxation into erasures with a single fluxonium
+Shortcuts to adiabaticity, unexciting backgrounds, and reflectionless potentials
+Controlled Parity of Cooper Pair Tunneling in a Hybrid Superconducting Qubit
+Skyrmion Quantum Diode Prototype: Bridging Micromagnetic Simulations and Quantum Models
+Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes
