@@ -2685,3 +2685,4 @@ Quantum State Preparation of Ferromagnetic Magnons by Parametric Driving
 Confinement-Induced Floquet Engineering and Non-Abelian Geometric Phases in Driven Quantum Wire Qubits
 Small Quantum Low Density Parity Check Codes for Near-Term Experiments
 High-Fidelity Universal Quantum Gate Compilation for Non-semisimple Ising Anyons via Genetic Algorithm-Optimized Solovay-Kitaev Decomposition
+Two-Qubit Spin-Boson Model in the Strong Coupling Regime: Coherence, Non-Markovianity, and Quantum Thermodynamics
