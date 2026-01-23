@@ -2686,3 +2686,10 @@ Confinement-Induced Floquet Engineering and Non-Abelian Geometric Phases in Driv
 Small Quantum Low Density Parity Check Codes for Near-Term Experiments
 High-Fidelity Universal Quantum Gate Compilation for Non-semisimple Ising Anyons via Genetic Algorithm-Optimized Solovay-Kitaev Decomposition
 Two-Qubit Spin-Boson Model in the Strong Coupling Regime: Coherence, Non-Markovianity, and Quantum Thermodynamics
+Precision limit under weak-coupling with ancillary qubit
+Bright Pulsed Squeezed Light for Quantum-Enhanced Precision Microscopy
+Enhancing the Size of Phase-Space States Containing Sub-Planck-Scale Structures via Non-Gaussian Operations
+Echoed Random Quantum Metrology
+Quantum Metrology under Coarse-Grained Measurement
+Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments
+Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States
