@@ -2693,3 +2693,10 @@ Echoed Random Quantum Metrology
 Quantum Metrology under Coarse-Grained Measurement
 Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments
 Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States
+LiDMaS: Architecture-Level Modeling of Fault-Tolerant Magic-State Injection in GKP Photonic Qubits
+Quantum phase estimation with optimal confidence interval using three control qubits
+A First Demonstration of the SQUAT Detector Architecture: Direct Measurement of Resonator-Free Charge-Sensitive Transmons
+Entanglement-enhanced quantum sensing via optimal global control with neutral atoms in a cavity
+Local Clustering Decoder as a fast and adaptive hardware decoder for the surface code
+Scalable native multiqubit gates via engineered noncomputational-state interactions in superconducting fluxonium qubits
+Confinement-Tunable Synthetic Gauge Fields and Floquet Topological Phenomena in a Driven Quantum Wire Qubit
