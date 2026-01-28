@@ -2711,3 +2711,14 @@ Quantum Rotation Diversity in Displaced Squeezed Binary Phase-Shift Keying
 Two remote counting events induced by a single photon
 Leveraging Qubit Loss Detection in Fault Tolerant Quantum Algorithms
 Spectrum measurement of quantum channels and application to Hamiltonian parameter estimation
+A framework to evaluate the performance of Variational Quantum Algorithms
+Fault-tolerant quantum simulation of the Pauli-Breit Hamiltonian for ab initio hybrid quantum-classical molecular design with applications to photodynamic therapy
+Reinforcement Learning for Quantum Technology
+Inverse-Squeezing Kennedy Receiver for Near-Helstrom Discrimination of Displaced-Squeezed BPSK
+Pareto-Front Engineering of Dynamical Sweet Spots in Superconducting Qubits
+Reinforcement Learning for Enhanced Advanced QEC Architecture Decoding
+Graphene Josephson Junctions for Engineering Motional Quanta
+Flux-tunable transmon incorporating a van der Waals superconductor via an Al/AlO$_x$/4Hb-TaS$_2$ Josephson junction
+A Folded Surface Code Architecture for 2D Quantum Hardware
+Theory of low-weight quantum codes
+Conditional squeezing induced by a two-level system: a first-principles approach to QND readout
