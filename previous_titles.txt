@@ -2722,3 +2722,8 @@ Flux-tunable transmon incorporating a van der Waals superconductor via an Al/AlO
 A Folded Surface Code Architecture for 2D Quantum Hardware
 Theory of low-weight quantum codes
 Conditional squeezing induced by a two-level system: a first-principles approach to QND readout
+A Surface-Scaffolded Molecular Qubit
+Echo Cross Resonance gate error budgeting on a superconducting quantum processor
+Co-Designed Adaptive Quantum State Preparation Protocols
+Quantum Memory and Autonomous Computation in Two Dimensions
+Quantum Squeezing Enhanced Photothermal Microscopy
