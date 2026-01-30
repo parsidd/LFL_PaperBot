@@ -2727,3 +2727,15 @@ Echo Cross Resonance gate error budgeting on a superconducting quantum processor
 Co-Designed Adaptive Quantum State Preparation Protocols
 Quantum Memory and Autonomous Computation in Two Dimensions
 Quantum Squeezing Enhanced Photothermal Microscopy
+Entangling logical qubits without physical operations
+Dynamical Casimir effect under the action of gravitational waves
+Localization and scattering of a photon in quasiperiodic qubit arrays
+RF-free driving of nuclear spins with color centers in silicon carbide
+High-Coherence and High-frequency Quantum Computing: The Design of a High-Frequency, High-Coherence and Scalable Quantum Computing Architecture
+A biased-erasure cavity qubit with hardware-efficient quantum error detection
+Error-detectable Universal Control for High-Gain Bosonic Quantum Error Correction
+A scalable quantum-enhanced greedy algorithm for maximum independent set problems
+Designing quantum technologies with a quantum computer
+Quantum LEGO Learning: A Modular Design Principle for Hybrid Artificial Intelligence
+Quantum computing isn’t just about scaling
+Lattice surgery realized on two distance-three repetition codes with superconducting qubits
