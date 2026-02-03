@@ -2744,3 +2744,10 @@ Scattering of Squeezed Light by a Dielectric Slab
 Fast magic state preparation by gauging higher-form transversal gates in parallel
 Andreev spin qubits based on the helical edge states of magnetically doped two-dimensional topological insulators
 Efficient Magic State Cultivation on the Surface Code
+A room-temperature cavity-magnonic source of correlated microwave pairs
+First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF$_2$
+Enhanced Phase Estimation via Photon-Added Two-Mode Squeezed States and Kerr Nonlinearity
+Quantum Jacobi-Davidson Method
+Real-time detection of correlated quasiparticle tunneling events in a multi-qubit superconducting device
+Position: The Need for Ultrafast Training
+Krylov Complexity in early universe
