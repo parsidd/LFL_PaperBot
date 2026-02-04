@@ -2751,3 +2751,9 @@ Quantum Jacobi-Davidson Method
 Real-time detection of correlated quasiparticle tunneling events in a multi-qubit superconducting device
 Position: The Need for Ultrafast Training
 Krylov Complexity in early universe
+Accelerating the Tesseract Decoder for Quantum Error Correction
+Device variability of Josephson junctions induced by interface roughness
+A Tunable, Modeless, and Hybridization-free Cross-Kerr Coupler for Miniaturized Superconducting Qubits
+Detecting quantum noise of a solid-state spin ensemble with dispersive measurement
+Accelerating qubit reset through the Mpemba effect
+Criteria on quantum fluctuations of vacuum and photons influence in Spontaneous-Parametric Down-Conversion and Four-Wave-Mixing
