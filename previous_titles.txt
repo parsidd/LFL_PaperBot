@@ -2778,3 +2778,9 @@ Characterizing Quantum Error Correction Performance of Radiation-induced Errors
 Hybrid Coupling Topology with Dynamic ZZ Suppression for Optimizing Circuit Depth during Runtime in Superconducting Quantum Processor
 Single-Step Parity Check Gate Set for Quantum Error Correction
 Tachyonic and parametric instabilities in an extended bosonic Josephson junction
+Systematic Characterization of Transmon Qubit Stability with Thermal Cycling
+BiBiEQ: Bivariate Bicycle Codes on Erasure Qubits
+Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss
+Preparing squeezed, cat and GKP states with parity measurements
+Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code
+Enhancing Circuit Fidelity in Transmon Qubit Rings via Operation Duration Tuning under Strong Connectivity Noise
