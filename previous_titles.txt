@@ -2784,3 +2784,5 @@ Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss
 Preparing squeezed, cat and GKP states with parity measurements
 Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code
 Enhancing Circuit Fidelity in Transmon Qubit Rings via Operation Duration Tuning under Strong Connectivity Noise
+Constant-space-overhead fault-tolerant quantum input/output and communication
+Coherence Protection for Mobile Spin Qubits in Silicon
