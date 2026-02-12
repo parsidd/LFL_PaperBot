@@ -2786,3 +2786,8 @@ Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Co
 Enhancing Circuit Fidelity in Transmon Qubit Rings via Operation Duration Tuning under Strong Connectivity Noise
 Constant-space-overhead fault-tolerant quantum input/output and communication
 Coherence Protection for Mobile Spin Qubits in Silicon
+General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics
+Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing
+Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits
+Characterization and generation of a SQL-beating catlike state through repetitive measurements
+Distilled remote entanglement between superconducting qubits across optical channels
