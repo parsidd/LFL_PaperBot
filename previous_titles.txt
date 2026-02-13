@@ -2791,3 +2791,9 @@ Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Informati
 Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits
 Characterization and generation of a SQL-beating catlike state through repetitive measurements
 Distilled remote entanglement between superconducting qubits across optical channels
+Quantum computing with anyons is fault tolerant
+Structural control of two-level defect density revealed by high-throughput correlative measurements of Josephson junctions
+Millisecond-Scale Calibration and Benchmarking of Superconducting Qubits
+Experimental setup for the combined study of spin ensembles and superconducting quantum circuits
+Stochastic Mean-field Theory for Conditional Spin Squeezing by Homodyne Probing of Atom-Cavity Photon Dressed States
+Superconducting Integrated On-Demand Quantum Memory with Microwave Pulse Preservation
