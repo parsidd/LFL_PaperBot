@@ -2797,3 +2797,7 @@ Millisecond-Scale Calibration and Benchmarking of Superconducting Qubits
 Experimental setup for the combined study of spin ensembles and superconducting quantum circuits
 Stochastic Mean-field Theory for Conditional Spin Squeezing by Homodyne Probing of Atom-Cavity Photon Dressed States
 Superconducting Integrated On-Demand Quantum Memory with Microwave Pulse Preservation
+Design and Operation of Wafer-Scale Packages Containing >500 Superconducting Qubits
+Quantum logic control and entanglement in hybrid atom-molecule arrays
+When does numerical pulse optimization actually help? Error budgets,robustness tradeoffs, and calibration guidance for transmon single-qubit gates
+Trade-offs between Quantum and Classical Resources in the Linear Combination of Unitaries
