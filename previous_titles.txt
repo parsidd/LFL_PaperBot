@@ -2801,3 +2801,18 @@ Design and Operation of Wafer-Scale Packages Containing >500 Superconducting Qub
 Quantum logic control and entanglement in hybrid atom-molecule arrays
 When does numerical pulse optimization actually help? Error budgets,robustness tradeoffs, and calibration guidance for transmon single-qubit gates
 Trade-offs between Quantum and Classical Resources in the Linear Combination of Unitaries
+No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits
+Protection of Exponential Operation using Stabilizer Codes in the Early Fault Tolerance Era
+Quantum Algorithm Framework for Phase-Contrast Transmission Electron Microscopy Image Simulation
+Flux Pumped Kerr-Free Parametric Amplifier
+Strong-Field Quantum Metrology Beyond the Standard Quantum Limit
+Quantum computation and quantum error correction: the theoretical minimum
+Phase sensitive topological classification of single-qubit measurements in linear cluster states
+Fermionic Stoner-Dicke phase transition in Circuit Quantum Magnetostatics
+A hardware-native time-frequency GKP logical qubit toward fault-tolerant photonic operation
+Homological origin of transversal implementability of logical diagonal gates in quantum CSS codes
+Enhanced multiparameter quantum estimation in cavity magnomechanics via a coherent feedback loop
+Demonstrating and Benchmarking Classical Shadows for Lindblad Tomography
+Probing near-field EM fluctuations in superparamagnetic CoFeB with NV quantum dephasometry
+Nonlocality in Continuous-Variable Quantum Networks
+Coherent State Description of Gravitational Waves from Binary Black Holes
