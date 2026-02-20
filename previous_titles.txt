@@ -2820,3 +2820,10 @@ Dissipative Quantum Battery in the Ultrastrong Coupling Regime Between Two Oscil
 Realizing a Universal Quantum Gate Set via Double-Braiding of SU(2)k Anyon Models
 Do we have a quantum computer? Expert perspectives on current status and future prospects
 Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering
+A Generalization of the Parametric Amplifier with Dunkl Derivative: Spectral and Statistical Properties
+In situ calibration of microwave attenuation and gain using a cryogenic on-chip attenuator
+Adaptive Aborting Schemes for Quantum Error Correction Decoding
+Fault-tolerant preparation of arbitrary logical states in the cat code
+Quantum Advantage for Sensing Properties of Classical Fields
+Quantum Gates via Dynamical Decoupling of Central Qubit on IBMQ and 15NV Center in Diamond
+An approach to study the adiabaticity and irreversibility in the TDHO
