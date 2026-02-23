@@ -2828,3 +2828,5 @@ Quantum Advantage for Sensing Properties of Classical Fields
 Quantum Gates via Dynamical Decoupling of Central Qubit on IBMQ and 15NV Center in Diamond
 An approach to study the adiabaticity and irreversibility in the TDHO
 Characterizing Physical and Logical Errors in a Transversal CNOT Gate via Cycle Error Reconstruction
+Flux-Activated Resonant Control of a Bosonic Quantum Memory
+Qubit error bursts in superconducting quantum processors of Quantum Inspire: quasiparticle pumping and anomalous time dependence
