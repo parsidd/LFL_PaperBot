@@ -2847,3 +2847,11 @@ Entanglement-Induced Resilience of Quantum Dynamics
 Correcting coherent quantum errors by going with the flow
 Zero-point energy of a trapped ultracold Fermi gas at unitarity: squeezing the Heisenberg uncertainty principle and suppressing the Pauli principle to produce a superfluid state
 Entanglement, separability and correlation topology of quantum systems over parametric space of interaction potential
+Tuning Wave-Particle Duality of Quantum Light by Generalized Photon Subtraction
+Deep squeezing or cooling the fluctuations of a parametric resonator using feedback
+Loss Mechanisms in High-coherence Multimode Mechanical Resonators Coupled to Superconducting Circuits
+Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations
+Beyond Single-Shot Fidelity: Chernoff-Based Throughput Optimization in Superconducting Qubit Readout
+Computing with many encoded logical qubits beyond break-even
+Coherent Quantum Evaluation of Collider Amplitudes for Effective Field Theory Constraints
+Phonon decoherence produced by two-level tunneling states
