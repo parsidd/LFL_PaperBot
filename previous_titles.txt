@@ -2865,3 +2865,9 @@ High-Temporal-Resolution Measurements of the Impacts of Ionizing Radiation on Su
 Experimental implementation of a discrete-time quantum walk on biological networks
 Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach
 Impact of leakage on the dynamics of a ST$_0$ qubit implemented in a Double Quantum Dot device
+Stairway Codes: Floquetifying Bivariate Bicycle Codes and Beyond
+Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling
+Compile-once block encodings for masked similarity-transformed effective Hamiltonians
+ReloQate: Transient Drift Detection and In-Situ Recalibration in Surface Code Quantum Error Correction
+Sustaining high-fidelity quantum logic in neutral-atom circuits via mid-circuit operations
+Shaping frequency-tunable single photons for quantum networking in waveguide QED
