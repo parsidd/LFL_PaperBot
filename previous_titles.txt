@@ -2901,3 +2901,10 @@ In-situ Characterization of Light-Matter Coupling in Multimode Circuit-QED Syste
 Heterogeneous entanglement between a trapped ion and a solid-state quantum memory
 Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics
 Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill
+Quantum Sensing of Birefringence Beyond the Classical Limit with a Hyper-Entangled SU(1,1) Interferometer
+Enhancing light-matter coupling for exploring chaos in the quantum Rabi model
+Efficient Qubit Simulation of Hybrid Oscillator-Qubit Quantum Computation
+Quantum optical impurity models in interacting waveguide QED
+Crosstalk in Multi-Qubit Fluxonium Architectures with Transmon Couplers
+Quantum control of the environment in open quantum systems enables rapid qubit reset
+Qubit reset beyond the Born-Markov approximation: optimal driving to overcome polaron formation
