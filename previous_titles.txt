@@ -2919,3 +2919,16 @@ Hybridlane: A Software Development Kit for Hybrid Continuous-Discrete Variable Q
 A Non-Foster Superconducting Broadband Matching Network
 Linear-nonlinear duality for circuit design on quantum computing platforms
 Broadly tunable quantum-enhanced Raman microscopy for advancing bioimaging
+Low $T$-count preparation of nuclear eigenstates with tensor networks
+Infinite Distance Extrapolation: How error mitigation can enhance quantum error correction
+Impact of Oxygen Vacancies in Josephson Junction on Decoherence of Superconducting Qubits
+Quantum Error Correction by Purification
+Optimal quantum metrology protocols with erasure qubits
+Noise Correlations as a Resource in Pauli-Twirled Circuits
+Measurement-Induced State transitions in Inductively-Shunted Transmons
+Optimal control with flag qubits
+Practical implementation of Toffoli-based qubit rotation
+Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions
+High-throughput bidirectional electro-optic transduction assessed with a practical quantum capacity
+Impact of the local valley splitting on the coherence of conveyor-belt spin shuttling in $^{28}$Si/SiGe
+Non-Markovian dynamics in nonstationary Gaussian baths: a hierarchy of pure states approach
