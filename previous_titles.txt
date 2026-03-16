@@ -2932,3 +2932,19 @@ Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions
 High-throughput bidirectional electro-optic transduction assessed with a practical quantum capacity
 Impact of the local valley splitting on the coherence of conveyor-belt spin shuttling in $^{28}$Si/SiGe
 Non-Markovian dynamics in nonstationary Gaussian baths: a hierarchy of pure states approach
+A Traveling-Wave Parametric Amplifier With Integrated Diplexers
+Absence of Charge Offset Drift in a Transmon Qubit
+Hybrid Analog-Digital Simulation of the Abelian Higgs model
+Deep-Learning-Designed AlGaAs Interface Linking Trapped Ions to Telecom Quantum Networks
+Nonlocal continuous-variable quantum nondemolition gates by optical connections
+Breaking concentration barriers for quantum extreme learning on digital quantum processors
+Partially Fault-Tolerant Quantum Computation for Megaquop Applications
+Experimental realization of a $\cos(2\varphi)$ transmon qubit
+On-Demand Correlated Errors in Superconducting Qubits from a Particle Accelerator
+Beta Tantalum Transmon Qubits with Quality Factors Approaching 10 Million
+Fluxon Time-Delay Readout of a Superconducting Qubit Protected by a Spectral Gap in a Josephson Transmission Line
+Quantifying surface losses in superconducting aluminum microwave resonators
+CANOE: Classically Assisted Non-Orthogonal Eigensolver
+Noise-protected two-qubit gate using anisotropic exchange interaction
+Routing-based technique for defect mitigation in quantum error correction
+Quantum-Processing-Assisted Classical Communications
