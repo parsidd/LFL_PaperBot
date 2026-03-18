@@ -2966,3 +2966,15 @@ Velocity-Enabled Quantum Computing with Neutral Atoms
 A direct controlled-phase gate between microwave photons
 Universal Weakly Fault-Tolerant Quantum Computation via Code Switching in the [[8,3,2]] Code
 Qubit-centric Transformer for Surface Code Decoding
+Quantum Fisher information and quadrature squeezing in Janus superpositions of squeezed vacua
+Entanglement advantage in sensing power-law spatiotemporal noise correlations
+A fault-tolerant encoding for qubit-controlled collective spins
+Enhancing qubit readout fidelity with two-mode squeezing of the coherent measurement signal
+A Scalable Open-Source QEC System with Sub-Microsecond Decoding-Feedback Latency
+Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures
+Achieving Sub-Zeptonewton Force Sensitivity and Spin-Motion Entanglement in Levitated Diamond via Pulsed Backaction Evasion
+Distinguishing types of correlated errors in superconducting qubits
+High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout
+CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption
+Quantum dynamics of few-photon pulsed waveguide-QED with a single artificial atom: frequency-dependent scattering theory and time-dependent matrix product states
+Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection
