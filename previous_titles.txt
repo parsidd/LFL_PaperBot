@@ -2987,3 +2987,14 @@ Adaptive Loss-tolerant Syndrome Measurements
 Scalable dissipative quantum error correction for qubit codes
 Chipmunq: A Fault-Tolerant Compiler for Chiplet Quantum Architectures
 High-fidelity entanglement of metastable trapped-ion qubits with integrated erasure conversion
+Cache Hierarchy and Vectorization Analysis of Lindblad Master Equation Simulation for Near-Term Quantum Control
+Improved quantum circuits for division
+Iterative Decoding of Stabilizer Codes under Radiation-Induced Correlated Noise
+Simulating Quantum Error Correction beyond Pauli Stochastic Errors
+On-chip Parametric Amplification in a Double Quantum Dots Circuit
+Teleporting an unknown qutrit state via a 2-qudit entangled channel
+A Flexible GKP-State-Embedded Fault-Tolerant Quantum Computation Configuration Based on a Three-Dimensional Cluster State
+Comparing optical-microwave conversion and all-microwave control schemes for a transmon qubit
+Multiparameter quantum estimation and Stirling Engine Performance in a Gravitational Cat State System
+Exact Law of Quantum Reversibility under Gaussian Pure Loss
+The Janus State: A Universal Lower Bound for Second-Order Coherence
