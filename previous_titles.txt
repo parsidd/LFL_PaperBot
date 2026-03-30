@@ -3046,3 +3046,6 @@ Hybrid photon blockade with hyperradiance in two-qubit cavity QED system
 High-Fidelity Quantum State Transfer in Multimode Resonators via Tunable Pulses
 Kardashev scale Quantum Computing for Bitcoin Mining
 Intrinsic Quantum Codes
+Majorana-XYZ subsystem code
+Low-energy spectrum of double-junction superconducting circuits in the Born-Oppenheimer approximation
+Noise modelling of waveguide based squeezed light sources
