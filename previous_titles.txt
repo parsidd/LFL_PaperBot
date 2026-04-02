@@ -3079,3 +3079,4 @@ Strong converse bounds on the classical identification capacity of the qubit dep
 Coherent manipulation of interacting electron qubitson solid neon
 Diffusive Stochastic Master Equation (SME) with dispersive qubit/cavity coupling
 Catalytic Quantum Error Correction: Theory, Efficient Catalyst Preparation, and Numerical Benchmarks
+Low-overhead fault-tolerant quantum computation by gauging logical operators
