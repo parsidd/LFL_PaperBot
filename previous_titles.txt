@@ -3080,3 +3080,5 @@ Coherent manipulation of interacting electron qubitson solid neon
 Diffusive Stochastic Master Equation (SME) with dispersive qubit/cavity coupling
 Catalytic Quantum Error Correction: Theory, Efficient Catalyst Preparation, and Numerical Benchmarks
 Low-overhead fault-tolerant quantum computation by gauging logical operators
+Practical Tomography of Multi-Time Processes
+Shot-to-shot noise cancellation for parametric oscillators
