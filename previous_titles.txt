@@ -3082,3 +3082,9 @@ Catalytic Quantum Error Correction: Theory, Efficient Catalyst Preparation, and 
 Low-overhead fault-tolerant quantum computation by gauging logical operators
 Practical Tomography of Multi-Time Processes
 Shot-to-shot noise cancellation for parametric oscillators
+AQ-Stacker: An Adaptive Quantum Matrix Multiplication Algorithm with Scaling via Parallel Hadamard Stacking
+From Liouville equation to universal quantum control: A study of generating ultra highly squeezed states
+Characterizing charge-parity detection based on an offset-charge-tunable transmon qubit via randomized benchmarking
+Generation of magnonic squeezed state and its superposition in a hybrid qubit-magnon system
+Advances in Josephson Junction Materials and Processes Toward Practical Quantum Computing
+Building Block For Universal Continuous Variables Computation In Superconducting Devices
