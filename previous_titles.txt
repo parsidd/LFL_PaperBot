@@ -3088,3 +3088,10 @@ Characterizing charge-parity detection based on an offset-charge-tunable transmo
 Generation of magnonic squeezed state and its superposition in a hybrid qubit-magnon system
 Advances in Josephson Junction Materials and Processes Toward Practical Quantum Computing
 Building Block For Universal Continuous Variables Computation In Superconducting Devices
+A High Motional Frequency Ion Trapping Regime for Quantum Information Science
+Learning high-dimensional quantum entanglement through physics-guided neural networks
+Leakage Suppression in Quantum Control via Static Parameter Offsets
+Quantum Clock Synchronization Networks: A Survey
+Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer
+Systematic Approach to Hyperbolic Quantum Error Correction Codes
+Simulating high-accuracy nuclear motion Hamiltonians using discrete variable representation and Walsh-Hadamard QROM on fault-tolerant quantum computers
