@@ -3095,3 +3095,10 @@ Quantum Clock Synchronization Networks: A Survey
 Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer
 Systematic Approach to Hyperbolic Quantum Error Correction Codes
 Simulating high-accuracy nuclear motion Hamiltonians using discrete variable representation and Walsh-Hadamard QROM on fault-tolerant quantum computers
+Instability-Enhanced Quantum Sensing with Tunable Multibody Interactions
+Quantum-Boosted Nonlinear Tunneling Driven by a Bright Squeezed Vacuum
+Fault-Tolerant One-Shot Entanglement Generation with Constant-Sized Quantum Devices in the Plane
+Dynamical decoupling and quantum error correction with SU(d) symmetries
+Adaptive Deformation of Color Code in Square Lattices with Defects
+Scaling Laws for Hybrid Quantum Neural Networks: Depth, Width, and Quantum-Centric Diagnostics
+Asymptotically good CSS codes that realize the logical transversal Clifford group fault-tolerantly
