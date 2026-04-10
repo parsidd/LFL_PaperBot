@@ -3112,3 +3112,11 @@ Continuous-variable two-dimensional cluster states in the microwave domain
 Fock State Generation and SWAP using a Rabi-Driven Qubit
 Attosecond quantum spectroscopy with entangled photon pairs
 Sampling (noisy) quantum circuits through randomized rounding
+Ten-Second Electron-Spin Coherence in Isotopically Engineered Diamond
+Operational criteria for quantum advantage in latency-constrained nonlocal games
+Complexity phase transition for continuous-variable cluster state
+Photon pairs, squeezed light and the quantum wave mixing effect in a cascaded qubit system
+Optimized Gottesman-Kitaev-Preskill Error Correction via Tunable Preprocessing
+Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation
+Measurement-induced state transitions across the fluxonium qubit landscape
+Towards defending crosstalk-mediated attacks in multi-tenant quantum computing
