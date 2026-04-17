@@ -3157,3 +3157,13 @@ A $\boldsymbol{2d \times d \times d}$ Spacetime Volume Implementation of a Logic
 Quantum secret sharing in tripartite superconducting network
 Theory of spin qubits and the path to scalability
 High-gain and large-bandwidth Josephson parametric amplifier influenced by Fabry-P\'erot interference
+AI-Enabled Decoding of Qubit Loss for Quantum Error-Correcting Codes
+Scalable quantum error correction tailored for a heavy-hex qubit array
+Low-valency scalable quantum error correction with a dynamic compass code
+Distributed Variational Quantum Linear Solver
+Learning to Concatenate Quantum Codes
+Runtime-efficient zero-noise extrapolation from mixed physical and logical data
+SyQMA: A memory-efficient, symbolic and exact universal simulator for quantum error correction
+O3LS: Optimizing Lattice Surgery via Automatic Layout Searching and Loose Scheduling
+Coherent control of optomechanical entanglement and steering via dual parametric amplification
+Quantum Landscape of Superconducting Diodes
