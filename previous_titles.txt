@@ -3196,3 +3196,4 @@ Loss-biased fault-tolerant quantum error correction
 Quantum-information diagnostics of cosmological perturbations with nontrivial sound speed in inflation
 The Origin of the Dynamical Quantum Non-locality
 Asymmetry Control in a Parametric Oscillator for the Quantum Simulation of Chemical Activation
+Taming Rydberg Decay with Measurement-Based Quantum Computation
