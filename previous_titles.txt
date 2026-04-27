@@ -3197,3 +3197,8 @@ Quantum-information diagnostics of cosmological perturbations with nontrivial so
 The Origin of the Dynamical Quantum Non-locality
 Asymmetry Control in a Parametric Oscillator for the Quantum Simulation of Chemical Activation
 Taming Rydberg Decay with Measurement-Based Quantum Computation
+Qubit-Scalable CVRP via Lagrangian Knapsack Decomposition and Noise-Aware Quantum Execution
+Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction
+Quantum limits on squeezing
+Dual Role of Squeezed-Reservoir in Quantum Phase Synchronization: Boosting and Blockade
+Adaptable Route to Fast Coherent State Transport via Bang-Bang-Bang Protocols
