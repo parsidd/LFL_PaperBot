@@ -3231,3 +3231,12 @@ Optimized thermal control of a dual-wavelength-resonant nonlinear cavity
 Quantum-catalysis-enhanced extractable energy in a qubit quantum battery
 Learning Unified Control of Intrinsic Nonlinear Spin Dynamics in Atomic Qudits for Magnetometry
 Coherent Subgap Transport in Spin-Split Josephson Junctions
+No Tile Left Behind: Multiprogramming for Surface-Code Architectures
+High-fidelity entangling gates and nonlocal circuits with neutral atoms
+Hardware-Efficient Quantum Optimization for Transportation Networks via Compressed Adiabatic Evolution
+System-Level Design of Scalable Fluxonium Quantum Processors with Double-Transmon Couplers
+Towards Quantum Optimised Malware Containment
+Fault-Tolerant Resource Comparison of Qudit and Qubit Encodings for Diagonal Quadratic Operators
+HyPulse: A Pulse Synthesis Framework for Hybrid Qubit-Oscillator Gates on Trapped-Ion Platform
+A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows
+Chaotic Fluctuations in a Universal Set of Transmon Qubit Gates
