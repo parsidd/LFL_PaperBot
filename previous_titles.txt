@@ -3240,3 +3240,10 @@ Fault-Tolerant Resource Comparison of Qudit and Qubit Encodings for Diagonal Qua
 HyPulse: A Pulse Synthesis Framework for Hybrid Qubit-Oscillator Gates on Trapped-Ion Platform
 A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows
 Chaotic Fluctuations in a Universal Set of Transmon Qubit Gates
+Clifft: Fast Exact Simulation of Near-Clifford Quantum Circuits
+High-fidelity iSWAP gate with Double Transmon Coupler
+Galilean boost invariance does not survive the trace: symmetry breaking in open quantum systems
+Magnonic Gottesman-Kitaev-Preskill states
+Parametrically Driven iSWAP Gate Using a Capacitively Shunted Double-Transmon Coupler at the Zero-Flux Sweet Spot
+Learning quantum disentanglement scheduling from reduced states via modular hybrid policies
+A unified framework for magic state distillation and multi-qubit gate-synthesis with reduced resource cost
