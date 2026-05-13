@@ -3318,3 +3318,12 @@ Quantum Differential Equation Solver via Hybrid Oscillator-Qubit Linear Combinat
 Squeezing Enhancement Through Resonant Interference in Multi-ring Resonators
 Passive optical superresolution at the quantum limit
 Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array
+Loss-induced quantum nonreciprocity and entanglement in superconducting qubits
+Breaking the scalability barrier via a vertical tunable coupler in 3D integrated transmon system
+Benchmarking and Resource Analysis for Augmented-Lagrangian Quantum Hamiltonian Descent
+Optimal State Preparation for Impulse Estimation in Gaussian Quantum Systems
+Lower overhead fault-tolerant building blocks for noisy quantum computers
+Quantum illumination with nonzero-mean signal-idler states via noise-enhanced heterodyne work extraction
+Nonequilibrium thermometry via an ensemble of initially correlated qubits
+Practical Quantum Federated Learning for Privacy-Sensitive Healthcare: Communication Efficiency and Noise Resilience
+Probing Excited-State Dynamics of Transmon Ionization
