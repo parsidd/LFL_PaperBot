@@ -3327,3 +3327,6 @@ Quantum illumination with nonzero-mean signal-idler states via noise-enhanced he
 Nonequilibrium thermometry via an ensemble of initially correlated qubits
 Practical Quantum Federated Learning for Privacy-Sensitive Healthcare: Communication Efficiency and Noise Resilience
 Probing Excited-State Dynamics of Transmon Ionization
+Coherent control of spinmons
+Scalable Spin Qubit Architecture with Donor-Cluster Arrays in Silicon
+The $\gamma_c$-Peak: Covariant Recovery on Four Organic Qubit Platforms
