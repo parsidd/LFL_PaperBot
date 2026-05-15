@@ -3330,3 +3330,10 @@ Probing Excited-State Dynamics of Transmon Ionization
 Coherent control of spinmons
 Scalable Spin Qubit Architecture with Donor-Cluster Arrays in Silicon
 The $\gamma_c$-Peak: Covariant Recovery on Four Organic Qubit Platforms
+HQTN-SER: Speech Emotion Recognition with Hybrid Quantum Tensor Networks
+Quantum battery optimized by parametric amplification
+Fraxonium: Fractional fluxon states for qudit encoding
+Blind Quantum Computation on a Modular Superconducting Processor
+Nonlinear Hamiltonians and Boolean satisfiability
+Nonlocal Topological Maxwell Demon Teleporting Ergotropy via Surface-Code Quantum Error Correction
+Experimental signatures of a $\hat{Z}\hat{X}$ beam-splitter interaction between a Kerr-cat and transmon qubit
