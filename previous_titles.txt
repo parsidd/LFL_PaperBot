@@ -3362,3 +3362,11 @@ Precision limits for time-dependent quantum metrology under Markovian noise
 Universal Jaynes-Cummings Control of an Oscillator
 Detecting nonclassicality in randomly-displaced copies of a squeezed state
 Optimizing the Frequency Positioning of Tunable Couplers in a Circuit QED Processor to Mitigate Spectator Effects on Quantum Operations
+Statistical Quantum Phase Estimation: Extensions and Practical Considerations
+Non-Stationary Decoherence in Superconducting Qubits: Memory Multi-Fractional Brownian Motion and a Time-Dependent Quantum Brownian Motion Extension
+Towards Fair Benchmarking of Quantum Transfer Learning for Visual Classification
+Quantum-enhanced distributed network sensing using multiple quantum resources
+Photolithography-Only Fabrication of Transmons Using Double-Oblique Evaporation
+Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation
+Beyond the Purcell Effect: Controlling Pure Quantum Dephasing with Spin Noise Metasurfaces
+PureMagic: A Dynamic Scheduler for Lattice Surgery
