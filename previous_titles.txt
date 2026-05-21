@@ -3370,3 +3370,11 @@ Photolithography-Only Fabrication of Transmons Using Double-Oblique Evaporation
 Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation
 Beyond the Purcell Effect: Controlling Pure Quantum Dephasing with Spin Noise Metasurfaces
 PureMagic: A Dynamic Scheduler for Lattice Surgery
+Halving the cost of QROM
+Compact narrowband photon-pair generation by slow-light spectral engineering
+WSi weak link element with a non-sinusoidal current-phase relation
+Strongly-coupled non-Markovian waveguide QED with input-output HEOM
+Quantum theory of a three-photon Kerr parametric oscillator
+Towards transistor-based quantum computing
+PIQC: Scalable Distributed Quantum Computing via Photonic Integration of Designed Molecular Quantum Nodes
+Encoding classical data into the squeezing of noisy-states for plasmonic communication
