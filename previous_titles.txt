@@ -3390,3 +3390,14 @@ Information transfer along the causal lightcone of a brickwork quantum circuit
 Optimizing Parallel Execution of Commuting Pauli Product Rotations
 Hybrid Quantum-Classical Corrective Diffusion Modeling for Meteorological Downscaling
 Twinned Dynamical Decoupling
+Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale
+Quantum non-demolition measurements as a practical primitive for fault-tolerant computation against biased noise
+Performance Limits of Fault-Tolerant Quantum Error Correction Schemes
+Transformer refined quantum sampling for strongly correlated electronic structure
+QML-PipeGuard: Drift-Aware Behavioral Fingerprinting for Quantum Machine Learning Pipeline Integrity
+Dispersive readout of cavity-coupled solid-state sensor with near-unity readout fidelity
+Rethinking Expressibility-Trainability Trade-off in Hybrid Quantum Neural Networks
+Unified Flux Control Architecture for Fluxonium Qubits
+Asymptotically Optimal Depth Fermionic Permutation on 2D Grid Quantum Architecture without Ancillas
+Trained quantum neural networks are Gaussian processes
+Transpiler-Architecture Co-Design to Curb Clifford Costs in Fault-Tolerant Quantum Computing
