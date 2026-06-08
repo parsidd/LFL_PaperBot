@@ -3478,3 +3478,7 @@ Rapid Gaussian Boson Sampling Circuit Screening for GKP States Creation via a Tw
 Barbell Codes: qLDPC Codes for Superconducting Quantum Hardware
 Breakeven demonstration of quantum low-density parity-check codes
 Practical Limits to Single-Mode Vacuum Squeezing with a SNAIL Parametric Amplifier
+A superconducting surface-code processor with lattice-surgery logical operations
+Contacting Josephson Junctions via Airbridges in Superconducting Circuits
+Suppression of Quasiparticle Poisoning to $10^{-11}$ Levels in Superconducting Qubits via Infrared Shielding
+Coherent versus stochastic error injection on a repetition-code logical qubit in superconducting hardware
