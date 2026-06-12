@@ -3514,3 +3514,11 @@ A quantum implementation of high-order power method for estimating geometric ent
 Residual-Squeezing Mechanism of Mismatch in Inverse-Squeezing Kennedy Receivers
 Nonlocal continuous-variable gates by amplified optical connections
 Optical Tautochrone and Squeezing Dynamics in Nonuniform Lattices
+Theoretical Study for Generating Optical GKP State via a Single-Photon-Added Squeezed Vacuum
+Block algebra for morphing circuits
+Explicit Quantum Circuit Simulation of Nonlinear 1-Dimensional Fluid with Carleman-linearized Boltzmann Method
+QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control
+Simple analytical flux-tuned iSWAP pulses for leakage suppression
+Driven-dissipative entanglement of distant giant atoms
+Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies
+The table maker's quantum search
