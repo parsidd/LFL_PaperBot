@@ -3522,3 +3522,7 @@ Simple analytical flux-tuned iSWAP pulses for leakage suppression
 Driven-dissipative entanglement of distant giant atoms
 Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies
 The table maker's quantum search
+All about quantum error correction: distillation, mitigation, self-correction and beyond
+OQMD: Single-Qubit Rotation Control Improves Low-CNOT Multiclass Quantum Classification
+Correction scheme for molecular total energies from quantum phase estimation under limited qubit resources
+Nanostructure modelling with early fault tolerant quantum computers
