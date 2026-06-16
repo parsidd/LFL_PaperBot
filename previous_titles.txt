@@ -3526,3 +3526,16 @@ All about quantum error correction: distillation, mitigation, self-correction an
 OQMD: Single-Qubit Rotation Control Improves Low-CNOT Multiclass Quantum Classification
 Correction scheme for molecular total energies from quantum phase estimation under limited qubit resources
 Nanostructure modelling with early fault tolerant quantum computers
+High-fidelity two-qubit gates in a 7-qubit register for quantum networks
+Generalized Kerr-Cat Qubit Codes
+Lattice surgery for near-term experimental logical qubit entanglement creation in planar architectures
+Noise-Adaptive Predictive Dynamical Decoupling
+Readout-Induced Leakage in Superconducting Circuits with Nonlinear Couplings
+Enhanced Sensitivity near a Quantum Exceptional Point in the Absence of Engineered Dissipation
+Efficient Magic State Factory Via Transversal Non-Clifford Gate
+Reconstruction of detector error model for quantum error correction
+Detecting basis-dependent hardware errors through spatio-temporal quantum steering
+Preparation of Fractional Quantum Hall States on Quantum Computers
+Fuzzy-processing quantum computation
+Charging Quantum Batteries with Chiral Squeezing
+Adaptively secure unitary designs with constant non-Clifford cost
