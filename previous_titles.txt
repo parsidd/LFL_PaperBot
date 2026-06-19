@@ -3551,3 +3551,14 @@ Stochastic signal sensing with finite energy and dead time at the fundamental qu
 Learning Arbitrary Lindbladians with Quantum Error Correction
 Einstein-Podolsky-Rosen correlations between mechanical oscillators revealed through SU(1,1) interferometry
 Coupled-Mode Equations with Arbitrary Mode Combinations for Kinetic-Inductance Superconducting Traveling-Wave Parametric Devices: Theory and Experimental Validation
+Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid
+Subsystem Quantum Error Correction for Noisy Quantum Metrology
+Optimized Quantum States for Sensing in the Presence of Loss and Phase Noise
+QMCtwin: Master-Equation Simulation of Syndrome Statistics Beyond Pauli Noise
+Operator Learning for efficient Quantum Computation
+Optimal multi-spectral squeezing via deterministic 2D-phase optimization
+Vine Codes: Low-Overhead Quantum LDPC Codes on a Planar Square Grid
+Quantum Batteries as Work Sources for Phase-Locked Parametric Amplification
+Effective Faraday interaction between light and Helium-3 nuclear spins in a multi-pass cell
+Steady-state entanglement of spin qubits mediated by nonreciprocal and chiral magnons
+Application and quantum properties of superpositions of oppositely squeezed states
