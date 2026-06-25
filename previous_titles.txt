@@ -3570,3 +3570,10 @@ When to Skip Syndrome Extraction in Surface-GKP Codes
 A high-fidelity two-qubit gate for multimode superconducting P-mon qubits
 The $\omega$-Effect from a Multimode Squeezed Graviton State
 Logical qubits with erasure conversion using metastable neutral atoms
+High-Rate and Resource-Efficient All-Photonic Quantum Repeater Architectures with 9 km Repeater Spacing
+Routing Codes: High-Rate Quantum LDPC Codes with Short, Parallel Non-Local Connectivity
+A phase-space approach for performing continuous-variable quantum teleportation with a non-Gaussian resource
+Sp(2N, R) interferometry in multi-mode Gaussian bosonic systems for optimal metrology and quantum control
+Benchmarking Dark Matter Search using a Parity-Check Protocol with Machine-Learning Optimized Pulses
+Nonlinear Dynamics of Coherent Parametric Amplification in Multipartite two-level System under Intrinsic Decoherence
+Optimizing Pump Conditions of Parametric Amplifiers for Fast Multiplexed Readout of Superconducting Qubits
