@@ -3599,3 +3599,10 @@ Hybrid Quantum Neighborhood Selection: NISQ-Compatible Combinatorial Optimizatio
 Thermometry with multilevel transmon probes
 Bridging the NISQ and Fault-Tolerant Regimes: Generative-ML-Assisted Quantum Selected CI for Molecular Simulations
 Cavity-mediated probabilistic magic $T$-gate injection
+Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning
+Leakage Mobility and Passive Leakage Removal in Transmons with Tunable Couplers
+Bias-Preserving Gates and Quantum Error Correction With Dual-Rail Cat Codes
+Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement
+Quantum-Informed Portfolio Selection: An End-to-End Pipeline Validated on Trapped-Ion Hardware with Real Market Data
+Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology
+Fast coherent control of a charge qubit on solid neon with a spin-qubit-compatible resonator
