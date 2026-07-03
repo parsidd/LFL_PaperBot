@@ -3606,3 +3606,10 @@ Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality
 Quantum-Informed Portfolio Selection: An End-to-End Pipeline Validated on Trapped-Ion Hardware with Real Market Data
 Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology
 Fast coherent control of a charge qubit on solid neon with a spin-qubit-compatible resonator
+Decohered toric code under quantum damping noise and its mapping to a classical spin model
+High-Precision Calibration Workflow Achieves Above $99.9\%$ CZ Gate Fidelity on a Scalable Superconducting Processor
+Surface code logical operations on a superconducting quantum processor
+Partially-Blind Single-Qubit Classification over a Prototype Hybrid Quantum Network
+A transition-metal qubit in diamond with all-optical control and millisecond quantum memory
+Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation
+Optimal stellar rank approximation of squeezed cat states with photon catalysis
