@@ -3630,3 +3630,15 @@ Decoherence Effects on Primordial Black Holes and Scalar-Induced Gravitational W
 Shallow randomized measurement in noisy quantum devices
 Generating Fock state exceeding 10000 excitations with near unit fidelity by adaptive generalized-parity measurement
 Absorption capacity of separable noise: Bell-mixing thresholds on separability and teleportation
+Separating transient leakage exposure from endpoint cancellation in fast transmon single-qubit gates
+Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code
+Attosecond metrology of bright quantum light
+Quantum Channel Polynomial Processing
+Typical-Case Gate Approximation and Arithmetic Obstructions in Quaternionic Single-Qubit Compilation
+Radio frequency readout and control of Ge/SiGe hole spin qubits with a global accumulation gate
+Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons
+Comparison of spin-qubit architectures for quantum error-correcting codes
+Measure and Forget Dynamics in Random Circuits
+Asymmetry effects in homodyne and heterodyne measurements: Positive operator-valued measures and asymptotic security of Gaussian-continuous-variable quantum key distribution
+Scalable quantum resources with short-range interacting spin-$\frac12$ chains
+Programmable optical parametric amplifier synthesizer for cubic phase states and amplified Schrodinger cat states
