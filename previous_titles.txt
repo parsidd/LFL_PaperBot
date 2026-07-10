@@ -3647,3 +3647,9 @@ Quantum error correction of a grid-state qubit with state preparation and measur
 Multi-stage Quantum Amplifier Readout Chain
 Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems
 Characterizing Phase Fragility via Algorithmically Prepared Ancillas in Repeated-Interaction Models
+Observation of coherent flux-charge interaction in a gate-tunable fluxonium
+Engineering Nonclassical States via the Dynamical Casimir Effect
+Stroboscopic Stabilization of Cat Qubits
+A Nonstabilizerness Resource Law for Universal Quantum State Purification
+Plaquette: A hardware-aware design platform for fault-tolerant quantum computers
+Planar fault-tolerant logical measurements with low qubit overhead
