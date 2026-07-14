@@ -3659,3 +3659,19 @@ Superconducting singlet-triplet qubits
 Qubit-Boson Hybrid Beam-Splitter Gate with Kerr Nonlinearity in Circuit QED for Many-Body Dynamics
 Majorana parity qubit in coupled minimal Kitaev chains
 Quantum Computing Demonstration of the Polaron-Molecule Transition on a NISQ Device
+Ergotropic and passive contributions on the phase-space information geometry of Gaussian states
+Branch-resolved Pauli-block spectroscopy of residual conditional phase in two-qubit gates
+MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery
+Connectivity-induced surface-loss penalty in superconducting qubit-coupler lattices
+Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems
+States dressing analysis in a transmon-transmon-bus system
+Quantum Simulation of Strongly Correlated Fermion-Phonon Models in Circuit QED
+Multi-Stage Mamba-Based Architecture for Fast and Scalable Superconducting Qubit Readout
+Quantum Arithmetic Circuits in Public-Key Cryptography
+Operational Concealment of Measurement Incompatibility by Quantum Channels
+Optimal operating temperature for industry-compatible silicon spin quantum computing: colder is not necessarily better
+Robust Spin Qubit Coupler via Minimal Kitaev Chain
+High-field Josephson effect enabled by a moir\'e Hofstadter spectrum
+Superconducting Qubits with Altermagnetic Josephson Junctions
+Autonomous Stabilization of Remote Entanglement in a Cascaded Quantum Network
+Distributing Stationary Qubit Entanglement through a Nonlocal Squeezed Reservoir
