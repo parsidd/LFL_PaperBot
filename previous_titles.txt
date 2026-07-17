@@ -3688,3 +3688,13 @@ Logical Entangling with Phantom Codes in Hypergraph Products
 From stable periodic orbits to many-body chaos: doubly tunable prethermalization via engineering of an emergent band structure
 Quantum Imaginary-Time Evolution with Polynomial Resources in Evolution Time
 Quantum limit of precision for phase estimation in squeezing-enhanced interferometry with a single-mode readout
+Transducer leakage error suppression using invariant-based shortcut
+Nonplanar qubit with tunable gauge symmetry
+Fock-state preparation based on amplitude amplification in cavity QED
+Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network
+Collapse and Inversion of the Josephson Potential in a Strongly Driven Superconducting Circuit
+Improving Dynamical Decoupling for Trapped-Ion QCCD Quantum Computers
+Quantum Remote Implementation of Hybrid Operations on Hyperstates Using Hyperentangled States
+Towards logical entanglement creation in trivalent planar architectures
+A framework of partial error correction for intermediate-scale quantum computers
+Separate Control of Transient Leakage Exposure and Endpoint Leakage in Fast Transmon Gates
