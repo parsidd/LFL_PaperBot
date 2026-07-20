@@ -3698,3 +3698,15 @@ Quantum Remote Implementation of Hybrid Operations on Hyperstates Using Hyperent
 Towards logical entanglement creation in trivalent planar architectures
 A framework of partial error correction for intermediate-scale quantum computers
 Separate Control of Transient Leakage Exposure and Endpoint Leakage in Fast Transmon Gates
+The Trinity of Markovian Quantum Thermodynamics: Unifying the Axiomatic, Microscopic, and Operational Paradigms
+Boosting State Discrimination in Quantum Brownian Motion Channel via Memory-Induced Coherence Preservation
+Performance Model for Hybrid Quantum-Classical Workflows
+Generation and detection of squeezed light on a single silicon photonic chip
+Benchmarking Hybrid Quantum-Classical Algorithms for Power Grid Optimization Problems
+Agnostic learning of qudit stabilizer states
+Reconstruction of the noise correlation spectral density from the cavity emission in a two-qubit system
+Quantum-classical crossover in fault-tolerant quantum dynamics simulation
+Fast logical operations in quantum LDPC codes using simple resource states
+Fermion parity of an Andreev molecule probed by nonlocal Josephson effect
+Programming with Quantum-Controlled Quantum Channels
+Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system
