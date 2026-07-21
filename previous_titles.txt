@@ -3710,3 +3710,15 @@ Fast logical operations in quantum LDPC codes using simple resource states
 Fermion parity of an Andreev molecule probed by nonlocal Josephson effect
 Programming with Quantum-Controlled Quantum Channels
 Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system
+A Novel Hybrid Quantum Reservoir Computing (nHQRC) for Phase Transition Detection in Non-Equilibrium Dynamical Systems
+Precision dynamics of resonantly enhanced optical parametric amplifiers
+Rigorous characterization of continuous-variable quantum states via optical parametric amplifiers
+Heralded Leakage Detection with Preserved Computational-State Coherence in a Fixed-Frequency Transmon
+Temporal Diffraction Grating for Engineered Superconducting Qubit Dissipation
+Fully-connected three-mode squeezed vacuum: Gaussian entanglement, steering, and collective photon subtraction
+Hardware Robustness of Sample-Based Quantum Diagonalization
+QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction
+Observation of Critical Current Minimum in Super-Honeycomb Josephson Junction Arrays
+Recent Developments and Perspectives in Variational Quantum Eigensolvers for Molecular Electronic Structure: Methods, Tradeoffs, and Benchmarking
+Analytic $C_{\ell_1}$ norm of Coherence Evolution for Bell States under a Two-Qubit Superconducting Hamiltonian
+Biased-Noise Quantum Reed--Solomon Codes and a Tornado Concatenation for Cat Qubits
