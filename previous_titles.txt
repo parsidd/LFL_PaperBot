@@ -3722,3 +3722,10 @@ Observation of Critical Current Minimum in Super-Honeycomb Josephson Junction Ar
 Recent Developments and Perspectives in Variational Quantum Eigensolvers for Molecular Electronic Structure: Methods, Tradeoffs, and Benchmarking
 Analytic $C_{\ell_1}$ norm of Coherence Evolution for Bell States under a Two-Qubit Superconducting Hamiltonian
 Biased-Noise Quantum Reed--Solomon Codes and a Tornado Concatenation for Cat Qubits
+Remote entanglement need not be the bottleneck for modular trapped-ion quantum computing
+Observation of a power transfer controlled by the phase of a quantum superposition
+Simulating the Dicke Model on Qubit-Based and hybrid Qubit-Boson-Based Quantum Computers
+Nonlinear Optics Mediated by Chiral Waveguide QED: Generation of Momentum-anticorrelated Photon Pairs
+Simultaneous calibration of rotation and phase errors in a single experiment
+Limit of spin squeezing in trapped Bose-Einstein condensates
+iSwitch: QEC on Demand via In-Situ Encoding of Bare Qubits for Ion Trap Architectures
