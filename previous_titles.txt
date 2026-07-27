@@ -3747,3 +3747,12 @@ Strategic Plan for Neutral Atom Quantum Computation
 Fault-tolerant quantum algorithms for simulating atomic nuclei
 Quantum error correction and biological error correction: A structural analogy between qubits and neurons
 Graviton-induced which-path decoherence in matter-wave interferometry
+Capacitive Loading in Two-dimensional Fluxonium Quantum Processors
+Low loss superconducting resonators enabled by aluminum microstructural engineering and dielectric trimming
+A route to damage tolerance exceeding $10\%$ in shuttling-equipped quantum processors
+Highly indistinguishable photons from a tin-vacancy spin qubit in diamond
+Automated Flag-based Fault-Tolerant State Preparation using Integer Linear Programming
+Correlated Coherent Errors in Stabilizer Codes: A General Cumulant Framework and Interference-Based Error Suppression
+Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance
+Benchmarking Quantum Simulation of Chemical Hamiltonians using the Sorted-List Encoding
+Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation
