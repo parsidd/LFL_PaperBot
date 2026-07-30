@@ -3784,3 +3784,13 @@ OmniQEC: discovering practical quantum error-correcting codes by an AI scientist
 Predicting the Slow Drift of Nuclear Spin Noise in Semiconductor Spin Qubits
 Gate-Level Quantum Simulation of Nonunitary Linear Dynamics with Hybrid Oscillator-Qubit Architecture
 Higher Josephson Harmonics in a Tunable Double-Junction Transmon Qubit
+State preparation and detection for quantum simulation of particle collisions
+Minimal Counterexamples of the MacWilliams Extension Theorem for Stabilizer Codes
+Finding diagonal logical gates in CSS codes and circuits
+Generative AI Beyond Tokens: Quantum Resource Consumption of IQP Circuits
+Native CCZ Gate with Fluxonium Qubits and a Microwave-Driven Coupler
+Effective Hamiltonians for Predictive Quantum Control
+Hardware-efficient erasure-error detection with an integer fluxonium
+Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Quantum Architectures with Noisy Interfaces
+Enhanced Variational Quantum Kolmogorov-Arnold Network
+Record Loss Sets a Rare-Trajectory Limit on Quantum Purification
