@@ -3804,3 +3804,9 @@ Logical computation with canonical lifted product codes
 On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse
 Pareto Front Engineering of Dynamical Sweet Spots in Superconducting Qubits
 Hybrid Quantum Error Correction and Mitigation by Purification
+Nuclear Spin Squeezing Based on Spin-Exchange Collisions
+Numerical Optimization of Two-Qubit Gates in Silicon Flip-Flop Qubit Arrays under Electrical Control
+Non-Hermitian Quantum Nonlinear Optics with Single Photons
+Erasure surface code circuit without mid-circuit erasure checks
+Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units
+QAdapt: A Noise-Adaptive Neural Pre-Decoding Framework for Quantum Error Correction
