@@ -3825,3 +3825,13 @@ Convergence monitoring of quantum Gibbs samplers
 Squeezing-Fueled Quantum Otto Engine via Measurement-Induced Cooling: The Two-Qubit Quantum Rabi Model
 Arbitrary-Distance Quantum Error Correction with Gauss's Law for $\mathbb Z_2$ Lattice Gauge Theory
 How NOT to build control-target gates in semiconductor quantum dots and beyond
+Quantum error correction at ultra-low overhead
+PACE-QAOA: Physics-Constrained Quantum Optimization for Qubit-Efficient Power System Islanding
+Quantifying Pauli Errors in Single-Photon Resource-State Generation
+Protected measurements for protected superconducting qubits
+On-chip Quantum Measurement of Squeezing Generated from a Silicon Nitride Micro-ring Resonator
+Suppressing Cavity Frequency Noise Using a Kerr Nonlinearity
+Few-photon degenerate parametric resonance in a two-tone driven microwave resonator
+Real-time decoding of quantum error correction codes using high-performance computing
+High-Frequency Gravitational Wave Detection with Superconducting Qubits
+Bounded Dyson maps and cavity-driven transitions in a time-dependent non-Hermitian spin-boson model
