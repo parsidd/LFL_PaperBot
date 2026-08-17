@@ -3892,3 +3892,11 @@ Spectral Localization Principle for Entanglement Harvesting
 Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology
 Floquet Quasiparticle Poisoning of Frozonium
 Inductively-protected Andreev (IPA) spin qubit
+A scalable edge-pass Purcell filter for high-fidelity readout of superconducting qubits
+Entanglement Negativity in Noisy Quantum Volume Sampling
+Exchange-only qubit stabilized by a single-spin qubit
+Native multi-qubit gates on a single-junction unimon circuit
+Non-identical anyonic algebras from compact-field quantum geometry
+QuMIMO Diversity over Discrete-Variable Free-Space Optical Channels
+Visibility-Engineered Multiparameter Sensing in Dispersive Quantum Interferometry: Identifiability, Noise Robustness, and Hardware Emulation
+A First Bound on the Moffat Energy and Thorium-229 Clock as a Probe of the Nonlocal Time-Energy Structure and a Proposed Experiment for the use of Nuclear Entanglement and Squeezed States to Test Nonlocal Quantum Field Theory
