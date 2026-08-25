@@ -3946,3 +3946,15 @@ Qubits for Dark Matter Hunting
 A Hybrid Quantum-Classical Framework for Utility-Scale Edge Detection of Real-World Medical and Geospatial Data
 Spatiotemporal Pauli processes: Quantum combs for modeling correlated noise in quantum error correction
 Fault-tolerant hyper-Ramsey spectroscopy of ultra-narrow clock transitions with dynamical decoupling
+Collective photon echoes in the Tavis-Cummings model: distribution independence, two detuning regimes, and the Dicke ladder
+Emulating non-Markovian system-bath dynamics with parametrically driven cavities
+Scalable Quantum Key Distribution via GHZ Entanglement and Qubit Reuse
+Noise-Symmetry Optimization of Quantum Error-Corrected Metrology
+Surface-Code Quantum Error Correction for Molecular Tweezer Arrays: Encoding, Layout, and Correlated Noise
+Automating detection of Two-Level Systems in Superconducting Qubits
+A Cavity-Interfaced Register of Trapped-Ion Qubits with Multi-Second Coherence
+Spinning giant optomechanical cavity with nonreciprocal self-interference
+Numerical Evaluation of ZX Calculus Optimization for Solovay Kitaev Quantum Circuit Synthesis
+A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems
+Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation
+Quantum-Geometric Length Scale for Long-distance Squeezing in Bosonic Bogoliubov Systems
