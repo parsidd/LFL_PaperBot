@@ -3958,3 +3958,6 @@ Numerical Evaluation of ZX Calculus Optimization for Solovay Kitaev Quantum Circ
 A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems
 Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation
 Quantum-Geometric Length Scale for Long-distance Squeezing in Bosonic Bogoliubov Systems
+Improved Quantum Codes with Transversal T Gates
+Holographic codes seen through ZX-calculus
+Quantum-limited traveling-wave parametric amplifier based on DUV-defined planar structures
