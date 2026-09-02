@@ -3993,3 +3993,11 @@ Engineering multi-photon dissipation with a dc-voltage-biased Josephson junction
 Josephson-Phase Reversal of Non-Bloch Andreev Propagation
 Homological origin of the transversal implementability of logical diagonal gates in quantum CSS codes
 Achieving Heisenberg limit under noisy conditions with quantum Zeno dynamics and dynamical decoupling
+Exact learning of quantum noise with tensor networks
+Parametric amplification of continuous-variable entangled state for loss-tolerant quantum distributed sensing
+Superconducting Flux Memory for Cryogenic Applications
+Thermal screening and critical scaling of quantum energy teleportation in a harmonic chain
+Anticoncentration and entanglement in Gaussian boson sampling
+Completing or Refusing Low-Dimensional Records of Structured Quantum Circuits: Measurement Loss, Compression Loss, and Hardware Drift
+Exactness of the doubly nonnegative relaxation for qubit-output quantum channels
+Quantum Magnetometry with Orientation beyond Steady-State Limits in Cavity-Magnon Systems
