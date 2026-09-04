@@ -4016,3 +4016,8 @@ Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-
 Tuning Boron-Vacancy Qubit Coherence through Layer Number in hBN
 Effective Sub-Quantum Readout for Non-Monochromatic Axion Signals in High-$Q$ Haloscopes
 Qubit Syndrome Measurements with a High-Fidelity Rb-Cs Rydberg Gate
+Optimized Matrix-Product State Simulations of Quantum Error Correction Circuits
+Experimental validation of a compact fault-tolerant architecture for trapped ions
+Energetic Costs of Subspace Quantum Error Correction
+Streaming Belief Propagation on Mixed-Alphabet Tanner Graphs for Practical Quantum Memory
+Mitigating Capacitive Loading Enables Fast Two-Qubit Gates in Highly Connected Fluxonium Quantum Processors
