@@ -4021,3 +4021,13 @@ Experimental validation of a compact fault-tolerant architecture for trapped ion
 Energetic Costs of Subspace Quantum Error Correction
 Streaming Belief Propagation on Mixed-Alphabet Tanner Graphs for Practical Quantum Memory
 Mitigating Capacitive Loading Enables Fast Two-Qubit Gates in Highly Connected Fluxonium Quantum Processors
+Efficient Quantum Error Correction from Three Dimensional Qubit Control
+Residual detuning in the laboratory-frame anti-Jaynes--Cummings model with a squeezed vacuum
+Strong-Drive Limits in Josephson Circuits: From Chaos to an Unbound-Resonance Threshold
+Learning unknown stabilizer codes using product measurements
+A double-resonator coupler for high-fidelity two-qubit gates between superconducting qubits
+TETRIS-Q: Tiling-based Effective Transient-fault Reduction on Interleaved Superconducting Qubits
+Fundamental Limits of Quantum Metrology Beyond Fixed Causal Order
+Parametric and feedback-controlled multiparameter quantum estimation in a double cavity optomechanics: steady and dynamical state
+Proposals for experimentally realizing quantum-autonomous gates
+Statevector-to-Hardware Reconstruction of a Four-Qubit ZZ Quantum Kernel: A Single-Backend Case Study of Three Execution Jobs
