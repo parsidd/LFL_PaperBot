@@ -4038,3 +4038,12 @@ Loss-correcting fault-tolerant quantum computing architecture for neutral atoms
 In situ characterization of a photon-subtraction device via heralding counts and homodyne detection
 Private communication via zero-private-capacity quantum channels
 Qubit-Based Benchmarking of InP HEMT LNAs: Readout Fidelity Versus Power Consumption
+Conditional-squeezing gate in superconducting circuits
+Walking Floquet code circuits for zero-overhead leakage reduction
+Demonstration of a logical Bell-state measurement beyond the linear-optical limit
+On-chip squeezed light in the audio frequency band
+Engineered two-photon dissipative confinement of a Kerr-cat qubit using SISIS quantum circuit refrigerator
+Nonlinear dynamics and mechanical frequency combs with a Meissner-levitated micromagnet
+The generalised semi-Clifford conjecture is false
+High-speed $R_{ZZ}$ gates in Kerr-cat qubits via fast-forward scaling
+Many-body gravitating quantum systems with Bose-Einstein condensates and dipolar analogue
