@@ -4047,3 +4047,12 @@ Nonlinear dynamics and mechanical frequency combs with a Meissner-levitated micr
 The generalised semi-Clifford conjecture is false
 High-speed $R_{ZZ}$ gates in Kerr-cat qubits via fast-forward scaling
 Many-body gravitating quantum systems with Bose-Einstein condensates and dipolar analogue
+Benchmarking the computational power of quantum computers
+Path-Degenerate Quantum Interferometry for Decoherence Mitigation in Gravitational-Wave Detectors
+Sparse-Blossom Decoding in $o(1)$ Time
+Factoring six-digit integers with superconducting quantum circuits
+Extremely Low-Cost Magic State Preparation toward Fault-Tolerant Quantum Computing
+Fast quantum squeezing of a nanomechanical oscillator with an inverted potential
+Unified scaling of transmon sub-resonant parametric drive strength limits
+Error Correction in a Distributed Quantum Computer
+Ultra-Weak-Pump Microwave-to-Optical Quantum Transduction via a Single Color Center
