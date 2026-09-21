@@ -4101,3 +4101,4 @@ Scalable entanglement distribution using encoded hybrid repeater chains
 QECirc: A Community-Driven, FAIR Library of Quantum Error Correction Circuits
 Scalable logical qubits
 Weak-measurement assisted quantum teleportation fidelity enhancement under noise
+Fast universal parametric spin control in an acoustically modulated quantum dot
