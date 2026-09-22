@@ -4102,3 +4102,12 @@ QECirc: A Community-Driven, FAIR Library of Quantum Error Correction Circuits
 Scalable logical qubits
 Weak-measurement assisted quantum teleportation fidelity enhancement under noise
 Fast universal parametric spin control in an acoustically modulated quantum dot
+Extracting Electromagnetic Bare Mode Couplings in Large Superconducting Quantum Processors
+Modular fault-tolerant quantum computing on a non-CSS code
+From IceCube to IT-Sphere: A Hybrid Quantum-Classical GNN for Banking IT Root Cause Analysis
+Performance optimization of cascaded traveling wave Josephson parametric amplifiers
+Resource and entanglement study of a hybrid qudit-qubit quantum algorithm for solving the integer programming problem
+Superconducting qubit based on altermagnets
+Coherence protection of a silicon hole spin qubit with phase-modulated microwave driving
+Frequency collisions in parametrically modulated superconducting circuits
+A Truncated Majorana
