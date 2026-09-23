@@ -4111,3 +4111,6 @@ Superconducting qubit based on altermagnets
 Coherence protection of a silicon hole spin qubit with phase-modulated microwave driving
 Frequency collisions in parametrically modulated superconducting circuits
 A Truncated Majorana
+Adaptive thresholding for scalable measurement-based qubit reset
+Effective Study of Superconducting Quantum Circuits
+Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery
