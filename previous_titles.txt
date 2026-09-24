@@ -4114,3 +4114,12 @@ A Truncated Majorana
 Adaptive thresholding for scalable measurement-based qubit reset
 Effective Study of Superconducting Quantum Circuits
 Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery
+Bosonic Error Correction with Fluxonium
+The logical set of Gaussian states under the stabilizer subsystem decomposition
+Soft decoding for quantum LDPC codes with experimental validation
+Limits for molecular spectroscopy from quantum channel discrimination
+Near-Optimal Bell Nonlocality with GKP and Entangled Cat States
+The quantum lifetime of a future-referential feedback loop: certified index, architecture floor, and thermal bonus
+Thermodynamic Uncertainty Relations in Chaotic Andreev Billiards
+Oxide-Nitride Heteroepitaxy for Low-Loss Dielectrics in Superconducting Quantum Circuits
+Towards Entanglement-Enhanced Atom Interferometry Using Bow-Tie Cavities
