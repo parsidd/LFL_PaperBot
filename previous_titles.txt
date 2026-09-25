@@ -4123,3 +4123,10 @@ The quantum lifetime of a future-referential feedback loop: certified index, arc
 Thermodynamic Uncertainty Relations in Chaotic Andreev Billiards
 Oxide-Nitride Heteroepitaxy for Low-Loss Dielectrics in Superconducting Quantum Circuits
 Towards Entanglement-Enhanced Atom Interferometry Using Bow-Tie Cavities
+The non-equilibrium condensate-like state in multi-mode driven dissipative superconducting quantum circuit
+Classical Capacity and Entanglement Cost of the Amplitude Damping Channel
+A low-temperature entropy source for on-chip true random number generation: universal robustness beyond device quality
+Syndrome measurements enable deterministic fault-tolerant $T$ gates
+Design Principles for Ultra-High-Rate Quantum Codes
+Trading Circuit Depth for Pulse Sparsity in Chromatic Dynamical Decoupling
+A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson System
