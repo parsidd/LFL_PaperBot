@@ -4130,3 +4130,11 @@ Syndrome measurements enable deterministic fault-tolerant $T$ gates
 Design Principles for Ultra-High-Rate Quantum Codes
 Trading Circuit Depth for Pulse Sparsity in Chromatic Dynamical Decoupling
 A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson System
+Quantum advantage in learning single mode bosonic channels
+Optimal noisy sequential multiparameter quantum sensing
+Generation of Photonic Graph States with minimal number of quantum emitters
+Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks
+Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing
+Quantum environment afterglow from broadband excitation spectroscopy in superconducting qubits
+Oracle Distillation
+Amplification of bosonic interactions through squeezing in the presence of decoherence
