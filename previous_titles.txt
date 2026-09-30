@@ -4138,3 +4138,12 @@ Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing
 Quantum environment afterglow from broadband excitation spectroscopy in superconducting qubits
 Oracle Distillation
 Amplification of bosonic interactions through squeezing in the presence of decoherence
+Digital Quantum Algorithms for Generating and Utilizing Spin Squeezed States
+Root-system structure of sloppiness in passive Gaussian metrology
+A quantum thermal machine surpassing the classical thermodynamic limit on precision
+Directional transfer from coherence to longitudinal polarization and algebraic storage in a transmon with Markovian dephasing and a glassy environment: A non-Markovian fractional renewal model
+Optimal Quantum Junta Testing without Inverse Queries
+Universal quantum coding
+Experimental Realization of the Markov Chain Monte Carlo Algorithm on a Quantum Computer
+Projector Quantum Variational Ansatz
+Spectral Localization in Cavity-Mediated Entanglement Harvesting
