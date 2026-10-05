@@ -4177,3 +4177,19 @@ Hardware-Efficient Ground-State Preparation using Variational Imaginary-Time Maj
 Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements
 Quantum squeezing cannot beat the standard quantum limit
 Hierarchical Quantum Logical Processor with Amortized Long-Range Connectivity
+Halving the cost of QROM again via dense encoding
+Investigating entanglement dynamics with dynamical decoupling together with initial qubit-reservoir correlations
+SMP: A General Hyperedge-Based Framework for Circuit-Level Quantum Error Correction
+Quantum Error-Corrected Memories Keep Proper Time
+Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation
+Pulse-resolved post-generation phase control of squeezed light at 93 MHz with a bulk lithium-niobate modulator
+Breaking the chain: geometry-native state preparation with ASPIRE
+Fault-tolerant and fully addressable unitary logical gates via round-robin sparsification
+The exact LCU sampling overhead of collective diagonal unitaries: resonances and a continued-fraction dichotomy
+Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules
+Efficient Block Encoding of Structured Hamiltonians by Separating Where and What
+SpiderCSS: Scalable Fault-Tolerant CSS State Preparation
+Evolving Hybrid Quantum-Classical Architectures for Image Classification
+Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins
+WISER: Systematic Design-Space Exploration of Trapped Ions with Multiplexed Control
+Enhanced Dark Matter Quantum Sensing via Phase-Space Geometric Interferometry
