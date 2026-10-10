@@ -4229,3 +4229,4 @@ Quantum Co-Design of Inhomogeneous Many-Body Neutrino Fast Flavor Transformation
 Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits
 Tunable Ultrastrong Magnon-Magnon Coupling and Squeezed States in a Triaxial Van der Waals Antiferromagnet
 Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling
+Breakdown of the Kerr-Cat Qubit Tunneling Time Induced by Auxiliary Circuit Modes
