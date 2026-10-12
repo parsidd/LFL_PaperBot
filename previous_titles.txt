@@ -4230,3 +4230,9 @@ Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circ
 Tunable Ultrastrong Magnon-Magnon Coupling and Squeezed States in a Triaxial Van der Waals Antiferromagnet
 Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling
 Breakdown of the Kerr-Cat Qubit Tunneling Time Induced by Auxiliary Circuit Modes
+Correlated Pair Creation with Positive- and Negative-Frequency Oscillators in a Trapped-Ion Quantum Simulator
+Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits
+Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes
+Superconducting-antiqubit simulation enables optimal phase estimation via unitary inversion
+Purcell-Engineered Hybrid Coupler for Leakage-Suppressed Robust CZ Gates
+Breaking Memory Bottlenecks in Quantum Control Systems for More Precise Experiments and Higher Throughput Computing
