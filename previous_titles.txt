@@ -4256,3 +4256,12 @@ Energetics of Fault-Tolerant Spin-Qubit Quantum Computation
 SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs
 Clock-transition-enabled long electron spin coherence of telecom emitters in CeO$_2$
 Coherent-State Kernels for Composite Quantum Operations
+Quantum Sensitivity of $N$-Component Cat States
+Solving Large-Scale Parameter Inference in Controllable Nuclear Fusion via Coherent Ising Machines and Block Coordinate Descent
+Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor
+Multiscale Quantum-Classical Simulation of Protein Autoproteolysis in a Million-Atom Membrane Environment
+Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier
+Learning Midcircuit Measurement Backaction from Three Repeated Measurements
+Path-Degenerate Quantum Interferometry for Loss Resilience in Gravitational-Wave Detectors
+Photon-stimulated decay of $\chi$-matched ancillas causes unheralded bit flips in bosonic codes
+Scalable Tomography of Coherent Noise via Stabilizer-Code Polarization
