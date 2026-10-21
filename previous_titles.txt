@@ -4265,3 +4265,15 @@ Learning Midcircuit Measurement Backaction from Three Repeated Measurements
 Path-Degenerate Quantum Interferometry for Loss Resilience in Gravitational-Wave Detectors
 Photon-stimulated decay of $\chi$-matched ancillas causes unheralded bit flips in bosonic codes
 Scalable Tomography of Coherent Noise via Stabilizer-Code Polarization
+Active isolation of transmon readout with a tunable inductive bridge
+Optimal four-copy detection of the three-tangle and its fault-tolerant cost
+Single-photon time qubit: Quantum-vacuum control and complementarity of the arrow of time
+Multimode Parametric Amplifier for K-Band Quantum Measurements
+Controlled-Z Gates via Floquet Coupling to Two Auxiliary States in Transmon Circuits
+Parallel Teleportation via AME(5,2) States on IBM Quantum Hardware
+CO$\Phi$ - COmpiling PHotonics into dIgital quantum circuits
+Quantum Simulation of the Static Yukawa Model via Effective Particles on a Trapped-Ion Quantum Simulator
+Searching for axions with quantum interferometry
+QML-PipeGuard: Detecting Channel-Substitution Attacks on Quantum Machine Learning Pipelines in Untrusted Clouds
+Operator learning for efficient quantum computation
+Quantum-Classical Iterative Refinement for the Pressure-Poisson Equation on NISQ Hardware
