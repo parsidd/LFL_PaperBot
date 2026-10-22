@@ -4277,3 +4277,15 @@ Searching for axions with quantum interferometry
 QML-PipeGuard: Detecting Channel-Substitution Attacks on Quantum Machine Learning Pipelines in Untrusted Clouds
 Operator learning for efficient quantum computation
 Quantum-Classical Iterative Refinement for the Pressure-Poisson Equation on NISQ Hardware
+Local Clifford equivalence to CSS codes: Polynomial-time classification and conversion
+Bias-Preserving Entanglement of Kerr-Cat Qubits with an ATS Coupler
+Can Quantum Layers offer Performance and Security Advantages in Vision-Language Models?
+Photon Correlations Control Quantum Fisher Information in Coherent Multidimensional Spectroscopy
+Quantum-Enhanced Matterwave Interferometry in a Ring Waveguide
+Superconducting parametric amplifiers based on arrays of unequal Josephson junction elements
+High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence
+Injection is all you need: parallel universal logic in high-rate concatenated self-dual codes
+Single-step phase-engineered pulse for active readout cavity reset with a known qubit state
+Depth dependence of entanglement and circuit complexity in random linear optical networks
+Constructing and characterising anharmonic potentials in a harmonic oscillator
+Quantum Sensing Using Geometrical Phase in Qubit-Oscillator Systems
