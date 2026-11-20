@@ -1,8 +1,10 @@
 name: PaperBot LFL
 
+
 on:
   schedule:
-    - cron: '0 15 * * *' # Runs at 8 AM PST (UTC-7) [Update this to your desired time]
+    - cron: '0 8 * * *'
+      timezone: 'America/Los_Angeles'
   workflow_dispatch:
 
 jobs:
