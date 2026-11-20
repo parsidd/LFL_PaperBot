@@ -4289,3 +4289,15 @@ Single-step phase-engineered pulse for active readout cavity reset with a known 
 Depth dependence of entanglement and circuit complexity in random linear optical networks
 Constructing and characterising anharmonic potentials in a harmonic oscillator
 Quantum Sensing Using Geometrical Phase in Qubit-Oscillator Systems
+Modeling couplings and quench dynamics of hundred-qubit quantum processors
+A measurement-free quantum error correction protocol for superconducting cavities
+Tunable source of entangled microwaves by nonlinear scattering of magnons
+Generation of coherent-state Schr\"{o}dinger cat states in a two-photon Jaynes-Cummings model implemented with Josephson junctions
+Theory of Particle Scattering on Superconducting Qubits: From Single Devices to Quantum Arrays
+Enhancing Kerr-Cat Qubit Coherence with Engineered Dissipation
+RELIQ: Optimizing Parallel Execution of Commuting Pauli Product Rotations
+QuasiStim: Scalable Accurate Non-Pauli Noise Simulation for Fault-Tolerant Quantum Circuits
+Beyond Robustness of Magic: Quantifying Quantum State Convertibility
+QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control
+Extension of coherence time beyond breakeven point using only drives and dissipation
+Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction
