@@ -4301,3 +4301,10 @@ Beyond Robustness of Magic: Quantifying Quantum State Convertibility
 QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control
 Extension of coherence time beyond breakeven point using only drives and dissipation
 Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction
+Stinespring's Dilation, Universal-NOT, and Limitations of Quantum Uncoupled Learning
+Logical qubits with geometrically enhanced energetic and parametric protection
+RF-free control of nuclear spins with color centers in silicon carbide
+Thermal Quantum Correlations in Coupled Andreev Spin Qubits with Tunable Superconducting Phase and Spin Orbit Interaction
+A State-of-the-art Squeezed-Light Source for Hybrid Quantum Photonics: Current Performance and Remaining Challenges
+A Unified Protocol for Arbitrary Z Rotations of a Class of Bosonic cQED Qubits
+Time-Switching Energy-Harvesting Quantum Relay-Assisted FSO Communication with Displaced Squeezed Signaling
