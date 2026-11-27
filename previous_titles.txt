@@ -4309,3 +4309,11 @@ A State-of-the-art Squeezed-Light Source for Hybrid Quantum Photonics: Current P
 A Unified Protocol for Arbitrary Z Rotations of a Class of Bosonic cQED Qubits
 Time-Switching Energy-Harvesting Quantum Relay-Assisted FSO Communication with Displaced Squeezed Signaling
 Syndrome Resampling Enhances Quantum Error Correction Thresholds
+NISQ Preparation of Conditional Thermal States for Precision Thermometry
+A scalable dense silicon qubit architecture with logical operations
+Amatlas: A 2D Array Architecture for Union-Find Decoding Without Global Coordination
+Structure theorem for quantum limit cycle attractors: A geometric path-integral approach
+Reproducible distributions of energy-relaxation times in superconducting qubits from broadband SWAP spectroscopy
+TyxonQ: A Workflow Layer for Quantum Computing in Chemistry
+Quantum theory of a three-photon Kerr parametric oscillator: from exact solution to the Kerr-cat qutrit
+Gate-tunable spin splitting for Andreev spin qubits in Ge quantum well heterostructures
